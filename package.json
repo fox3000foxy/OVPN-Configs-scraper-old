@@ -1,0 +1,24 @@
+{
+  "name": "ovpn-configs-scraper",
+  "version": "1.0.0",
+  "description": "\"# OVPN-Configs-scraper\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fox3000foxy/OVPN-Configs-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fox3000foxy/OVPN-Configs-scraper/issues"
+  },
+  "homepage": "https://github.com/fox3000foxy/OVPN-Configs-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "puppeteer": "^24.17.0"
+  }
+}
