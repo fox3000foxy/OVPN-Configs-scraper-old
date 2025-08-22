@@ -1343,22 +1343,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.110.55.133"
   },
-  "122.99.21.46": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "TPE",
-    "regionName": "Taipei City",
-    "city": "Taipei",
-    "zip": "",
-    "lat": 25.053,
-    "lon": 121.5259,
-    "timezone": "Asia/Taipei",
-    "isp": "KE-ING",
-    "org": "KE-ing Co, Ltd",
-    "as": "AS9416 Hoshin Multimedia Center Inc.",
-    "query": "122.99.21.46"
-  },
   "119.83.37.78": {
     "status": "success",
     "country": "Japan",
@@ -1934,5 +1918,21 @@
     "org": "NeocomISP Limited",
     "as": "AS133200 NeocomISP Limited",
     "query": "103.23.139.83"
+  },
+  "78.157.231.174": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "\"SKTV+\" LLC",
+    "org": "Sktv+ Llc.",
+    "as": "AS42742 InterkamService LLC",
+    "query": "78.157.231.174"
   }
 }
