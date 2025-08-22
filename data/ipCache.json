@@ -607,6 +607,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
+  "73.158.151.147": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Fremont",
+    "zip": "94536",
+    "lat": 37.5625,
+    "lon": -122.0004,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications",
+    "org": "Comcast IP Services, L.L.C.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.158.151.147"
+  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -1471,22 +1487,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "180.56.129.218"
   },
-  "187.250.42.242": {
-    "status": "success",
-    "country": "Mexico",
-    "countryCode": "MX",
-    "region": "BCN",
-    "regionName": "Baja California",
-    "city": "Tijuana",
-    "zip": "22170",
-    "lat": 32.4336,
-    "lon": -116.9607,
-    "timezone": "America/Tijuana",
-    "isp": "Uninet S.A. de C.V.",
-    "org": "Telefonos del Noroeste, S.A. de C.V",
-    "as": "AS8151 UNINET",
-    "query": "187.250.42.242"
-  },
   "120.29.134.202": {
     "status": "success",
     "country": "South Korea",
@@ -1599,22 +1599,6 @@
     "as": "AS9365 its communications Inc.",
     "query": "175.177.46.41"
   },
-  "210.99.216.226": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.99.216.226"
-  },
   "175.131.94.111": {
     "status": "success",
     "country": "Japan",
@@ -1630,6 +1614,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.131.94.111"
+  },
+  "210.99.216.226": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.99.216.226"
   },
   "123.200.32.254": {
     "status": "success",
