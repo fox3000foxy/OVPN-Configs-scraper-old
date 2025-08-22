@@ -3,6 +3,7 @@ import path from 'path';
 import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList.js';
 import { getVpnList as OPL } from './api/OPL-getVpnList.js';
 import { bulkIpLookup } from './api/getIPInfo.js';
+import simpleGit from 'simple-git';
 // --- Ajout de la fonction convertOvpnConfig ---
 function convertOvpnConfig(config) {
     const supportedCiphers = [
@@ -76,4 +77,22 @@ async function main() {
     fs.writeFileSync(path.join(dataDir, 'ips.json'), JSON.stringify(allIps, null, 2));
     console.log('Done!');
 }
-main();
+async function loop() {
+    const git = simpleGit();
+    while (true) {
+        try {
+            await main();
+            // Git add, commit, push
+            await git.add('./*');
+            const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
+            await git.commit(`Update ${date} GMT`);
+            await git.push();
+            console.log('Git push done!');
+        }
+        catch (e) {
+            console.error('Erreur dans main ou git:', e);
+        }
+        await new Promise(res => setTimeout(res, 60000)); // 1 minute
+    }
+}
+loop();
