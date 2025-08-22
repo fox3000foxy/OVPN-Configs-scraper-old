@@ -1311,22 +1311,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.60.124.202"
   },
-  "131.129.141.44": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Narita",
-    "zip": "286-0041",
-    "lat": 35.7647,
-    "lon": 140.2927,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "131.129.141.44"
-  },
   "121.119.11.100": {
     "status": "success",
     "country": "Japan",
@@ -1342,6 +1326,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT Communications Corporation",
     "query": "121.119.11.100"
+  },
+  "131.129.141.44": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Narita",
+    "zip": "286-0041",
+    "lat": 35.7647,
+    "lon": 140.2927,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "131.129.141.44"
   },
   "125.207.202.184": {
     "status": "success",
