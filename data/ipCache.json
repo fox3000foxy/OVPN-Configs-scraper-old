@@ -959,22 +959,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.36.66"
   },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
-  },
   "112.145.244.240": {
     "status": "success",
     "country": "South Korea",
@@ -990,6 +974,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.145.244.240"
+  },
+  "1.246.154.63": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "28515",
+    "lat": 36.6378,
+    "lon": 127.4838,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.246.154.63"
   },
   "183.97.173.95": {
     "status": "success",
