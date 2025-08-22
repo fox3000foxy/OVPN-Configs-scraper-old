@@ -9,7 +9,7 @@ OVPN-Configs-scraper is a Node.js tool that automatically collects free OpenVPN 
 - Export of configurations to a dedicated folder.
 
 ## Prerequisites
-- Node.js >= 18
+- Node.js >= 20
 - npm
 
 ## Installation
@@ -99,6 +99,7 @@ Or download individually:
 | 219.100.37.16 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.16.ovpn) |
 | 219.100.37.109 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.109.ovpn) |
 | 219.100.37.208 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.208.ovpn) |
+| 219.100.37.205 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.205.ovpn) |
 | 219.100.37.102 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.102.ovpn) |
 | 219.100.37.50 | Japan | SoftEther | VPNGate | [Download](./data/configs/219.100.37.50.ovpn) |
 | 118.237.170.123 | Japan | Sony Network Communications Inc | OPL | [Download](./data/configs/118.237.170.123.ovpn) |
@@ -123,7 +124,6 @@ Or download individually:
 |---|---|---|---|---|
 | 91.205.25.139 | Russia | Digital Networks Ltd | VPNGate | [Download](./data/configs/91.205.25.139.ovpn) |
 | 217.150.74.177 | Russia | ISP Podryad Nets | VPNGate | [Download](./data/configs/217.150.74.177.ovpn) |
-| 185.130.83.204 | Russia | JSC "ER-Telecom Holding" | VPNGate | [Download](./data/configs/185.130.83.204.ovpn) |
 | 185.82.196.19 | Russia | Maxima, LLC | OPL | [Download](./data/configs/185.82.196.19.ovpn) |
 | 92.127.73.173 | Russia | OJSC "Sibirtelecom" | VPNGate | [Download](./data/configs/92.127.73.173.ovpn) |
 | 176.62.100.30 | Russia | Omskie kabelnye seti Ltd. | VPNGate | [Download](./data/configs/176.62.100.30.ovpn) |
@@ -149,9 +149,9 @@ Or download individually:
 | 221.149.126.56 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/221.149.126.56.ovpn) |
 | 121.186.197.223 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/121.186.197.223.ovpn) |
 | 183.97.153.219 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/183.97.153.219.ovpn) |
-| 211.228.234.43 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/211.228.234.43.ovpn) |
 | 59.6.15.42 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/59.6.15.42.ovpn) |
 | 14.33.224.178 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/14.33.224.178.ovpn) |
+| 220.72.29.12 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/220.72.29.12.ovpn) |
 | 125.139.95.1 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/125.139.95.1.ovpn) |
 | 221.162.193.234 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/221.162.193.234.ovpn) |
 | 61.73.162.4 | South Korea | Korea Telecom | VPNGate | [Download](./data/configs/61.73.162.4.ovpn) |

@@ -9,7 +9,7 @@ OVPN-Configs-scraper is a Node.js tool that automatically collects free OpenVPN 
 - Export of configurations to a dedicated folder.
 
 ## Prerequisites
-- Node.js >= 18
+- Node.js >= 20
 - npm
 
 ## Installation
