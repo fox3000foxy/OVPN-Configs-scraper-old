@@ -1519,22 +1519,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.105.172"
   },
-  "115.162.118.226": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "115.162.118.226"
-  },
   "1.66.34.99": {
     "status": "success",
     "country": "Japan",
@@ -1550,6 +1534,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.99"
+  },
+  "115.162.118.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "115.162.118.226"
   },
   "184.82.151.164": {
     "status": "success",
