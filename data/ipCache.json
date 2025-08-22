@@ -1007,22 +1007,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
-  "42.82.223.31": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongju",
-    "zip": "381",
-    "lat": 35.8413,
-    "lon": 129.2111,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "LG Hellovision",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "42.82.223.31"
-  },
   "46.181.6.196": {
     "status": "success",
     "country": "Russia",
