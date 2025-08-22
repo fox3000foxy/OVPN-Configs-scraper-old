@@ -23,6 +23,13 @@ OVPN-Configs-scraper is a Node.js tool that automatically collects free OpenVPN 
 >  npm install
 >  ```
 >
+>  ## Build 
+>  Before running the app, you need to build the TypeScript source files:
+>  ```bash
+>  npm run build
+>  ```
+>  This will compile the TypeScript code into JavaScript in the `dist/` directory.
+> 
 >  ## Usage
 >  To run the scraper and update the configuration files:
 >  ```bash
