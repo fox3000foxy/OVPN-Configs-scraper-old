@@ -97,6 +97,21 @@ async function main() {
   });
   fs.writeFileSync(path.join(dataDir, 'ipCache.json'), JSON.stringify(ipCache, null, 2));
 
+  const READMEText = fs.readFileSync(path.resolve('README.template.md'), 'utf-8');
+  const tableHeader = `| IP | Country | ISP | Provider | Score | Ping | Speed | Config |\n|---|---|---|---|---|---|---|---|`;
+  const tableRows = allServers.map((server: any) => {
+    const info = ipCache[server.ip] || {};
+    const country = info.country || 'Unknown';
+    const isp = info.isp || 'Unknown';
+    const score = server.score !== undefined ? server.score : (server.quality || 'N/A');
+    const ping = server.ping !== undefined ? server.ping : (server.ping_ms || 'N/A');
+    const speed = server.speed !== undefined ? server.speed : (server.bandwidth || server.speed_kbps || 'N/A');
+    const configLink = `[Download](./data/configs/${server.ip}.ovpn)`;
+    return `| ${server.ip} | ${country} | ${isp} | ${server.provider} | ${score} | ${ping} | ${speed} | ${configLink} |`;
+  }).join('\n');
+  const updatedREADME = READMEText.replace('{{ % table % }}', `${tableHeader}\n${tableRows}`);
+  fs.writeFileSync(path.resolve('README.md'), updatedREADME, 'utf-8');
+
   // On peut aussi sauvegarder la liste simple des IPs si besoin
   fs.writeFileSync(path.join(dataDir, 'ips.json'), JSON.stringify(allIps, null, 2));
   console.log('Done!');
