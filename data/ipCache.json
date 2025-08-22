@@ -1007,6 +1007,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "58.136.10.249"
   },
+  "39.111.221.149": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Nagataminami",
+    "zip": "232-0071",
+    "lat": 35.4404,
+    "lon": 139.5877,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.221.149"
+  },
   "131.147.36.66": {
     "status": "success",
     "country": "Japan",
@@ -1711,6 +1727,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.87.77"
   },
+  "182.222.166.21": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "222",
+    "lat": 37.4503,
+    "lon": 126.6701,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.222.166.21"
+  },
   "211.105.109.97": {
     "status": "success",
     "country": "South Korea",
@@ -1806,22 +1838,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.204.167.19"
-  },
-  "103.125.146.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0053",
-    "lat": 35.6893,
-    "lon": 139.6899,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Utilities Europe and Asia Limited",
-    "org": "",
-    "as": "AS206092 Internet Utilities Europe and Asia Limited",
-    "query": "103.125.146.102"
   },
   "125.142.186.87": {
     "status": "success",
@@ -2030,22 +2046,6 @@
     "org": "Starry, Inc",
     "as": "AS395354 Starry, Inc.",
     "query": "38.42.52.163"
-  },
-  "122.128.209.73": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "02543",
-    "lat": 37.5841,
-    "lon": 127.0616,
-    "timezone": "Asia/Seoul",
-    "isp": "CMB DONDAEMOON BROADCASTING",
-    "org": "CMB DONGSEO BROADCASTING",
-    "as": "AS9757 CMB DONDAEMOON BROADCASTING",
-    "query": "122.128.209.73"
   },
   "213.176.120.57": {
     "status": "success",
