@@ -60,6 +60,15 @@ async function main() {
   await ensureDir(dataDir);
   await ensureDir(configsDir);
 
+  simpleGit().pull();
+
+  // Delete old configs
+  fs.readdirSync(configsDir).forEach(file => {
+    if (file.endsWith('.ovpn')) {
+      fs.unlinkSync(path.join(configsDir, file));
+    }
+  });
+
   const [opl, vpngate] = await Promise.all([OPL(), VPNGate()]);
   const allServers = [
     ...opl.servers.map((s: any) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
@@ -70,11 +79,12 @@ async function main() {
   for (const server of allServers) {
     try {
       await saveConfig(server.ip, server.url, configsDir);
-      console.log(`Saved config for ${server.ip}`);
     } catch (e) {
       console.error(`Failed for ${server.ip}:`, e);
     }
   }
+
+  console.log(`Saved ${allServers.length} configs.`);
 
   // Lookup ISP info et sauvegarde du cache enrichi
   const allIps = allServers.map((server: any) => server.ip);
