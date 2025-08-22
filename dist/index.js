@@ -99,7 +99,7 @@ async function main() {
         // Trier les serveurs de ce pays par ISP
         const servers = serversByCountry[country].sort((a, b) => a.isp.localeCompare(b.isp));
         const tableRows = servers.map(server => {
-            const configLink = `[Download](./data/configs/${server.ip}.ovpn)`;
+            const configLink = `[Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/${server.ip}.ovpn)`;
             return `| ${server.ip} | ${server.country} | ${server.isp} | ${server.provider} | ${configLink} |`;
         }).join('\n');
         tableContent += `\n\n### ${country}\n${tableHeader}\n${tableRows}\n`;
