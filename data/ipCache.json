@@ -1103,6 +1103,22 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "125.56.117.10"
   },
+  "133.123.26.148": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "36",
+    "regionName": "Tokushima",
+    "city": "Tokushima",
+    "zip": "770-0861",
+    "lat": 34.0807,
+    "lon": 134.5678,
+    "timezone": "Asia/Tokyo",
+    "isp": "STNet, Incorporated",
+    "org": "Foretune Co., Ltd.",
+    "as": "AS7522 STNet, Incorporated",
+    "query": "133.123.26.148"
+  },
   "5.137.106.120": {
     "status": "success",
     "country": "Russia",
