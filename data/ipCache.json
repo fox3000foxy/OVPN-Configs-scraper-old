@@ -671,22 +671,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
   },
-  "218.151.48.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Gunsan",
-    "zip": "540",
-    "lat": 35.9915,
-    "lon": 126.756,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.151.48.166"
-  },
   "14.132.27.53": {
     "status": "success",
     "country": "Japan",
@@ -702,6 +686,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.27.53"
+  },
+  "218.151.48.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Gunsan",
+    "zip": "540",
+    "lat": 35.9915,
+    "lon": 126.756,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.151.48.166"
   },
   "82.162.191.20": {
     "status": "success",
@@ -1535,6 +1535,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.11.231"
   },
+  "1.53.132.186": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.132.186"
+  },
   "49.228.67.118": {
     "status": "success",
     "country": "Thailand",
@@ -1599,22 +1615,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.172.1.85"
   },
-  "95.27.17.67": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "IVA",
-    "regionName": "Ivanovo Oblast",
-    "city": "Ivanovo",
-    "zip": "153000",
-    "lat": 57.0006,
-    "lon": 40.972,
-    "timezone": "Europe/Moscow",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS8402 PJSC \"Vimpelcom\"",
-    "query": "95.27.17.67"
-  },
   "58.237.222.155": {
     "status": "success",
     "country": "South Korea",
@@ -1630,6 +1630,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.237.222.155"
+  },
+  "95.27.17.67": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IVA",
+    "regionName": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "zip": "153000",
+    "lat": 57.0006,
+    "lon": 40.972,
+    "timezone": "Europe/Moscow",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS8402 PJSC \"Vimpelcom\"",
+    "query": "95.27.17.67"
   },
   "119.207.7.177": {
     "status": "success",
@@ -1998,22 +2014,6 @@
     "org": "mipt campus",
     "as": "AS5467 MIPT-NET",
     "query": "93.175.12.47"
-  },
-  "92.49.154.231": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460000",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Orenburg branch office of VolgaTelecom company",
-    "org": "OJSC \"VolgaTelecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.49.154.231"
   },
   "70.29.169.225": {
     "status": "success",
