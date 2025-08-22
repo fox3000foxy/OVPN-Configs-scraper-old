@@ -815,22 +815,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.129.119.6"
   },
-  "58.138.59.133": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Minamiurawa",
-    "zip": "336-0017",
-    "lat": 35.8475,
-    "lon": 139.6753,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "58.138.59.133"
-  },
   "218.146.77.98": {
     "status": "success",
     "country": "South Korea",
@@ -846,6 +830,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "218.146.77.98"
+  },
+  "58.138.59.133": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Minamiurawa",
+    "zip": "336-0017",
+    "lat": 35.8475,
+    "lon": 139.6753,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "58.138.59.133"
   },
   "182.21.139.78": {
     "status": "success",
@@ -879,22 +879,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.238.197.132"
   },
-  "180.52.41.74": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "180.52.41.74"
-  },
   "219.100.37.110": {
     "status": "success",
     "country": "Japan",
@@ -910,6 +894,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
+  },
+  "180.52.41.74": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "180.52.41.74"
   },
   "106.161.34.210": {
     "status": "success",
@@ -1311,22 +1311,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.60.124.202"
   },
-  "121.119.11.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "106-0042",
-    "lat": 35.6557,
-    "lon": 139.7491,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "121.119.11.100"
-  },
   "131.129.141.44": {
     "status": "success",
     "country": "Japan",
@@ -1342,6 +1326,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "131.129.141.44"
+  },
+  "121.119.11.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "106-0042",
+    "lat": 35.6557,
+    "lon": 139.7491,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "121.119.11.100"
   },
   "125.207.202.184": {
     "status": "success",
@@ -1406,22 +1406,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "124.18.157.30"
-  },
-  "126.28.229.60": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Higashiosaka",
-    "zip": "577-0801",
-    "lat": 34.6667,
-    "lon": 135.583,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.28.229.60"
   },
   "14.3.169.219": {
     "status": "success",
@@ -1535,22 +1519,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.189.235.170"
   },
-  "184.82.151.164": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "72",
-    "regionName": "Suphan Buri",
-    "city": "Suphan Buri",
-    "zip": "72000",
-    "lat": 14.576,
-    "lon": 100.0286,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.82.151.164"
-  },
   "60.69.230.22": {
     "status": "success",
     "country": "Japan",
@@ -1566,6 +1534,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.69.230.22"
+  },
+  "184.82.151.164": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "72",
+    "regionName": "Suphan Buri",
+    "city": "Suphan Buri",
+    "zip": "72000",
+    "lat": 14.576,
+    "lon": 100.0286,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.82.151.164"
   },
   "115.162.118.226": {
     "status": "success",
