@@ -2,7 +2,7 @@ import path from 'path';
 import fs from 'fs';
 
 function readCache() {
-  const ipCachePath = path.resolve('data', 'ip-cache.json');
+  const ipCachePath = path.resolve('data', 'ipCache.json');
   if (fs.existsSync(ipCachePath)) {
     const raw = fs.readFileSync(ipCachePath, 'utf8');
     return JSON.parse(raw);
@@ -16,7 +16,7 @@ function readCache() {
  * @returns {Promise<Object[]>} - Array of lookup results (same order as input)
  */
 export async function bulkIpLookup(ips: string[], chunkSize = 100) {
-  const cache = await readCache();
+  const cache = readCache();
   const uncachedIps: string[] = [];
   const ipIndexMap: Record<string, number[]> = {};
 
