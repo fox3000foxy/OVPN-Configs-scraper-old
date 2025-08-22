@@ -975,6 +975,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.150.220.151"
   },
+  "58.136.10.249": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Phaya Thai",
+    "zip": "10400",
+    "lat": 13.7829,
+    "lon": 100.546,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "58.136.10.249"
+  },
   "60.113.169.122": {
     "status": "success",
     "country": "Japan",
@@ -991,21 +1007,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.169.122"
   },
-  "58.136.10.249": {
+  "39.111.221.149": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Phaya Thai",
-    "zip": "10400",
-    "lat": 13.7829,
-    "lon": 100.546,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "58.136.10.249"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Nagataminami",
+    "zip": "232-0071",
+    "lat": 35.4404,
+    "lon": 139.5877,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.221.149"
   },
   "131.147.36.66": {
     "status": "success",
