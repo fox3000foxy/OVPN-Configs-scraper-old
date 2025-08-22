@@ -847,22 +847,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.210.229.127"
   },
-  "222.159.12.205": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kurume",
-    "zip": "830-0031",
-    "lat": 33.3164,
-    "lon": 130.5099,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTNet",
-    "org": "Fujitsu Limited",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "222.159.12.205"
-  },
   "180.197.7.89": {
     "status": "success",
     "country": "Japan",
@@ -878,6 +862,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.7.89"
+  },
+  "222.159.12.205": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kurume",
+    "zip": "830-0031",
+    "lat": 33.3164,
+    "lon": 130.5099,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTNet",
+    "org": "Fujitsu Limited",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "222.159.12.205"
   },
   "126.38.26.120": {
     "status": "success",
@@ -1006,22 +1006,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.169.122"
-  },
-  "39.111.221.149": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Nagataminami",
-    "zip": "232-0071",
-    "lat": 35.4404,
-    "lon": 139.5877,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.221.149"
   },
   "131.147.36.66": {
     "status": "success",
@@ -1167,22 +1151,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.110.135"
   },
-  "124.98.118.106": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "124.98.118.106"
-  },
   "180.196.175.144": {
     "status": "success",
     "country": "Japan",
@@ -1214,6 +1182,22 @@
     "org": "Japan Network Information Center",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "219.104.41.232"
+  },
+  "124.98.118.106": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0931",
+    "lat": 34.7221,
+    "lon": 135.3254,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "124.98.118.106"
   },
   "122.0.41.177": {
     "status": "success",
@@ -1279,22 +1263,6 @@
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
   },
-  "60.42.86.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "60.42.86.49"
-  },
   "126.37.240.235": {
     "status": "success",
     "country": "Japan",
@@ -1326,6 +1294,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.93.66.150"
+  },
+  "60.42.86.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0931",
+    "lat": 34.7221,
+    "lon": 135.3254,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "60.42.86.49"
   },
   "125.201.64.98": {
     "status": "success",
@@ -1391,22 +1375,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.198.86.220"
   },
-  "184.22.68.10": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10260",
-    "lat": 13.6687,
-    "lon": 100.579,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.68.10"
-  },
   "42.118.19.126": {
     "status": "success",
     "country": "Vietnam",
@@ -1422,6 +1390,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.19.126"
+  },
+  "184.22.68.10": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10260",
+    "lat": 13.6687,
+    "lon": 100.579,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.68.10"
   },
   "116.82.5.94": {
     "status": "success",
