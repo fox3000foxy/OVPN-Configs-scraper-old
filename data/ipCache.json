@@ -1087,22 +1087,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.106.120"
   },
-  "14.38.102.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "178",
-    "lat": 37.0009,
-    "lon": 127.0859,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.38.102.250"
-  },
   "42.148.24.137": {
     "status": "success",
     "country": "Japan",
@@ -1246,22 +1230,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.85.140.220"
-  },
-  "218.38.179.117": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Geumcheon-gu",
-    "zip": "085",
-    "lat": 37.4784,
-    "lon": 126.8982,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.38.179.117"
   },
   "222.98.75.207": {
     "status": "success",
@@ -1823,22 +1791,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.235.107.148"
   },
-  "121.164.128.122": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yeoncheon-gun",
-    "zip": "110",
-    "lat": 38.0948,
-    "lon": 127.0784,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.164.128.122"
-  },
   "220.126.206.103": {
     "status": "success",
     "country": "South Korea",
@@ -1854,6 +1806,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.126.206.103"
+  },
+  "121.164.128.122": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yeoncheon-gun",
+    "zip": "110",
+    "lat": 38.0948,
+    "lon": 127.0784,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.164.128.122"
   },
   "118.70.202.83": {
     "status": "success",
@@ -1950,6 +1918,22 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.57.105"
+  },
+  "77.35.171.96": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690000",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.171.96"
   },
   "213.176.120.57": {
     "status": "success",
