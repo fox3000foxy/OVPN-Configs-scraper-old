@@ -1647,6 +1647,22 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.70.147"
   },
+  "211.241.185.22": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "abcle",
+    "org": "Hinetworks",
+    "as": "AS38661 abcle",
+    "query": "211.241.185.22"
+  },
   "42.124.59.85": {
     "status": "success",
     "country": "Japan",
@@ -1966,22 +1982,6 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.151.98.70"
-  },
-  "109.110.57.105": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Podryad Nets",
-    "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "109.110.57.105"
   },
   "213.176.120.57": {
     "status": "success",
