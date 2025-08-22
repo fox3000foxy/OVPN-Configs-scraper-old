@@ -863,6 +863,38 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.7.89"
   },
+  "61.21.74.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Aihara",
+    "zip": "252-0231",
+    "lat": 35.5765,
+    "lon": 139.3695,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.21.74.112"
+  },
+  "126.214.166.165": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.214.166.165"
+  },
   "60.113.169.122": {
     "status": "success",
     "country": "Japan",
@@ -975,22 +1007,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.36.66"
   },
-  "37.23.210.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Novoaltaysk",
-    "zip": "658082",
-    "lat": 53.411,
-    "lon": 83.9581,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.23.210.1"
-  },
   "24.130.195.104": {
     "status": "success",
     "country": "United States",
@@ -1022,22 +1038,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.97.173.95"
-  },
-  "61.21.74.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Aihara",
-    "zip": "252-0231",
-    "lat": 35.5765,
-    "lon": 139.3695,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.21.74.112"
   },
   "121.130.75.141": {
     "status": "success",
@@ -1087,22 +1087,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.205.9"
   },
-  "113.154.110.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0021",
-    "lat": 35.7238,
-    "lon": 139.9369,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.154.110.135"
-  },
   "164.70.137.225": {
     "status": "success",
     "country": "Japan",
@@ -1118,6 +1102,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "164.70.137.225"
+  },
+  "113.154.110.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0021",
+    "lat": 35.7238,
+    "lon": 139.9369,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.154.110.135"
   },
   "180.196.175.144": {
     "status": "success",
@@ -1327,6 +1327,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.124.51"
   },
+  "116.82.5.94": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "09",
+    "regionName": "Tochigi",
+    "city": "Ashikaga",
+    "zip": "326-0821",
+    "lat": 36.3313,
+    "lon": 139.4476,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "116.82.5.94"
+  },
   "180.198.86.220": {
     "status": "success",
     "country": "Japan",
@@ -1374,22 +1390,6 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.19.126"
-  },
-  "116.82.5.94": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Ashikaga",
-    "zip": "326-0821",
-    "lat": 36.3313,
-    "lon": 139.4476,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "116.82.5.94"
   },
   "106.166.58.192": {
     "status": "success",
