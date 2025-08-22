@@ -1311,6 +1311,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.98.75.207"
   },
+  "126.60.124.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.60.124.202"
+  },
   "121.119.11.100": {
     "status": "success",
     "country": "Japan",
@@ -1342,22 +1358,6 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "131.129.141.44"
-  },
-  "126.60.124.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.60.124.202"
   },
   "101.235.81.130": {
     "status": "success",
@@ -1455,6 +1455,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.140.69.141"
   },
+  "221.121.235.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Inc.",
+    "org": "CCNW",
+    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
+    "query": "221.121.235.53"
+  },
   "58.186.173.62": {
     "status": "success",
     "country": "Vietnam",
@@ -1518,22 +1534,6 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.82.151.164"
-  },
-  "37.140.37.204": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455033",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.37.204"
   },
   "60.69.230.22": {
     "status": "success",
@@ -1839,22 +1839,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.235.107.148"
   },
-  "118.70.202.83": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.70.202.83"
-  },
   "220.126.206.103": {
     "status": "success",
     "country": "South Korea",
@@ -1870,6 +1854,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.126.206.103"
+  },
+  "118.70.202.83": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.70.202.83"
   },
   "121.164.128.122": {
     "status": "success",
