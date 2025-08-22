@@ -751,6 +751,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.111.129.224"
   },
+  "125.14.139.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0001",
+    "lat": 35.704,
+    "lon": 139.6713,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "125.14.139.151"
+  },
   "219.100.37.110": {
     "status": "success",
     "country": "Japan",
@@ -2030,22 +2046,6 @@
     "org": "Starry, Inc",
     "as": "AS395354 Starry, Inc.",
     "query": "38.42.52.163"
-  },
-  "122.128.209.73": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "02543",
-    "lat": 37.5841,
-    "lon": 127.0616,
-    "timezone": "Asia/Seoul",
-    "isp": "CMB DONDAEMOON BROADCASTING",
-    "org": "CMB DONGSEO BROADCASTING",
-    "as": "AS9757 CMB DONDAEMOON BROADCASTING",
-    "query": "122.128.209.73"
   },
   "213.176.120.57": {
     "status": "success",
