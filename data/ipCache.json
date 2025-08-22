@@ -1,4 +1,20 @@
 {
+  "219.100.37.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.112"
+  },
   "222.120.111.19": {
     "status": "success",
     "country": "South Korea",
@@ -175,21 +191,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.187.58.188"
   },
-  "110.66.191.52": {
+  "59.2.145.202": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Otanicho",
-    "zip": "653-0831",
-    "lat": 34.6642,
-    "lon": 135.1447,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "110.66.191.52"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeongeup",
+    "zip": "56137",
+    "lat": 35.601,
+    "lon": 126.9206,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.2.145.202"
   },
   "222.117.186.129": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS6327 Shaw Communications Inc.",
     "query": "70.69.200.251"
   },
-  "121.86.147.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "590-0971",
-    "lat": 34.5963,
-    "lon": 135.4868,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "OPTAGE Inc.",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "121.86.147.16"
-  },
   "219.100.37.49": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +574,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.167"
-  },
-  "219.100.37.196": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.196"
   },
   "219.100.37.168": {
     "status": "success",
@@ -2046,6 +2030,22 @@
     "org": "Starry, Inc",
     "as": "AS395354 Starry, Inc.",
     "query": "38.42.52.163"
+  },
+  "122.128.209.73": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "02543",
+    "lat": 37.5841,
+    "lon": 127.0616,
+    "timezone": "Asia/Seoul",
+    "isp": "CMB DONDAEMOON BROADCASTING",
+    "org": "CMB DONGSEO BROADCASTING",
+    "as": "AS9757 CMB DONDAEMOON BROADCASTING",
+    "query": "122.128.209.73"
   },
   "213.176.120.57": {
     "status": "success",
