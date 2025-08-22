@@ -1,42 +1,12 @@
-import { createRequire } from "module";
-import { promises as fs } from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
+import path from 'path';
+import fs from 'fs';
 
-const require = createRequire(import.meta.url);
-const configs = require("../../configs.json");
-import os from "os";
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-let cachePath: string;
-if (__dirname.includes(".asar")) {
-  // If running from an ASAR archive, use the system temp directory
-  cachePath = path.join(os.tmpdir(), "ipCache.json");
-} else {
-  cachePath = path.resolve(__dirname, "../ipCache.json");
-}
-
-// Ensure cache file exists
-(async () => {
-  try {
-    await fs.access(cachePath);
-  } catch(error) {
-    console.log("IP info cache file not found, creating a new one.");
-    await fs.writeFile(cachePath, "{}", "utf-8");
+function readCache() {
+  const ipCachePath = path.resolve('data', 'ip-cache.json');
+  if (fs.existsSync(ipCachePath)) {
+    const raw = fs.readFileSync(ipCachePath, 'utf8');
+    return JSON.parse(raw);
   }
-})();
-
-async function readCache(): Promise<Record<string, any>> {
-  try {
-    const data = await fs.readFile(cachePath, "utf-8");
-    return JSON.parse(data);
-  } catch {
-    return {};
-  }
-}
-
-async function writeCache(cache: Record<string, any>) {
-  await fs.writeFile(cachePath, JSON.stringify(cache, null, 2), "utf-8");
 }
 
 /**
@@ -78,10 +48,6 @@ export async function bulkIpLookup(ips: string[], chunkSize = 100) {
       cache[ip] = data[idx];
       newResults[ip] = data[idx];
     });
-  }
- 
-  if (Object.keys(newResults).length > 0) {
-    await writeCache(cache);
   }
  
   return ips.map(ip => cache[ip]);

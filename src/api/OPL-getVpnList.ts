@@ -1,8 +1,6 @@
 import puppeteer from "puppeteer";
 import { load } from "cheerio";
 
-import { createRequire } from "module";
-const require = createRequire(import.meta.url);
 const configs = require("../../configs.json");
 
 declare global {
