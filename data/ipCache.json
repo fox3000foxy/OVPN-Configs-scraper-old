@@ -1087,22 +1087,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "125.56.117.10"
   },
-  "14.38.102.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "178",
-    "lat": 37.0009,
-    "lon": 127.0859,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.38.102.250"
-  },
   "42.148.24.137": {
     "status": "success",
     "country": "Japan",
@@ -1182,6 +1166,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.232.238.142"
+  },
+  "118.21.18.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.21.18.215"
   },
   "60.153.147.72": {
     "status": "success",
