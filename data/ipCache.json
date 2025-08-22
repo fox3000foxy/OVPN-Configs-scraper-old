@@ -1023,22 +1023,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.166.255.187"
   },
-  "92.37.143.115": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.37.143.115"
-  },
   "24.130.195.104": {
     "status": "success",
     "country": "United States",
@@ -1054,6 +1038,22 @@
     "org": "Comcast Cable Communications Holdings, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.195.104"
+  },
+  "92.37.143.115": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.143.115"
   },
   "202.226.247.224": {
     "status": "success",
@@ -1583,22 +1583,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.237.222.155"
   },
-  "222.108.203.99": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.108.203.99"
-  },
   "121.191.12.235": {
     "status": "success",
     "country": "South Korea",
@@ -1614,6 +1598,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.191.12.235"
+  },
+  "222.108.203.99": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "076",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.108.203.99"
   },
   "211.105.109.97": {
     "status": "success",
@@ -1647,22 +1647,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.207.7.177"
   },
-  "210.91.65.234": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.91.65.234"
-  },
   "220.79.87.77": {
     "status": "success",
     "country": "South Korea",
@@ -1678,6 +1662,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.79.87.77"
+  },
+  "210.91.65.234": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.91.65.234"
   },
   "211.114.93.139": {
     "status": "success",
@@ -1951,6 +1951,22 @@
     "as": "AS395354 Starry, Inc.",
     "query": "38.42.52.163"
   },
+  "182.213.69.54": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.213.69.54"
+  },
   "93.175.12.47": {
     "status": "success",
     "country": "Russia",
@@ -1966,22 +1982,6 @@
     "org": "mipt campus",
     "as": "AS5467 MIPT-NET",
     "query": "93.175.12.47"
-  },
-  "92.49.154.231": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460000",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Orenburg branch office of VolgaTelecom company",
-    "org": "OJSC \"VolgaTelecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.49.154.231"
   },
   "70.29.169.225": {
     "status": "success",
