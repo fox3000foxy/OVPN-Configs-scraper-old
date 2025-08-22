@@ -751,6 +751,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
+  "106.136.47.234": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Iida",
+    "zip": "395-0801",
+    "lat": 35.5108,
+    "lon": 137.8242,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.136.47.234"
+  },
   "222.109.180.8": {
     "status": "success",
     "country": "South Korea",
@@ -991,22 +1007,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.97.173.95"
   },
-  "112.166.255.187": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Yesan",
-    "zip": "324",
-    "lat": 36.6781,
-    "lon": 126.6946,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.166.255.187"
-  },
   "24.130.195.104": {
     "status": "success",
     "country": "United States",
@@ -1022,6 +1022,22 @@
     "org": "Comcast Cable Communications Holdings, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.195.104"
+  },
+  "112.166.255.187": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Yesan",
+    "zip": "324",
+    "lat": 36.6781,
+    "lon": 126.6946,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.166.255.187"
   },
   "92.37.143.115": {
     "status": "success",
@@ -1231,6 +1247,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.66.67"
   },
+  "60.42.86.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0931",
+    "lat": 34.7221,
+    "lon": 135.3254,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "60.42.86.49"
+  },
   "121.3.23.96": {
     "status": "success",
     "country": "Japan",
@@ -1262,22 +1294,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.213.130"
-  },
-  "60.42.86.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "60.42.86.49"
   },
   "103.88.119.198": {
     "status": "success",
@@ -1903,22 +1919,6 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "182.213.69.54": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "171",
-    "lat": 37.1522,
-    "lon": 127.1752,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "182.213.69.54"
-  },
   "38.42.52.163": {
     "status": "success",
     "country": "United States",
@@ -1935,6 +1935,22 @@
     "as": "AS395354 Starry, Inc.",
     "query": "38.42.52.163"
   },
+  "182.213.69.54": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.213.69.54"
+  },
   "93.175.12.47": {
     "status": "success",
     "country": "Russia",
@@ -1950,22 +1966,6 @@
     "org": "mipt campus",
     "as": "AS5467 MIPT-NET",
     "query": "93.175.12.47"
-  },
-  "92.49.154.231": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460000",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Orenburg branch office of VolgaTelecom company",
-    "org": "OJSC \"VolgaTelecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.49.154.231"
   },
   "70.29.169.225": {
     "status": "success",
