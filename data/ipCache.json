@@ -703,22 +703,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "118.1.246.146"
   },
-  "14.132.27.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.27.53"
-  },
   "82.162.191.20": {
     "status": "success",
     "country": "Russia",
@@ -766,6 +750,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
+  },
+  "14.132.27.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.27.53"
   },
   "125.139.107.6": {
     "status": "success",
@@ -1311,6 +1311,22 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "60.42.86.49"
   },
+  "42.118.19.126": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.19.126"
+  },
   "121.188.98.109": {
     "status": "success",
     "country": "South Korea",
@@ -1342,22 +1358,6 @@
     "org": "Branch of HTC International telecommunication joint stock company",
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
-  },
-  "42.118.19.126": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.19.126"
   },
   "125.201.64.98": {
     "status": "success",
