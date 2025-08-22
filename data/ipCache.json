@@ -1231,6 +1231,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.85.140.220"
   },
+  "59.6.15.42": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.6.15.42"
+  },
   "222.98.75.207": {
     "status": "success",
     "country": "South Korea",
@@ -1855,6 +1871,22 @@
     "as": "AS7552 Viettel Group",
     "query": "27.72.73.79"
   },
+  "45.80.186.41": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "PacketHub S.A.",
+    "org": "Packethub S.A",
+    "as": "AS136787 PacketHub S.A.",
+    "query": "45.80.186.41"
+  },
   "112.170.156.205": {
     "status": "success",
     "country": "South Korea",
@@ -1918,22 +1950,6 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.57.105"
-  },
-  "77.35.171.96": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.171.96"
   },
   "213.176.120.57": {
     "status": "success",
