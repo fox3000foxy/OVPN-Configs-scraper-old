@@ -62,18 +62,18 @@ async function main() {
 
   simpleGit().pull();
 
+  const [opl, vpngate] = await Promise.all([OPL(), VPNGate()]);
+  const allServers = [
+    ...opl.servers.map((s: any) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
+    ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
+  ];
+  
   // Delete old configs
   fs.readdirSync(configsDir).forEach(file => {
     if (file.endsWith('.ovpn')) {
       fs.unlinkSync(path.join(configsDir, file));
     }
   });
-
-  const [opl, vpngate] = await Promise.all([OPL(), VPNGate()]);
-  const allServers = [
-    ...opl.servers.map((s: any) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-    ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-  ];
 
   // Sauvegarde des configs modifiées
   for (const server of allServers) {
