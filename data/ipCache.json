@@ -1919,6 +1919,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.212.106.120"
   },
+  "46.233.225.86": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Omskie kabelnye seti Ltd",
+    "org": "Omskie kabelnye seti Ltd.",
+    "as": "AS47165 Omskie kabelnye seti Ltd.",
+    "query": "46.233.225.86"
+  },
   "114.202.12.166": {
     "status": "success",
     "country": "South Korea",
