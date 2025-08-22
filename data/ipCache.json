@@ -1551,6 +1551,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.174.107.75"
   },
+  "122.99.21.46": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "TPE",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "zip": "",
+    "lat": 25.053,
+    "lon": 121.5259,
+    "timezone": "Asia/Taipei",
+    "isp": "KE-ING",
+    "org": "KE-ing Co, Ltd",
+    "as": "AS9416 Hoshin Multimedia Center Inc.",
+    "query": "122.99.21.46"
+  },
   "118.40.203.43": {
     "status": "success",
     "country": "South Korea",
@@ -1599,22 +1615,6 @@
     "as": "AS9365 its communications Inc.",
     "query": "175.177.46.41"
   },
-  "175.131.94.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Kyoto",
-    "zip": "602-8051",
-    "lat": 35.0231,
-    "lon": 135.752,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.131.94.111"
-  },
   "210.99.216.226": {
     "status": "success",
     "country": "South Korea",
@@ -1630,6 +1630,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.99.216.226"
+  },
+  "175.131.94.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.131.94.111"
   },
   "123.200.32.254": {
     "status": "success",
@@ -1887,6 +1903,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.18"
   },
+  "221.162.113.207": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.162.113.207"
+  },
   "109.191.200.124": {
     "status": "success",
     "country": "Russia",
@@ -1918,37 +1950,5 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.185.43.203"
-  },
-  "103.23.139.83": {
-    "status": "success",
-    "country": "Cambodia",
-    "countryCode": "KH",
-    "region": "12",
-    "regionName": "Phnom Penh",
-    "city": "Phnom Penh",
-    "zip": "",
-    "lat": 11.5779,
-    "lon": 104.923,
-    "timezone": "Asia/Phnom_Penh",
-    "isp": "NeocomISP Limited",
-    "org": "NeocomISP Limited",
-    "as": "AS133200 NeocomISP Limited",
-    "query": "103.23.139.83"
-  },
-  "78.157.231.174": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "\"SKTV+\" LLC",
-    "org": "Sktv+ Llc.",
-    "as": "AS42742 InterkamService LLC",
-    "query": "78.157.231.174"
   }
 }
