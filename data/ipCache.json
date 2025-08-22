@@ -671,6 +671,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
   },
+  "118.1.246.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.1.246.146"
+  },
   "218.151.48.166": {
     "status": "success",
     "country": "South Korea",
@@ -895,22 +911,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.39.14"
   },
-  "60.113.169.122": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.113.169.122"
-  },
   "211.228.234.43": {
     "status": "success",
     "country": "South Korea",
@@ -926,6 +926,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.228.234.43"
+  },
+  "60.113.169.122": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.113.169.122"
   },
   "106.150.220.151": {
     "status": "success",
@@ -1103,21 +1119,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.110.135"
   },
-  "180.196.175.144": {
+  "124.98.118.106": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Suzuka",
-    "zip": "513-0801",
-    "lat": 34.8853,
-    "lon": 136.5796,
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0931",
+    "lat": 34.7221,
+    "lon": 135.3254,
     "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.196.175.144"
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "124.98.118.106"
   },
   "122.0.41.177": {
     "status": "success",
@@ -1135,21 +1151,21 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "122.0.41.177"
   },
-  "124.98.118.106": {
+  "180.196.175.144": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Suzuka",
+    "zip": "513-0801",
+    "lat": 34.8853,
+    "lon": 136.5796,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "124.98.118.106"
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.196.175.144"
   },
   "219.104.41.232": {
     "status": "success",
@@ -1343,22 +1359,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.124.51"
   },
-  "184.22.68.10": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10260",
-    "lat": 13.6687,
-    "lon": 100.579,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.68.10"
-  },
   "106.166.58.192": {
     "status": "success",
     "country": "Japan",
@@ -1374,6 +1374,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.166.58.192"
+  },
+  "184.22.68.10": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10260",
+    "lat": 13.6687,
+    "lon": 100.579,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.68.10"
   },
   "118.39.200.167": {
     "status": "success",
@@ -1551,6 +1567,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.67.118"
   },
+  "121.141.111.125": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "077",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.141.111.125"
+  },
   "175.203.144.182": {
     "status": "success",
     "country": "South Korea",
@@ -1726,22 +1758,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.204.167.19"
-  },
-  "171.4.220.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.220.44"
   },
   "220.118.76.44": {
     "status": "success",
@@ -1998,22 +2014,6 @@
     "org": "mipt campus",
     "as": "AS5467 MIPT-NET",
     "query": "93.175.12.47"
-  },
-  "92.49.154.231": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460000",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Orenburg branch office of VolgaTelecom company",
-    "org": "OJSC \"VolgaTelecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.49.154.231"
   },
   "70.29.169.225": {
     "status": "success",
