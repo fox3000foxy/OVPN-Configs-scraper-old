@@ -1039,22 +1039,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "202.226.247.224"
   },
-  "121.130.75.141": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "049",
-    "lat": 37.547,
-    "lon": 127.0958,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.130.75.141"
-  },
   "24.130.195.104": {
     "status": "success",
     "country": "United States",
@@ -1070,6 +1054,22 @@
     "org": "Comcast Cable Communications Holdings, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.195.104"
+  },
+  "121.130.75.141": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "049",
+    "lat": 37.547,
+    "lon": 127.0958,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.130.75.141"
   },
   "116.82.239.43": {
     "status": "success",
@@ -1342,22 +1342,6 @@
     "org": "Jinjujisa(ita)",
     "as": "AS4766 Korea Telecom",
     "query": "118.39.200.167"
-  },
-  "131.147.4.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Chikusei",
-    "zip": "308-0821",
-    "lat": 36.3073,
-    "lon": 140.0031,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.4.204"
   },
   "221.161.75.214": {
     "status": "success",
@@ -1854,6 +1838,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.202.12.166"
+  },
+  "38.42.52.163": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Los Angeles",
+    "zip": "90027",
+    "lat": 34.1004,
+    "lon": -118.2946,
+    "timezone": "America/Los_Angeles",
+    "isp": "Starry, Inc.",
+    "org": "Starry, Inc",
+    "as": "AS395354 Starry, Inc.",
+    "query": "38.42.52.163"
   },
   "5.8.206.213": {
     "status": "success",
