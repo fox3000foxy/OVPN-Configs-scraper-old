@@ -591,6 +591,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
+  "219.100.37.3": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.3"
+  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -990,6 +1006,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "58.136.10.249"
+  },
+  "14.43.165.74": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Geumjeong-gu",
+    "zip": "46229",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.43.165.74"
   },
   "112.145.244.240": {
     "status": "success",
@@ -2014,38 +2046,6 @@
     "org": "CJSC Transtelecom-DV",
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
-  },
-  "38.42.52.163": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Los Angeles",
-    "zip": "90027",
-    "lat": 34.1004,
-    "lon": -118.2946,
-    "timezone": "America/Los_Angeles",
-    "isp": "Starry, Inc.",
-    "org": "Starry, Inc",
-    "as": "AS395354 Starry, Inc.",
-    "query": "38.42.52.163"
-  },
-  "122.128.209.73": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "02543",
-    "lat": 37.5841,
-    "lon": 127.0616,
-    "timezone": "Asia/Seoul",
-    "isp": "CMB DONDAEMOON BROADCASTING",
-    "org": "CMB DONGSEO BROADCASTING",
-    "as": "AS9757 CMB DONDAEMOON BROADCASTING",
-    "query": "122.128.209.73"
   },
   "70.29.169.225": {
     "status": "success",
