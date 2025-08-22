@@ -671,22 +671,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "211.2.56.29"
   },
-  "220.122.51.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "419",
-    "lat": 35.8588,
-    "lon": 128.6077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.122.51.250"
-  },
   "58.238.40.242": {
     "status": "success",
     "country": "South Korea",
@@ -1311,22 +1295,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.60.124.202"
   },
-  "121.119.11.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "106-0042",
-    "lat": 35.6557,
-    "lon": 139.7491,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "121.119.11.100"
-  },
   "131.129.141.44": {
     "status": "success",
     "country": "Japan",
@@ -1342,6 +1310,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "131.129.141.44"
+  },
+  "121.119.11.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "106-0042",
+    "lat": 35.6557,
+    "lon": 139.7491,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "121.119.11.100"
   },
   "125.207.202.184": {
     "status": "success",
@@ -1391,22 +1375,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "124.18.157.30"
   },
-  "14.3.169.219": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0021",
-    "lat": 35.4482,
-    "lon": 139.6463,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "14.3.169.219"
-  },
   "184.22.105.172": {
     "status": "success",
     "country": "Thailand",
@@ -1422,6 +1390,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.105.172"
+  },
+  "14.3.169.219": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0021",
+    "lat": 35.4482,
+    "lon": 139.6463,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "14.3.169.219"
   },
   "126.108.250.38": {
     "status": "success",
@@ -1646,6 +1630,22 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.70.147"
+  },
+  "211.241.185.22": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "abcle",
+    "org": "Hinetworks",
+    "as": "AS38661 abcle",
+    "query": "211.241.185.22"
   },
   "42.124.59.85": {
     "status": "success",
