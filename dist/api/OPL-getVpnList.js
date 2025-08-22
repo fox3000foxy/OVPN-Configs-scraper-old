@@ -1,6 +1,8 @@
 import puppeteer from "puppeteer";
 import { load } from "cheerio";
 import fetch from 'node-fetch';
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
 const configs = require("../../configs.json");
 function sleep(ms) {
     return new Promise(res => setTimeout(res, ms));
