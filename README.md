@@ -86,7 +86,6 @@ Or download individually:
 | 221.45.120.53 | Japan | SoftBank Corp. | OPL | [Download](./data/configs/221.45.120.53.ovpn) |
 | 60.77.105.253 | Japan | SoftBank Corp. | OPL | [Download](./data/configs/60.77.105.253.ovpn) |
 | 126.115.0.249 | Japan | SoftBank Corp. | VPNGate | [Download](./data/configs/126.115.0.249.ovpn) |
-| 126.90.165.132 | Japan | SoftBank Corp. | VPNGate | [Download](./data/configs/126.90.165.132.ovpn) |
 | 126.163.160.107 | Japan | SoftBank Corp. | VPNGate | [Download](./data/configs/126.163.160.107.ovpn) |
 | 126.69.251.29 | Japan | SoftBank Corp. | VPNGate | [Download](./data/configs/126.69.251.29.ovpn) |
 | 126.36.37.237 | Japan | SoftBank Corp. | VPNGate | [Download](./data/configs/126.36.37.237.ovpn) |
@@ -105,7 +104,12 @@ Or download individually:
 | 118.237.170.123 | Japan | Sony Network Communications Inc | OPL | [Download](./data/configs/118.237.170.123.ovpn) |
 | 118.240.118.77 | Japan | Sony Network Communications Inc. | VPNGate | [Download](./data/configs/118.240.118.77.ovpn) |
 | 61.206.254.103 | Japan | Suzuka Cable Co., Ltd | VPNGate | [Download](./data/configs/61.206.254.103.ovpn) |
-| 182.20.239.10 | Japan | TOKAI Communications Corporation | VPNGate | [Download](./data/configs/182.20.239.10.ovpn) |
+
+
+### Mexico
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 187.250.42.242 | Mexico | Uninet S.A. de C.V. | VPNGate | [Download](./data/configs/187.250.42.242.ovpn) |
 
 
 ### Philippines
@@ -123,7 +127,7 @@ Or download individually:
 | 185.82.196.19 | Russia | Maxima, LLC | OPL | [Download](./data/configs/185.82.196.19.ovpn) |
 | 92.127.73.173 | Russia | OJSC "Sibirtelecom" | VPNGate | [Download](./data/configs/92.127.73.173.ovpn) |
 | 176.62.100.30 | Russia | Omskie kabelnye seti Ltd. | VPNGate | [Download](./data/configs/176.62.100.30.ovpn) |
-| 212.19.11.51 | Russia | Redcom LIR | VPNGate | [Download](./data/configs/212.19.11.51.ovpn) |
+| 82.162.191.20 | Russia | Primorye NET | VPNGate | [Download](./data/configs/82.162.191.20.ovpn) |
 | 92.37.143.211 | Russia | Rostelecom networks | VPNGate | [Download](./data/configs/92.37.143.211.ovpn) |
 | 5.143.99.24 | Russia | Rostelecom networks | VPNGate | [Download](./data/configs/5.143.99.24.ovpn) |
 | 77.35.202.31 | Russia | Rostelecom networks | VPNGate | [Download](./data/configs/77.35.202.31.ovpn) |
@@ -170,6 +174,7 @@ Or download individually:
 | 116.123.228.25 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](./data/configs/116.123.228.25.ovpn) |
 | 1.233.23.251 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](./data/configs/1.233.23.251.ovpn) |
 | 218.235.89.115 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](./data/configs/218.235.89.115.ovpn) |
+| 218.209.80.207 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](./data/configs/218.209.80.207.ovpn) |
 | 58.124.0.187 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](./data/configs/58.124.0.187.ovpn) |
 
 
