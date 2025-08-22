@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList.js';
 import { getVpnList as OPL } from './api/OPL-getVpnList.js';
+import { getVpnList as IPSpeed } from './api/IPSpeed-getVpnList.js';
 import { bulkIpLookup } from './api/getIPInfo.js';
 import simpleGit from 'simple-git';
 import fetch from 'node-fetch';
@@ -50,10 +51,11 @@ async function main() {
     await ensureDir(dataDir);
     await ensureDir(configsDir);
     simpleGit().pull();
-    const [opl, vpngate] = await Promise.all([OPL(), VPNGate()]);
+    const [opl, vpngate, ipspeed] = await Promise.all([OPL(), VPNGate(), IPSpeed()]);
     const allServers = [
         ...opl.servers.map((s) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
+        ...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
     // Delete old configs
     fs.readdirSync(configsDir).forEach(file => {
