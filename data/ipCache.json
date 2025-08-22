@@ -1023,6 +1023,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.97.173.95"
   },
+  "61.21.74.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Aihara",
+    "zip": "252-0231",
+    "lat": 35.5765,
+    "lon": 139.3695,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.21.74.112"
+  },
   "121.130.75.141": {
     "status": "success",
     "country": "South Korea",
@@ -1071,22 +1087,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.205.9"
   },
-  "164.70.137.225": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0021",
-    "lat": 35.7238,
-    "lon": 139.9369,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "164.70.137.225"
-  },
   "113.154.110.135": {
     "status": "success",
     "country": "Japan",
@@ -1102,6 +1102,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.110.135"
+  },
+  "164.70.137.225": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0021",
+    "lat": 35.7238,
+    "lon": 139.9369,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "164.70.137.225"
   },
   "180.196.175.144": {
     "status": "success",
@@ -1247,6 +1263,22 @@
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
   },
+  "125.201.64.98": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Ise",
+    "zip": "516-0021",
+    "lat": 34.4929,
+    "lon": 136.7059,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "125.201.64.98"
+  },
   "126.93.66.150": {
     "status": "success",
     "country": "Japan",
@@ -1278,22 +1310,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.128.11"
-  },
-  "125.201.64.98": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Ise",
-    "zip": "516-0021",
-    "lat": 34.4929,
-    "lon": 136.7059,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "125.201.64.98"
   },
   "123.48.124.51": {
     "status": "success",
@@ -1423,6 +1439,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.144.18.105"
   },
+  "221.161.75.214": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Yangsan",
+    "zip": "506",
+    "lat": 35.3447,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.161.75.214"
+  },
   "126.251.1.126": {
     "status": "success",
     "country": "Japan",
@@ -1503,6 +1535,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.171.99"
   },
+  "49.228.67.118": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10260",
+    "lat": 13.6687,
+    "lon": 100.579,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.67.118"
+  },
   "77.35.11.231": {
     "status": "success",
     "country": "Russia",
@@ -1534,22 +1582,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.132.186"
-  },
-  "49.228.67.118": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10260",
-    "lat": 13.6687,
-    "lon": 100.579,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.67.118"
   },
   "175.203.144.182": {
     "status": "success",
@@ -1758,22 +1790,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.220.44"
-  },
-  "125.142.186.87": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "121",
-    "lat": 37.6675,
-    "lon": 127.2383,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.142.186.87"
   },
   "220.118.76.44": {
     "status": "success",
@@ -1998,22 +2014,6 @@
     "org": "CMB DONGSEO BROADCASTING",
     "as": "AS9757 CMB DONDAEMOON BROADCASTING",
     "query": "122.128.209.73"
-  },
-  "93.175.12.47": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "119296",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Non state educational institution \"Educational Scientific and Experimental Center of Moscow Institute of Physics and Technology\"",
-    "org": "mipt campus",
-    "as": "AS5467 MIPT-NET",
-    "query": "93.175.12.47"
   },
   "70.29.169.225": {
     "status": "success",
