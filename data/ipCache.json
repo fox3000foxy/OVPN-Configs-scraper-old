@@ -719,22 +719,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.191.20"
   },
-  "121.111.129.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.111.129.224"
-  },
   "125.14.139.151": {
     "status": "success",
     "country": "Japan",
@@ -1263,6 +1247,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.23.96"
   },
+  "92.202.213.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Adachi City",
+    "zip": "120-0011",
+    "lat": 35.7627,
+    "lon": 139.8063,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.213.130"
+  },
   "60.42.86.49": {
     "status": "success",
     "country": "Japan",
@@ -1535,22 +1535,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.151.81.118"
   },
-  "2.62.171.99": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Leninsk-Kuznetsky",
-    "zip": "652502",
-    "lat": 54.6567,
-    "lon": 86.1737,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.62.171.99"
-  },
   "118.35.90.112": {
     "status": "success",
     "country": "South Korea",
@@ -1727,22 +1711,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.108.203.99"
   },
-  "211.105.109.97": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Buk-gu",
-    "zip": "414",
-    "lat": 35.9206,
-    "lon": 128.5561,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.105.109.97"
-  },
   "220.79.87.77": {
     "status": "success",
     "country": "South Korea",
@@ -1758,6 +1726,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.79.87.77"
+  },
+  "211.105.109.97": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Buk-gu",
+    "zip": "414",
+    "lat": 35.9206,
+    "lon": 128.5561,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.105.109.97"
   },
   "211.114.93.139": {
     "status": "success",
@@ -1775,22 +1759,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.114.93.139"
   },
-  "175.204.167.19": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju",
-    "zip": "108",
-    "lat": 37.7428,
-    "lon": 126.737,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.204.167.19"
-  },
   "220.118.76.44": {
     "status": "success",
     "country": "South Korea",
@@ -1806,6 +1774,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.118.76.44"
+  },
+  "175.204.167.19": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju",
+    "zip": "108",
+    "lat": 37.7428,
+    "lon": 126.737,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.204.167.19"
   },
   "218.147.203.108": {
     "status": "success",
