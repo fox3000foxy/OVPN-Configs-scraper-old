@@ -735,22 +735,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.42.141"
   },
-  "121.104.177.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kurume",
-    "zip": "830-0031",
-    "lat": 33.3164,
-    "lon": 130.5099,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.104.177.123"
-  },
   "121.106.148.235": {
     "status": "success",
     "country": "Japan",
@@ -990,6 +974,22 @@
     "org": "KE-ing Co, Ltd",
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
+  },
+  "138.64.67.91": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.67.91"
   },
   "49.49.250.41": {
     "status": "success",
