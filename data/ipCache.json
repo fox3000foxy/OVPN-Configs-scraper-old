@@ -1,4 +1,20 @@
 {
+  "223.133.215.32": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Toyota",
+    "zip": "471-0021",
+    "lat": 35.0901,
+    "lon": 137.1681,
+    "timezone": "Asia/Tokyo",
+    "isp": "So-net Entertainment Corporation",
+    "org": "So-net Entertainment Corporation",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.133.215.32"
+  },
   "211.226.201.250": {
     "status": "success",
     "country": "South Korea",
@@ -175,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.81.216.25"
   },
-  "59.136.2.10": {
+  "122.135.177.147": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Negishi",
-    "zip": "336-0021",
-    "lat": 35.8553,
-    "lon": 139.6416,
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.136.2.10"
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "122.135.177.147"
   },
   "150.31.162.62": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "168.126.114.195"
   },
-  "1.243.176.200": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Seo-gu",
-    "zip": "226",
-    "lat": 37.5929,
-    "lon": 126.688,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.243.176.200"
-  },
   "219.100.37.49": {
     "status": "success",
     "country": "Japan",
@@ -526,22 +526,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.224"
-  },
-  "219.100.37.178": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.178"
   },
   "219.100.37.111": {
     "status": "success",
@@ -607,22 +591,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
-  "219.100.37.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.3"
-  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -638,6 +606,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.168"
+  },
+  "219.100.37.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.29"
   },
   "152.165.193.146": {
     "status": "success",
@@ -2014,6 +1998,22 @@
     "org": "CMB DONGSEO BROADCASTING",
     "as": "AS9757 CMB DONDAEMOON BROADCASTING",
     "query": "122.128.209.73"
+  },
+  "93.175.12.47": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "119296",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Non state educational institution \"Educational Scientific and Experimental Center of Moscow Institute of Physics and Technology\"",
+    "org": "mipt campus",
+    "as": "AS5467 MIPT-NET",
+    "query": "93.175.12.47"
   },
   "70.29.169.225": {
     "status": "success",
