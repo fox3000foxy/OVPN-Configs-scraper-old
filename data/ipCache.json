@@ -1295,6 +1295,22 @@
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
   },
+  "42.118.19.126": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.19.126"
+  },
   "125.201.64.98": {
     "status": "success",
     "country": "Japan",
@@ -1358,22 +1374,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.188.98.109"
-  },
-  "42.118.19.126": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.19.126"
   },
   "116.82.5.94": {
     "status": "success",
@@ -1918,6 +1918,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.212.106.120"
+  },
+  "46.233.225.86": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Omskie kabelnye seti Ltd",
+    "org": "Omskie kabelnye seti Ltd.",
+    "as": "AS47165 Omskie kabelnye seti Ltd.",
+    "query": "46.233.225.86"
   },
   "114.202.12.166": {
     "status": "success",
