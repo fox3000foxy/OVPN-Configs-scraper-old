@@ -81,19 +81,30 @@ async function main() {
             ipCache[info.query] = info;
     });
     fs.writeFileSync(path.join(dataDir, 'ipCache.json'), JSON.stringify(ipCache, null, 2));
-    const READMEText = fs.readFileSync(path.resolve('README.template.md'), 'utf-8');
-    const tableHeader = `| IP | Country | ISP | Provider | Score | Ping | Speed | Config |\n|---|---|---|---|---|---|---|---|`;
-    const tableRows = allServers.map((server) => {
+    // Regrouper les serveurs par pays puis trier par ISP
+    const serversByCountry = {};
+    allServers.forEach((server) => {
         const info = ipCache[server.ip] || {};
         const country = info.country || 'Unknown';
-        const isp = info.isp || 'Unknown';
-        const score = server.score !== undefined ? server.score : (server.quality || 'N/A');
-        const ping = server.ping !== undefined ? server.ping : (server.ping_ms || 'N/A');
-        const speed = server.speed !== undefined ? server.speed : (server.bandwidth || server.speed_kbps || 'N/A');
-        const configLink = `[Download](./data/configs/${server.ip}.ovpn)`;
-        return `| ${server.ip} | ${country} | ${isp} | ${server.provider} | ${score} | ${ping} | ${speed} | ${configLink} |`;
-    }).join('\n');
-    const updatedREADME = READMEText.replace('{{ % table % }}', `${tableHeader}\n${tableRows}`);
+        if (!serversByCountry[country])
+            serversByCountry[country] = [];
+        serversByCountry[country].push({ ...server, isp: info.isp || 'Unknown', country });
+    });
+    // Trier les pays alphabétiquement
+    const sortedCountries = Object.keys(serversByCountry).sort();
+    const READMEText = fs.readFileSync(path.resolve('README.template.md'), 'utf-8');
+    let tableContent = '';
+    const tableHeader = `| IP | Country | ISP | Provider | Config |\n|---|---|---|---|---|`;
+    for (const country of sortedCountries) {
+        // Trier les serveurs de ce pays par ISP
+        const servers = serversByCountry[country].sort((a, b) => a.isp.localeCompare(b.isp));
+        const tableRows = servers.map(server => {
+            const configLink = `[Download](./data/configs/${server.ip}.ovpn)`;
+            return `| ${server.ip} | ${server.country} | ${server.isp} | ${server.provider} | ${configLink} |`;
+        }).join('\n');
+        tableContent += `\n\n### ${country}\n${tableHeader}\n${tableRows}\n`;
+    }
+    const updatedREADME = READMEText.replace('{{ % table % }}', tableContent.trim());
     fs.writeFileSync(path.resolve('README.md'), updatedREADME, 'utf-8');
     // On peut aussi sauvegarder la liste simple des IPs si besoin
     fs.writeFileSync(path.join(dataDir, 'ips.json'), JSON.stringify(allIps, null, 2));
