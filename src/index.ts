@@ -79,7 +79,7 @@ async function main() {
   const ipInfos = await bulkIpLookup(allIps);
 
   // On sauvegarde un cache enrichi (ISP, pays, etc) dans data/ipCache.json
-  const ipCache = {};
+  const ipCache: { [key: string]: any } = {};
   ipInfos.forEach((info: any) => {
     if (info && info.query) ipCache[info.query] = info;
   });
