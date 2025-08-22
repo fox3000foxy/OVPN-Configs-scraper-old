@@ -1519,22 +1519,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.161.75.214"
   },
-  "211.104.71.136": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "26417",
-    "lat": 37.3551,
-    "lon": 127.941,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.104.71.136"
-  },
   "60.154.190.77": {
     "status": "success",
     "country": "Japan",
