@@ -735,6 +735,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.27.53"
   },
+  "106.136.47.234": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Iida",
+    "zip": "395-0801",
+    "lat": 35.5108,
+    "lon": 137.8242,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.136.47.234"
+  },
   "222.109.180.8": {
     "status": "success",
     "country": "South Korea",
@@ -1199,22 +1215,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.37.240.235"
   },
-  "60.42.86.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "60.42.86.49"
-  },
   "126.145.66.67": {
     "status": "success",
     "country": "Japan",
@@ -1279,21 +1279,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.93.66.150"
   },
-  "117.2.236.149": {
+  "121.103.81.209": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "26",
-    "regionName": "Thừa Thiên Huế Province",
-    "city": "Huế",
-    "zip": "530000",
-    "lat": 16.4704,
-    "lon": 107.6009,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Corporation",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "117.2.236.149"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.103.81.209"
   },
   "121.3.23.96": {
     "status": "success",
@@ -1310,6 +1310,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.23.96"
+  },
+  "117.2.236.149": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "26",
+    "regionName": "Thừa Thiên Huế Province",
+    "city": "Huế",
+    "zip": "530000",
+    "lat": 16.4704,
+    "lon": 107.6009,
+    "timezone": "Asia/Bangkok",
+    "isp": "Viettel Corporation",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "117.2.236.149"
   },
   "118.39.200.167": {
     "status": "success",
@@ -1359,6 +1375,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.6.62.245"
   },
+  "211.104.71.136": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "26417",
+    "lat": 37.3551,
+    "lon": 127.941,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.104.71.136"
+  },
   "121.151.81.118": {
     "status": "success",
     "country": "South Korea",
@@ -1390,22 +1422,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.154.190.77"
-  },
-  "211.104.71.136": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "26417",
-    "lat": 37.3551,
-    "lon": 127.941,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.104.71.136"
   },
   "118.35.90.112": {
     "status": "success",
@@ -1918,22 +1934,6 @@
     "org": "OJSC \"VolgaTelecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.49.154.231"
-  },
-  "121.103.81.209": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.103.81.209"
   },
   "128.68.175.55": {
     "status": "success",
