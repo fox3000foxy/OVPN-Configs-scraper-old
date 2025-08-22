@@ -1343,6 +1343,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.163.76"
   },
+  "180.56.129.218": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "180.56.129.218"
+  },
   "39.110.55.133": {
     "status": "success",
     "country": "Japan",
@@ -1391,22 +1407,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "119.83.37.78"
   },
-  "49.49.250.41": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "49.49.250.41"
-  },
   "138.64.67.91": {
     "status": "success",
     "country": "Japan",
@@ -1422,6 +1422,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.67.91"
+  },
+  "49.49.250.41": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "49.49.250.41"
   },
   "121.188.176.107": {
     "status": "success",
@@ -1454,22 +1470,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.209.150.192"
-  },
-  "180.56.129.218": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "180.56.129.218"
   },
   "187.250.42.242": {
     "status": "success",
