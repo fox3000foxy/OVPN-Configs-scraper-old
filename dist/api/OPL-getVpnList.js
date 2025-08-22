@@ -6,6 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.getVpnList = getVpnList;
 const puppeteer_1 = __importDefault(require("puppeteer"));
 const cheerio_1 = require("cheerio");
+const node_fetch_1 = __importDefault(require("node-fetch"));
 const configs = require("../../configs.json");
 function sleep(ms) {
     return new Promise(res => setTimeout(res, ms));
@@ -16,7 +17,7 @@ async function getListsScriptFn() {
     await sleep(1000);
     const fetchPage = async (page) => {
         const token = await window.grecaptcha.execute(configs.oplConstants.site_key, { action: "homepage" });
-        return fetch("https://openproxylist.com/get-list.html", {
+        return (0, node_fetch_1.default)("https://openproxylist.com/get-list.html", {
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -25,10 +26,10 @@ async function getListsScriptFn() {
                 "Sec-Fetch-Mode": "navigate",
                 "Sec-Fetch-Site": "same-origin",
             },
-            referrer: configs.oplConstants.base_url,
+            // referrer: configs.oplConstants.base_url, // Removed because 'referrer' is not a valid RequestInit property in node-fetch
             body: `g-recaptcha-response=${token}&response=&sort=sortlast&dataType=openvpn&page=${page}`,
             method: "POST",
-            mode: "cors",
+            // mode: "cors",
         }).then(r => r.ok ? r.text() : Promise.reject("Network error"));
     };
     while (!document.querySelector('.pagination .page-link[page-data]'))

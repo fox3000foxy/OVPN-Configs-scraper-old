@@ -6,6 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.bulkIpLookup = bulkIpLookup;
 const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
+const node_fetch_1 = __importDefault(require("node-fetch"));
 function readCache() {
     const ipCachePath = path_1.default.resolve('data', 'ipCache.json');
     if (fs_1.default.existsSync(ipCachePath)) {
@@ -36,7 +37,7 @@ async function bulkIpLookup(ips, chunkSize = 100) {
         const chunk = uncachedIps.slice(i, i + chunkSize);
         if (chunk.length === 0)
             continue;
-        const res = await fetch("http://ip-api.com/batch", {
+        const res = await (0, node_fetch_1.default)("http://ip-api.com/batch", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify(chunk.map(ip => ({ query: ip }))),

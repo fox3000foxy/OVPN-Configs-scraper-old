@@ -1,5 +1,7 @@
 import path from 'path';
 import fs from 'fs';
+import fetch from 'node-fetch';
+
 
 function readCache() {
   const ipCachePath = path.resolve('data', 'ipCache.json');

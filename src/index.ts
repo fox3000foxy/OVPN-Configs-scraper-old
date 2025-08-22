@@ -4,6 +4,7 @@ import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList.js';
 import { getVpnList as OPL } from './api/OPL-getVpnList.js';
 import { bulkIpLookup } from './api/getIPInfo.js';
 import simpleGit from 'simple-git';
+import fetch from 'node-fetch';
 
 // --- Ajout de la fonction convertOvpnConfig ---
 function convertOvpnConfig(config: string): string {

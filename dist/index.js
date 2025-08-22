@@ -9,6 +9,7 @@ const VPNGATE_getVpnList_js_1 = require("./api/VPNGATE-getVpnList.js");
 const OPL_getVpnList_js_1 = require("./api/OPL-getVpnList.js");
 const getIPInfo_js_1 = require("./api/getIPInfo.js");
 const simple_git_1 = __importDefault(require("simple-git"));
+const node_fetch_1 = __importDefault(require("node-fetch"));
 // --- Ajout de la fonction convertOvpnConfig ---
 function convertOvpnConfig(config) {
     const supportedCiphers = [
@@ -42,7 +43,7 @@ async function saveConfig(ip, configUrl, outDir) {
         originalConfig = Buffer.from(base64, 'base64').toString('utf8');
     }
     else {
-        const res = await fetch(configUrl);
+        const res = await (0, node_fetch_1.default)(configUrl);
         originalConfig = await res.text();
     }
     const converted = convertOvpnConfig(originalConfig);

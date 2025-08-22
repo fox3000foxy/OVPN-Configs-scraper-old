@@ -1,5 +1,6 @@
 import puppeteer from "puppeteer";
 import { load } from "cheerio";
+import fetch from 'node-fetch';
 
 const configs = require("../../configs.json");
 
@@ -28,10 +29,10 @@ async function getListsScriptFn() {
                 "Sec-Fetch-Mode": "navigate",
                 "Sec-Fetch-Site": "same-origin",
             },
-            referrer: configs.oplConstants.base_url,
+            // referrer: configs.oplConstants.base_url, // Removed because 'referrer' is not a valid RequestInit property in node-fetch
             body: `g-recaptcha-response=${token}&response=&sort=sortlast&dataType=openvpn&page=${page}`,
             method: "POST",
-            mode: "cors",
+            // mode: "cors",
         }).then(r => r.ok ? r.text() : Promise.reject("Network error"));
     };
 
