@@ -2,9 +2,11 @@
   "name": "ovpn-configs-scraper",
   "version": "1.0.0",
   "description": "\"# OVPN-Configs-scraper\"",
-  "main": "index.js",
+  "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "tsc && node ./dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "dependencies": {
     "cheerio": "^1.1.2",
     "puppeteer": "^24.17.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
   }
 }

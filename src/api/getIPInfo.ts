@@ -4,7 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const require = createRequire(import.meta.url);
-const configs = require("../configs.json");
+const configs = require("../../configs.json");
 import os from "os";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
