@@ -831,22 +831,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "222.159.12.205"
   },
-  "61.21.74.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Aihara",
-    "zip": "252-0231",
-    "lat": 35.5765,
-    "lon": 139.3695,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.21.74.112"
-  },
   "119.203.71.47": {
     "status": "success",
     "country": "South Korea",
@@ -862,6 +846,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "119.203.71.47"
+  },
+  "61.21.74.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Aihara",
+    "zip": "252-0231",
+    "lat": 35.5765,
+    "lon": 139.3695,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.21.74.112"
   },
   "126.214.166.165": {
     "status": "success",
