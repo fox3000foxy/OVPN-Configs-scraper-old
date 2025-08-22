@@ -1,4 +1,20 @@
 {
+  "126.81.216.25": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.81.216.25"
+  },
   "121.104.177.123": {
     "status": "success",
     "country": "Japan",
@@ -175,7 +191,7 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
   },
-  "219.100.37.97": {
+  "219.100.37.53": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -189,7 +205,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.97"
+    "query": "219.100.37.53"
   },
   "219.100.37.109": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.252.68"
-  },
-  "126.81.216.25": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.81.216.25"
   },
   "219.100.37.49": {
     "status": "success",
