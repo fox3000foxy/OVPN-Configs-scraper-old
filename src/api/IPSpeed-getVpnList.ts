@@ -40,4 +40,4 @@ export async function getVpnList(): Promise<IPSpeedServer[]> {
     linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
     linksSet.clear();
     return linksArray;
-}
+} 
