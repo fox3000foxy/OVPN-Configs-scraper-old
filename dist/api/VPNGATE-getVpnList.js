@@ -1,14 +1,8 @@
-"use strict";
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.getVpnList = getVpnList;
-const http_1 = __importDefault(require("http"));
-function getVpnList() {
+import http from "http";
+export function getVpnList() {
     return new Promise((resolve, reject) => {
         const vpnGateApiUrl = "http://www.vpngate.net/api/iphone/";
-        const req = http_1.default.get(vpnGateApiUrl, (res) => {
+        const req = http.get(vpnGateApiUrl, (res) => {
             let data = "";
             res.on("data", (chunk) => {
                 data += chunk.toString();
