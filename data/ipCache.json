@@ -655,22 +655,6 @@
     "as": "AS13335 Cloudflare, Inc.",
     "query": "104.28.214.163"
   },
-  "119.231.65.152": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "K-Opticom Corporation",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "119.231.65.152"
-  },
   "125.136.187.85": {
     "status": "success",
     "country": "South Korea",
@@ -702,6 +686,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.44.169.33"
+  },
+  "119.231.65.152": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "119.231.65.152"
   },
   "182.235.231.66": {
     "status": "success",
@@ -1199,6 +1199,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.31.173"
   },
+  "218.158.51.10": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.158.51.10"
+  },
   "1.21.119.228": {
     "status": "success",
     "country": "Japan",
@@ -1230,22 +1246,6 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "121.80.238.187"
-  },
-  "95.84.180.83": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "123154",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "95.84.180.83"
   },
   "111.238.163.76": {
     "status": "success",
@@ -1486,6 +1486,22 @@
     "org": "V tal",
     "as": "AS7738 V tal",
     "query": "191.44.11.51"
+  },
+  "14.40.9.134": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.40.9.134"
   },
   "125.129.17.222": {
     "status": "success",
@@ -1967,22 +1983,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.135.250"
   },
-  "157.120.13.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "206-0042",
-    "lat": 35.6673,
-    "lon": 139.751,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "NTT PC Communications, Inc.",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "157.120.13.212"
-  },
   "182.70.132.65": {
     "status": "success",
     "country": "India",
@@ -2238,6 +2238,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.186.152.133"
+  },
+  "157.120.13.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "206-0042",
+    "lat": 35.6673,
+    "lon": 139.751,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT PC Communications, Inc.",
+    "org": "NTT PC Communications, Inc.",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "157.120.13.212"
   },
   "160.248.209.88": {
     "status": "success",
