@@ -1311,22 +1311,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.44.222.243"
   },
-  "153.203.210.157": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Toyama",
-    "zip": "930-0091",
-    "lat": 36.7004,
-    "lon": 137.2022,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "153.203.210.157"
-  },
   "118.240.70.11": {
     "status": "success",
     "country": "Japan",
@@ -1871,22 +1855,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "124.111.221.107"
   },
-  "211.235.73.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Telecom",
-    "org": "SK-TELECOM",
-    "as": "AS9644 SK Telecom",
-    "query": "211.235.73.80"
-  },
   "211.236.74.5": {
     "status": "success",
     "country": "South Korea",
@@ -1950,6 +1918,38 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.220.131.21"
+  },
+  "219.250.85.224": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.250.85.224"
+  },
+  "116.124.220.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Buk-gu",
+    "zip": "611",
+    "lat": 35.1839,
+    "lon": 126.9163,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.124.220.110"
   },
   "186.122.11.238": {
     "status": "success",
