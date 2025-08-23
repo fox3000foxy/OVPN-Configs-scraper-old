@@ -1023,22 +1023,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.201.51.221"
   },
-  "118.106.234.220": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Chiryū",
-    "zip": "472-0051",
-    "lat": 34.9938,
-    "lon": 137.0506,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.106.234.220"
-  },
   "125.30.84.181": {
     "status": "success",
     "country": "Japan",
@@ -1054,6 +1038,22 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "125.30.84.181"
+  },
+  "118.106.234.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Chiryū",
+    "zip": "472-0051",
+    "lat": 34.9938,
+    "lon": 137.0506,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "118.106.234.220"
   },
   "49.228.177.50": {
     "status": "success",
@@ -1647,22 +1647,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.135.232.23"
   },
-  "211.185.43.203": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.185.43.203"
-  },
   "111.90.98.127": {
     "status": "success",
     "country": "Japan",
@@ -1710,6 +1694,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "27.136.219.48"
+  },
+  "211.185.43.203": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.43.203"
   },
   "60.110.83.167": {
     "status": "success",
