@@ -975,22 +975,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "125.56.117.10"
   },
-  "118.237.170.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Toyota",
-    "zip": "471-0021",
-    "lat": 35.0901,
-    "lon": 137.1681,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.237.170.123"
-  },
   "121.161.2.130": {
     "status": "success",
     "country": "South Korea",
@@ -1006,6 +990,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.161.2.130"
+  },
+  "118.237.170.123": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Toyota",
+    "zip": "471-0021",
+    "lat": 35.0901,
+    "lon": 137.1681,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.237.170.123"
   },
   "150.147.41.74": {
     "status": "success",
@@ -1279,22 +1279,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.0.235"
   },
-  "157.120.123.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Kanuma",
-    "zip": "322-0521",
-    "lat": 36.5351,
-    "lon": 139.7581,
-    "timezone": "Asia/Tokyo",
-    "isp": "kanuma cable television Corporation",
-    "org": "kanuma cable television Corporation",
-    "as": "AS24259 kanuma cable television Corporation",
-    "query": "157.120.123.34"
-  },
   "125.4.218.176": {
     "status": "success",
     "country": "Japan",
@@ -1471,22 +1455,6 @@
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "202.79.159.167"
   },
-  "59.85.51.59": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hyakuninchō",
-    "zip": "169-0071",
-    "lat": 35.7075,
-    "lon": 139.7007,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "59.85.51.59"
-  },
   "14.36.144.253": {
     "status": "success",
     "country": "South Korea",
@@ -1502,6 +1470,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.36.144.253"
+  },
+  "59.85.51.59": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hyakuninchō",
+    "zip": "169-0071",
+    "lat": 35.7075,
+    "lon": 139.7007,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "59.85.51.59"
   },
   "126.48.182.76": {
     "status": "success",
