@@ -1135,22 +1135,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
   },
-  "106.153.5.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Sakura",
-    "zip": "285-0021",
-    "lat": 35.7134,
-    "lon": 140.2312,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.153.5.207"
-  },
   "92.19.114.38": {
     "status": "success",
     "country": "United Kingdom",
@@ -1166,6 +1150,22 @@
     "org": "Carphone Warehouse Broadband Services",
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "92.19.114.38"
+  },
+  "106.153.5.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Sakura",
+    "zip": "285-0021",
+    "lat": 35.7134,
+    "lon": 140.2312,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.153.5.207"
   },
   "117.2.236.149": {
     "status": "success",
@@ -1311,22 +1311,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.126.11.18"
   },
-  "220.79.36.178": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Seo-gu",
-    "zip": "226",
-    "lat": 37.5929,
-    "lon": 126.688,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.79.36.178"
-  },
   "101.109.167.44": {
     "status": "success",
     "country": "Thailand",
@@ -1374,6 +1358,22 @@
     "org": "Chungbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "125.140.175.104"
+  },
+  "220.79.36.178": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Seo-gu",
+    "zip": "226",
+    "lat": 37.5929,
+    "lon": 126.688,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.79.36.178"
   },
   "220.126.206.103": {
     "status": "success",
@@ -1535,22 +1535,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "175.41.101.48"
   },
-  "61.23.155.215": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0831",
-    "lat": 35.5315,
-    "lon": 139.7259,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.23.155.215"
-  },
   "60.125.195.98": {
     "status": "success",
     "country": "Japan",
@@ -1582,6 +1566,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.216.204.136"
+  },
+  "61.23.155.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0831",
+    "lat": 35.5315,
+    "lon": 139.7259,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.23.155.215"
   },
   "60.69.230.22": {
     "status": "success",
