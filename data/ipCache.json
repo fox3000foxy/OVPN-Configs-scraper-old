@@ -831,6 +831,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.39.14"
   },
+  "49.171.251.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.171.251.155"
+  },
   "61.21.74.112": {
     "status": "success",
     "country": "Japan",
@@ -1966,22 +1982,6 @@
     "org": "Kcnnet",
     "as": "AS17583 Keumgang Cable Network",
     "query": "122.0.41.177"
-  },
-  "46.233.225.86": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "Omskie kabelnye seti Ltd",
-    "org": "Omskie kabelnye seti Ltd.",
-    "as": "AS47165 Omskie kabelnye seti Ltd.",
-    "query": "46.233.225.86"
   },
   "106.172.53.118": {
     "status": "success",
