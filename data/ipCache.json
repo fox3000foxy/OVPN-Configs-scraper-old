@@ -1679,22 +1679,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.204.167.19"
   },
-  "95.27.17.67": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "IVA",
-    "regionName": "Ivanovo Oblast",
-    "city": "Ivanovo",
-    "zip": "153000",
-    "lat": 57.0006,
-    "lon": 40.972,
-    "timezone": "Europe/Moscow",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS8402 PJSC \"Vimpelcom\"",
-    "query": "95.27.17.67"
-  },
   "218.147.203.108": {
     "status": "success",
     "country": "South Korea",
@@ -1726,6 +1710,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.187.26.249"
+  },
+  "95.27.17.67": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IVA",
+    "regionName": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "zip": "153000",
+    "lat": 57.0006,
+    "lon": 40.972,
+    "timezone": "Europe/Moscow",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS8402 PJSC \"Vimpelcom\"",
+    "query": "95.27.17.67"
   },
   "180.68.163.145": {
     "status": "success",
