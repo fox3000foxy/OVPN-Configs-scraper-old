@@ -1151,22 +1151,6 @@
     "as": "AS5384 Emirates Internet",
     "query": "86.99.148.146"
   },
-  "182.70.132.65": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "MP",
-    "regionName": "Madhya Pradesh",
-    "city": "Indore",
-    "zip": "452001",
-    "lat": 22.717,
-    "lon": 75.8337,
-    "timezone": "Asia/Kolkata",
-    "isp": "Bharti Airtel",
-    "org": "Bharti Airtel Ltd",
-    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
-    "query": "182.70.132.65"
-  },
   "125.201.64.98": {
     "status": "success",
     "country": "Japan",
@@ -1215,6 +1199,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.216.175.105"
   },
+  "182.70.132.65": {
+    "status": "success",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "MP",
+    "regionName": "Madhya Pradesh",
+    "city": "Indore",
+    "zip": "452001",
+    "lat": 22.717,
+    "lon": 75.8337,
+    "timezone": "Asia/Kolkata",
+    "isp": "Bharti Airtel",
+    "org": "Bharti Airtel Ltd",
+    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+    "query": "182.70.132.65"
+  },
   "210.250.96.130": {
     "status": "success",
     "country": "Japan",
@@ -1230,6 +1230,22 @@
     "org": "SO-Net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.250.96.130"
+  },
+  "91.115.113.141": {
+    "status": "success",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": "5",
+    "regionName": "Salzburg",
+    "city": "Salzburg",
+    "zip": "5020",
+    "lat": 47.8008,
+    "lon": 13.0443,
+    "timezone": "Europe/Vienna",
+    "isp": "HIGHWAY194",
+    "org": "High Speed Internet Customers",
+    "as": "AS8447 A1 Telekom Austria AG",
+    "query": "91.115.113.141"
   },
   "116.82.5.94": {
     "status": "success",
@@ -1438,22 +1454,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.208.123.206"
-  },
-  "60.153.100.247": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.153.100.247"
   },
   "220.126.162.145": {
     "status": "success",
@@ -1967,21 +1967,21 @@
     "as": "AS5384 Emirates Internet",
     "query": "2.49.137.175"
   },
-  "91.115.113.141": {
+  "91.219.222.26": {
     "status": "success",
-    "country": "Austria",
-    "countryCode": "AT",
-    "region": "5",
-    "regionName": "Salzburg",
-    "city": "Salzburg",
-    "zip": "5020",
-    "lat": 47.8008,
-    "lon": 13.0443,
-    "timezone": "Europe/Vienna",
-    "isp": "HIGHWAY194",
-    "org": "High Speed Internet Customers",
-    "as": "AS8447 A1 Telekom Austria AG",
-    "query": "91.115.113.141"
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "53",
+    "regionName": "Poltava Oblast",
+    "city": "Poltava",
+    "zip": "36021",
+    "lat": 49.5895,
+    "lon": 34.5498,
+    "timezone": "Europe/Kyiv",
+    "isp": "NVTOV \"SOLVER\"",
+    "org": "Science Production Enterprise Solver Ltd",
+    "as": "AS15461 NVTOV \"SOLVER\"",
+    "query": "91.219.222.26"
   },
   "157.120.13.212": {
     "status": "success",
