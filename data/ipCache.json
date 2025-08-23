@@ -751,22 +751,6 @@
     "as": "AS9351 ZTV CO.,LTD",
     "query": "117.18.181.73"
   },
-  "211.170.143.162": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "166",
-    "lat": 37.2506,
-    "lon": 127.0668,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Actionzone",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "211.170.143.162"
-  },
   "106.158.53.29": {
     "status": "success",
     "country": "Japan",
@@ -782,6 +766,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.158.53.29"
+  },
+  "211.170.143.162": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Actionzone",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "211.170.143.162"
   },
   "14.132.27.53": {
     "status": "success",
@@ -1215,22 +1215,6 @@
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
   },
-  "120.29.134.202": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Masan",
-    "zip": "62008",
-    "lat": 35.1562,
-    "lon": 126.85,
-    "timezone": "Asia/Seoul",
-    "isp": "CMBKWANGJUNET",
-    "org": "Cmbkwangjunet",
-    "as": "AS10054 CMB Kwangju Broadcasting",
-    "query": "120.29.134.202"
-  },
   "220.90.78.134": {
     "status": "success",
     "country": "South Korea",
@@ -1246,6 +1230,22 @@
     "org": "KT munheung daeju3cha",
     "as": "AS4766 Korea Telecom",
     "query": "220.90.78.134"
+  },
+  "120.29.134.202": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Masan",
+    "zip": "62008",
+    "lat": 35.1562,
+    "lon": 126.85,
+    "timezone": "Asia/Seoul",
+    "isp": "CMBKWANGJUNET",
+    "org": "Cmbkwangjunet",
+    "as": "AS10054 CMB Kwangju Broadcasting",
+    "query": "120.29.134.202"
   },
   "183.97.182.89": {
     "status": "success",
@@ -1327,22 +1327,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.22.124.13"
   },
-  "60.97.32.246": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.97.32.246"
-  },
   "125.134.123.30": {
     "status": "success",
     "country": "South Korea",
@@ -1358,6 +1342,22 @@
     "org": "busanbonbujang(kones)",
     "as": "AS4766 Korea Telecom",
     "query": "125.134.123.30"
+  },
+  "60.97.32.246": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.97.32.246"
   },
   "117.55.17.21": {
     "status": "success",
@@ -1823,22 +1823,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "124.111.221.107"
   },
-  "113.199.32.62": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "122",
-    "lat": 37.6224,
-    "lon": 127.1502,
-    "timezone": "Asia/Seoul",
-    "isp": "ABN",
-    "org": "ABN",
-    "as": "AS17608 ABN",
-    "query": "113.199.32.62"
-  },
   "211.236.74.5": {
     "status": "success",
     "country": "South Korea",
@@ -1854,6 +1838,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.236.74.5"
+  },
+  "113.199.32.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
+    "timezone": "Asia/Seoul",
+    "isp": "ABN",
+    "org": "ABN",
+    "as": "AS17608 ABN",
+    "query": "113.199.32.62"
   },
   "118.220.131.21": {
     "status": "success",
