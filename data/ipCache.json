@@ -1615,22 +1615,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.28.21.24"
   },
-  "116.122.215.170": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "314",
-    "lat": 36.9307,
-    "lon": 127.057,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.122.215.170"
-  },
   "1.53.43.202": {
     "status": "success",
     "country": "Vietnam",
@@ -1646,6 +1630,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.43.202"
+  },
+  "116.122.215.170": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Asan",
+    "zip": "314",
+    "lat": 36.9307,
+    "lon": 127.057,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.122.215.170"
   },
   "211.178.35.232": {
     "status": "success",
@@ -1695,6 +1695,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.188.123.148"
   },
+  "49.228.247.86": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.247.86"
+  },
   "103.125.146.71": {
     "status": "success",
     "country": "Japan",
@@ -1727,6 +1743,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.109.249"
   },
+  "14.39.67.134": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gapyeong County",
+    "zip": "124",
+    "lat": 37.7329,
+    "lon": 127.4185,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.39.67.134"
+  },
   "222.108.203.99": {
     "status": "success",
     "country": "South Korea",
@@ -1742,22 +1774,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "222.108.203.99"
-  },
-  "49.228.247.86": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.247.86"
   },
   "211.184.24.38": {
     "status": "success",
@@ -1966,22 +1982,6 @@
     "org": "Etisalat",
     "as": "AS5384 Emirates Internet",
     "query": "2.49.137.175"
-  },
-  "91.219.222.26": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "53",
-    "regionName": "Poltava Oblast",
-    "city": "Poltava",
-    "zip": "36021",
-    "lat": 49.5895,
-    "lon": 34.5498,
-    "timezone": "Europe/Kyiv",
-    "isp": "NVTOV \"SOLVER\"",
-    "org": "Science Production Enterprise Solver Ltd",
-    "as": "AS15461 NVTOV \"SOLVER\"",
-    "query": "91.219.222.26"
   },
   "1.66.34.35": {
     "status": "success",
