@@ -799,6 +799,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
+  "119.196.39.14": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "070",
+    "lat": 37.4926,
+    "lon": 126.92,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.39.14"
+  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -862,6 +878,22 @@
     "org": "KE-ing Co, Ltd",
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
+  },
+  "116.82.239.43": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "116.82.239.43"
   },
   "124.98.118.106": {
     "status": "success",
@@ -1119,6 +1151,22 @@
     "as": "AS5384 Emirates Internet",
     "query": "86.99.148.146"
   },
+  "182.70.132.65": {
+    "status": "success",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "MP",
+    "regionName": "Madhya Pradesh",
+    "city": "Indore",
+    "zip": "452001",
+    "lat": 22.717,
+    "lon": 75.8337,
+    "timezone": "Asia/Kolkata",
+    "isp": "Bharti Airtel",
+    "org": "Bharti Airtel Ltd",
+    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+    "query": "182.70.132.65"
+  },
   "125.201.64.98": {
     "status": "success",
     "country": "Japan",
@@ -1167,22 +1215,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.216.175.105"
   },
-  "182.70.132.65": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "MP",
-    "regionName": "Madhya Pradesh",
-    "city": "Indore",
-    "zip": "452001",
-    "lat": 22.717,
-    "lon": 75.8337,
-    "timezone": "Asia/Kolkata",
-    "isp": "Bharti Airtel",
-    "org": "Bharti Airtel Ltd",
-    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
-    "query": "182.70.132.65"
-  },
   "210.250.96.130": {
     "status": "success",
     "country": "Japan",
@@ -1198,22 +1230,6 @@
     "org": "SO-Net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.250.96.130"
-  },
-  "91.115.113.141": {
-    "status": "success",
-    "country": "Austria",
-    "countryCode": "AT",
-    "region": "5",
-    "regionName": "Salzburg",
-    "city": "Salzburg",
-    "zip": "5020",
-    "lat": 47.8008,
-    "lon": 13.0443,
-    "timezone": "Europe/Vienna",
-    "isp": "HIGHWAY194",
-    "org": "High Speed Internet Customers",
-    "as": "AS8447 A1 Telekom Austria AG",
-    "query": "91.115.113.141"
   },
   "116.82.5.94": {
     "status": "success",
@@ -1310,6 +1326,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.176.30.209"
+  },
+  "91.115.113.141": {
+    "status": "success",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": "5",
+    "regionName": "Salzburg",
+    "city": "Salzburg",
+    "zip": "5020",
+    "lat": 47.8008,
+    "lon": 13.0443,
+    "timezone": "Europe/Vienna",
+    "isp": "HIGHWAY194",
+    "org": "High Speed Internet Customers",
+    "as": "AS8447 A1 Telekom Austria AG",
+    "query": "91.115.113.141"
   },
   "126.251.1.126": {
     "status": "success",
@@ -1551,22 +1583,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.144.18.105"
   },
-  "125.131.224.62": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "063",
-    "lat": 37.4854,
-    "lon": 127.0524,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.131.224.62"
-  },
   "180.69.172.41": {
     "status": "success",
     "country": "South Korea",
@@ -1694,22 +1710,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.109.249"
-  },
-  "49.228.247.86": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.247.86"
   },
   "201.88.57.19": {
     "status": "success",
