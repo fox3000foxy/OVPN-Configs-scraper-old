@@ -1,4 +1,20 @@
 {
+  "178.163.93.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "355020",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "Infoline networks",
+    "org": "",
+    "as": "AS8416 Infoline Ltd.",
+    "query": "178.163.93.66"
+  },
   "95.26.174.177": {
     "status": "success",
     "country": "Russia",
@@ -175,21 +191,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.185.43.203"
   },
-  "138.64.114.87": {
+  "101.55.170.99": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Ōita",
+    "zip": "870-0811",
+    "lat": 33.2337,
+    "lon": 131.5928,
     "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.114.87"
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9614 Oita Cable Telecom Co,ltd.",
+    "query": "101.55.170.99"
   },
   "212.3.142.92": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.20"
-  },
-  "222.235.7.210": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.235.7.210"
   },
   "219.100.37.49": {
     "status": "success",
