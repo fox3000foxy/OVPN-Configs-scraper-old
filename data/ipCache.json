@@ -1087,6 +1087,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.147.10.203"
   },
+  "115.37.104.31": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0031",
+    "lat": 34.7268,
+    "lon": 136.5145,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "115.37.104.31"
+  },
   "116.82.212.35": {
     "status": "success",
     "country": "Japan",
@@ -1150,22 +1166,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.203.144.182"
-  },
-  "115.37.104.31": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0031",
-    "lat": 34.7268,
-    "lon": 136.5145,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "115.37.104.31"
   },
   "77.35.11.231": {
     "status": "success",
