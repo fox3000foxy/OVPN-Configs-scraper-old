@@ -607,22 +607,6 @@
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.35.81.23"
   },
-  "219.100.37.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.168"
-  },
   "67.185.85.130": {
     "status": "success",
     "country": "United States",
@@ -638,6 +622,22 @@
     "org": "Comcast Cable Communications, Inc.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "67.185.85.130"
+  },
+  "219.100.37.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.168"
   },
   "219.100.37.29": {
     "status": "success",
@@ -830,6 +830,22 @@
     "org": "New Media Co., Ltd",
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
+  },
+  "210.245.29.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "CHINGLUH",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.29.220"
   },
   "118.17.87.173": {
     "status": "success",
@@ -1950,22 +1966,6 @@
     "org": "DLIVE Gangnam Cable TV",
     "as": "AS9943 KangNam CableTV",
     "query": "113.10.25.18"
-  },
-  "119.204.165.207": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "283",
-    "lat": 36.6202,
-    "lon": 127.4243,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.204.165.207"
   },
   "186.122.11.238": {
     "status": "success",
