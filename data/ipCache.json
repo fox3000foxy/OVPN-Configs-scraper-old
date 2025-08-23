@@ -815,6 +815,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.27.53"
   },
+  "210.245.29.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "CHINGLUH",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.29.220"
+  },
   "118.17.87.173": {
     "status": "success",
     "country": "Japan",
@@ -1055,22 +1071,6 @@
     "as": "AS7552 Viettel Group",
     "query": "115.75.74.230"
   },
-  "60.94.219.155": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.94.219.155"
-  },
   "184.22.17.171": {
     "status": "success",
     "country": "Thailand",
@@ -1102,22 +1102,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "183.101.189.78"
-  },
-  "211.216.239.54": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daejeon",
-    "zip": "35242",
-    "lat": 36.3566,
-    "lon": 127.3849,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.216.239.54"
   },
   "125.135.231.241": {
     "status": "success",
@@ -1423,22 +1407,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.64.214.156"
   },
-  "126.110.119.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.110.119.30"
-  },
   "203.165.155.236": {
     "status": "success",
     "country": "Japan",
@@ -1454,6 +1422,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "203.165.155.236"
+  },
+  "126.110.119.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.110.119.30"
   },
   "106.159.253.57": {
     "status": "success",
@@ -1471,22 +1455,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.253.57"
   },
-  "202.177.66.20": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Iruma",
-    "zip": "358-0011",
-    "lat": 35.817,
-    "lon": 139.408,
-    "timezone": "Asia/Tokyo",
-    "isp": "Iruma CATV co.",
-    "org": "",
-    "as": "AS24271 Iruma CATV co.",
-    "query": "202.177.66.20"
-  },
   "126.29.125.118": {
     "status": "success",
     "country": "Japan",
@@ -1502,6 +1470,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.29.125.118"
+  },
+  "202.177.66.20": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Iruma",
+    "zip": "358-0011",
+    "lat": 35.817,
+    "lon": 139.408,
+    "timezone": "Asia/Tokyo",
+    "isp": "Iruma CATV co.",
+    "org": "",
+    "as": "AS24271 Iruma CATV co.",
+    "query": "202.177.66.20"
   },
   "133.114.229.173": {
     "status": "success",
