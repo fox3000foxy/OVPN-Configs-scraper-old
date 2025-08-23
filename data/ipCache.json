@@ -1167,22 +1167,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.180.77"
   },
-  "118.71.204.136": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.204.136"
-  },
   "122.99.21.46": {
     "status": "success",
     "country": "Taiwan",
@@ -1966,6 +1950,22 @@
     "org": "Sktv+ Llc.",
     "as": "AS42742 InterkamService LLC",
     "query": "78.157.231.174"
+  },
+  "218.37.122.203": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "153",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS17864 SK Broadband Co Ltd",
+    "query": "218.37.122.203"
   },
   "181.116.60.240": {
     "status": "success",
