@@ -1183,22 +1183,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.153.5.207"
   },
-  "60.42.86.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "60.42.86.49"
-  },
   "219.104.41.232": {
     "status": "success",
     "country": "Japan",
@@ -1247,6 +1231,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.66.67"
   },
+  "121.3.23.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.3.23.96"
+  },
   "103.88.119.198": {
     "status": "success",
     "country": "Vietnam",
@@ -1278,22 +1278,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.93.66.150"
-  },
-  "121.3.23.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.3.23.96"
   },
   "92.202.213.130": {
     "status": "success",
@@ -1374,6 +1358,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.4.204"
+  },
+  "106.242.0.235": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "478",
+    "lat": 35.1954,
+    "lon": 129.0571,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.242.0.235"
   },
   "221.161.75.214": {
     "status": "success",
@@ -1583,22 +1583,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.191.12.235"
   },
-  "112.172.1.85": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Gyeyang-gu",
-    "zip": "210",
-    "lat": 37.5512,
-    "lon": 126.7341,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.172.1.85"
-  },
   "58.237.222.155": {
     "status": "success",
     "country": "South Korea",
@@ -1678,6 +1662,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.114.93.139"
+  },
+  "92.19.114.253": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "SCT",
+    "regionName": "Scotland",
+    "city": "Glasgow",
+    "zip": "G13",
+    "lat": 55.8953,
+    "lon": -4.351,
+    "timezone": "Europe/London",
+    "isp": "TalkTalk",
+    "org": "Carphone Warehouse Broadband Services",
+    "as": "AS13285 TalkTalk Communications Limited",
+    "query": "92.19.114.253"
   },
   "220.118.76.44": {
     "status": "success",
@@ -1903,22 +1903,6 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "38.42.52.163": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Los Angeles",
-    "zip": "90027",
-    "lat": 34.1004,
-    "lon": -118.2946,
-    "timezone": "America/Los_Angeles",
-    "isp": "Starry, Inc.",
-    "org": "Starry, Inc",
-    "as": "AS395354 Starry, Inc.",
-    "query": "38.42.52.163"
-  },
   "182.213.69.54": {
     "status": "success",
     "country": "South Korea",
@@ -1966,6 +1950,22 @@
     "org": "OJSC \"VolgaTelecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.49.154.231"
+  },
+  "180.196.175.144": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Suzuka",
+    "zip": "513-0801",
+    "lat": 34.8853,
+    "lon": 136.5796,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.196.175.144"
   },
   "70.29.169.225": {
     "status": "success",
