@@ -607,22 +607,6 @@
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.35.81.23"
   },
-  "67.185.85.130": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Kirkland",
-    "zip": "98034",
-    "lat": 47.7229,
-    "lon": -122.1961,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "67.185.85.130"
-  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -638,6 +622,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.168"
+  },
+  "67.185.85.130": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Kirkland",
+    "zip": "98034",
+    "lat": 47.7229,
+    "lon": -122.1961,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, Inc.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "67.185.85.130"
   },
   "219.100.37.29": {
     "status": "success",
