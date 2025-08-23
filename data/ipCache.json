@@ -703,6 +703,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.109.13.142"
   },
+  "59.29.254.93": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "067",
+    "lat": 37.4802,
+    "lon": 127.0444,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.29.254.93"
+  },
+  "126.34.193.162": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.34.193.162"
+  },
   "121.142.168.169": {
     "status": "success",
     "country": "South Korea",
@@ -766,22 +798,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.168.207.109"
-  },
-  "126.34.193.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.34.193.162"
   },
   "182.21.139.78": {
     "status": "success",
@@ -1071,6 +1087,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.60.124.202"
   },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
+  },
   "92.19.114.38": {
     "status": "success",
     "country": "United Kingdom",
@@ -1102,22 +1134,6 @@
     "org": "",
     "as": "AS7552 Viettel Group",
     "query": "117.2.236.149"
-  },
-  "210.165.136.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Nagareyama",
-    "zip": "270-0151",
-    "lat": 35.8566,
-    "lon": 139.9185,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "InfoSphere",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "210.165.136.195"
   },
   "122.145.117.190": {
     "status": "success",
@@ -1631,22 +1647,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.214.51.62"
   },
-  "211.199.17.252": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "412",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.199.17.252"
-  },
   "1.235.107.148": {
     "status": "success",
     "country": "South Korea",
@@ -1662,6 +1662,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.235.107.148"
+  },
+  "211.199.17.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.199.17.252"
   },
   "42.118.44.100": {
     "status": "success",
@@ -1934,22 +1950,6 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.57.105"
-  },
-  "92.37.219.9": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "KHT RU",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.37.219.9"
   },
   "106.172.53.118": {
     "status": "success",
