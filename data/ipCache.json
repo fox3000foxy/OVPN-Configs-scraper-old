@@ -639,22 +639,6 @@
     "as": "AS11404 Wave Broadband",
     "query": "76.14.40.202"
   },
-  "219.100.37.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.3"
-  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "ABN",
     "as": "AS17608 ABN",
     "query": "113.199.32.62"
+  },
+  "210.99.216.226": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.99.216.226"
   },
   "186.122.11.238": {
     "status": "success",
