@@ -1,4 +1,52 @@
 {
+  "59.8.32.44": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Jeju City",
+    "zip": "630",
+    "lat": 33.4832,
+    "lon": 126.4837,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.8.32.44"
+  },
+  "222.106.157.220": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "060",
+    "lat": 37.5245,
+    "lon": 127.0354,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.106.157.220"
+  },
+  "59.20.174.26": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "487",
+    "lat": 35.1266,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.20.174.26"
+  },
   "14.193.3.85": {
     "status": "success",
     "country": "Japan",
@@ -143,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.39.14"
   },
-  "58.138.59.133": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Minamiurawa",
-    "zip": "336-0017",
-    "lat": 35.8475,
-    "lon": 139.6753,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "58.138.59.133"
-  },
   "171.6.244.35": {
     "status": "success",
     "country": "Thailand",
@@ -190,6 +222,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.181.100.35"
+  },
+  "133.203.20.192": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "NEC BIGLOBE Ltd.",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "133.203.20.192"
   },
   "219.100.37.60": {
     "status": "success",
