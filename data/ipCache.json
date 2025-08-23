@@ -1,4 +1,36 @@
 {
+  "114.200.230.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "41934",
+    "lat": 35.8723,
+    "lon": 128.5924,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.200.230.80"
+  },
+  "113.10.25.18": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "06245",
+    "lat": 37.5167,
+    "lon": 127.042,
+    "timezone": "Asia/Seoul",
+    "isp": "KangNam CableTV",
+    "org": "DLIVE Gangnam Cable TV",
+    "as": "AS9943 KangNam CableTV",
+    "query": "113.10.25.18"
+  },
   "122.103.192.108": {
     "status": "success",
     "country": "Japan",
@@ -159,22 +191,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "133.218.13.207"
   },
-  "222.106.157.220": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "060",
-    "lat": 37.5245,
-    "lon": 127.0354,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.106.157.220"
-  },
   "42.113.90.133": {
     "status": "success",
     "country": "Vietnam",
@@ -190,6 +206,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.90.133"
+  },
+  "118.104.252.68": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Suzuka",
+    "zip": "513-0801",
+    "lat": 34.8853,
+    "lon": 136.5796,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "118.104.252.68"
   },
   "178.163.93.66": {
     "status": "success",
@@ -398,38 +430,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
-  },
-  "114.200.230.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.200.230.80"
-  },
-  "113.10.25.18": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "06245",
-    "lat": 37.5167,
-    "lon": 127.042,
-    "timezone": "Asia/Seoul",
-    "isp": "KangNam CableTV",
-    "org": "DLIVE Gangnam Cable TV",
-    "as": "AS9943 KangNam CableTV",
-    "query": "113.10.25.18"
   },
   "219.100.37.49": {
     "status": "success",
