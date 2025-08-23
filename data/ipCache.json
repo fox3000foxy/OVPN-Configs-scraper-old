@@ -1695,22 +1695,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.129.90.182"
   },
-  "116.220.199.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Higashimurayama",
-    "zip": "189-0021",
-    "lat": 35.7554,
-    "lon": 139.4693,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "116.220.199.154"
-  },
   "114.152.205.177": {
     "status": "success",
     "country": "Japan",
@@ -1726,6 +1710,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT Communications Corporation",
     "query": "114.152.205.177"
+  },
+  "116.220.199.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Higashimurayama",
+    "zip": "189-0021",
+    "lat": 35.7554,
+    "lon": 139.4693,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.220.199.154"
   },
   "58.191.121.135": {
     "status": "success",
