@@ -703,22 +703,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.136.187.85"
   },
-  "118.44.169.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.44.169.33"
-  },
   "119.231.65.152": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "119.231.65.152"
+  },
+  "118.44.169.33": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "284",
+    "lat": 36.637,
+    "lon": 127.4339,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.44.169.33"
   },
   "182.235.231.66": {
     "status": "success",
@@ -1198,22 +1198,6 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "109.173.82.211"
-  },
-  "126.78.200.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.78.200.96"
   },
   "1.21.119.228": {
     "status": "success",
@@ -2014,6 +1998,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "119.198.176.216"
+  },
+  "39.111.17.94": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "09",
+    "regionName": "Tochigi",
+    "city": "Utsunomiya",
+    "zip": "320-0031",
+    "lat": 36.5707,
+    "lon": 139.8822,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.17.94"
   },
   "182.70.132.65": {
     "status": "success",
