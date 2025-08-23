@@ -1119,6 +1119,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.147.10.203"
   },
+  "131.147.4.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Chikusei",
+    "zip": "308-0821",
+    "lat": 36.3073,
+    "lon": 140.0031,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.4.204"
+  },
   "125.9.31.182": {
     "status": "success",
     "country": "Japan",
@@ -1326,6 +1342,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.79.87.77"
+  },
+  "60.125.195.98": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.125.195.98"
   },
   "86.99.148.146": {
     "status": "success",
@@ -1567,22 +1599,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.188.98.109"
   },
-  "125.131.29.196": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "13606",
-    "lat": 37.3654,
-    "lon": 127.122,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.131.29.196"
-  },
   "49.228.122.67": {
     "status": "success",
     "country": "Thailand",
@@ -1758,22 +1774,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.43.165.74"
-  },
-  "171.4.220.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.220.44"
   },
   "46.233.225.86": {
     "status": "success",
