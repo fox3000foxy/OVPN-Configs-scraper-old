@@ -1087,6 +1087,22 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.195.104"
   },
+  "123.1.14.46": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Hamamatsu",
+    "zip": "432-8041",
+    "lat": 34.6944,
+    "lon": 137.7216,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.1.14.46"
+  },
   "116.82.239.43": {
     "status": "success",
     "country": "Japan",
@@ -1151,22 +1167,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.110.135"
   },
-  "111.238.128.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.128.11"
-  },
   "106.153.5.207": {
     "status": "success",
     "country": "Japan",
@@ -1183,21 +1183,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.153.5.207"
   },
-  "219.104.41.232": {
+  "180.196.175.144": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Noda",
-    "zip": "278-0001",
-    "lat": 35.9718,
-    "lon": 139.8935,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Suzuka",
+    "zip": "513-0801",
+    "lat": 34.8853,
+    "lon": 136.5796,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Japan Network Information Center",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "219.104.41.232"
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.196.175.144"
   },
   "60.42.86.49": {
     "status": "success",
@@ -1214,6 +1214,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT Communications Corporation",
     "query": "60.42.86.49"
+  },
+  "219.104.41.232": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Noda",
+    "zip": "278-0001",
+    "lat": 35.9718,
+    "lon": 139.8935,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Japan Network Information Center",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "219.104.41.232"
   },
   "126.37.240.235": {
     "status": "success",
@@ -1950,22 +1966,6 @@
     "org": "OJSC \"VolgaTelecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.49.154.231"
-  },
-  "180.196.175.144": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Suzuka",
-    "zip": "513-0801",
-    "lat": 34.8853,
-    "lon": 136.5796,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.196.175.144"
   },
   "128.68.175.55": {
     "status": "success",
