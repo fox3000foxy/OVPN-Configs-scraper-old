@@ -1087,22 +1087,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.231.146"
   },
-  "90.149.86.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Futako",
-    "zip": "213-0001",
-    "lat": 35.6008,
-    "lon": 139.6177,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "90.149.86.111"
-  },
   "86.99.148.146": {
     "status": "success",
     "country": "United Arab Emirates",
@@ -1151,22 +1135,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "125.201.64.98"
   },
-  "210.250.96.130": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Yahata",
-    "zip": "952-1311",
-    "lat": 37.9943,
-    "lon": 138.3437,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "210.250.96.130"
-  },
   "182.70.132.65": {
     "status": "success",
     "country": "India",
@@ -1182,6 +1150,22 @@
     "org": "Bharti Airtel Ltd",
     "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
     "query": "182.70.132.65"
+  },
+  "210.250.96.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Yahata",
+    "zip": "952-1311",
+    "lat": 37.9943,
+    "lon": 138.3437,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "SO-Net Service",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "210.250.96.130"
   },
   "118.216.175.105": {
     "status": "success",
@@ -1982,6 +1966,22 @@
     "org": "Science Production Enterprise Solver Ltd",
     "as": "AS15461 NVTOV \"SOLVER\"",
     "query": "91.219.222.26"
+  },
+  "157.120.13.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "206-0042",
+    "lat": 35.6673,
+    "lon": 139.751,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT PC Communications, Inc.",
+    "org": "NTT PC Communications, Inc.",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "157.120.13.212"
   },
   "1.66.34.35": {
     "status": "success",
