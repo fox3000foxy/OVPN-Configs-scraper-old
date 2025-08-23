@@ -687,6 +687,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
   },
+  "14.132.27.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.27.53"
+  },
   "82.162.191.20": {
     "status": "success",
     "country": "Russia",
@@ -718,22 +734,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
-  },
-  "14.132.27.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.27.53"
   },
   "106.136.47.234": {
     "status": "success",
@@ -1855,22 +1855,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.202.12.166"
   },
-  "38.42.52.163": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Los Angeles",
-    "zip": "90027",
-    "lat": 34.1004,
-    "lon": -118.2946,
-    "timezone": "America/Los_Angeles",
-    "isp": "Starry, Inc.",
-    "org": "Starry, Inc",
-    "as": "AS395354 Starry, Inc.",
-    "query": "38.42.52.163"
-  },
   "5.8.206.213": {
     "status": "success",
     "country": "Russia",
@@ -1886,6 +1870,22 @@
     "org": "CJSC Transtelecom-DV",
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
+  },
+  "38.42.52.163": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Los Angeles",
+    "zip": "90027",
+    "lat": 34.1004,
+    "lon": -118.2946,
+    "timezone": "America/Los_Angeles",
+    "isp": "Starry, Inc.",
+    "org": "Starry, Inc",
+    "as": "AS395354 Starry, Inc.",
+    "query": "38.42.52.163"
   },
   "1.52.153.90": {
     "status": "success",
