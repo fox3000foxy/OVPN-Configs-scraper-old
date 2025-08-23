@@ -1007,22 +1007,6 @@
     "as": "AS27699 TELEFÔNICA BRASIL S.A",
     "query": "179.228.177.69"
   },
-  "221.149.220.108": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.149.220.108"
-  },
   "49.228.177.50": {
     "status": "success",
     "country": "Thailand",
@@ -1647,6 +1631,22 @@
     "as": "AS17931 Netforest,Inc.",
     "query": "203.153.79.138"
   },
+  "211.185.43.203": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.43.203"
+  },
   "60.135.232.23": {
     "status": "success",
     "country": "Japan",
@@ -1695,22 +1695,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.96.106.5"
   },
-  "211.185.43.203": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.185.43.203"
-  },
   "60.110.83.167": {
     "status": "success",
     "country": "Japan",
@@ -1727,22 +1711,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.110.83.167"
   },
-  "27.136.219.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0011",
-    "lat": 35.7949,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.136.219.48"
-  },
   "125.30.45.241": {
     "status": "success",
     "country": "Japan",
@@ -1758,6 +1726,22 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "125.30.45.241"
+  },
+  "27.136.219.48": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0011",
+    "lat": 35.7949,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.136.219.48"
   },
   "211.217.167.92": {
     "status": "success",
@@ -1935,21 +1919,37 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.118.42.95"
   },
-  "178.206.64.73": {
+  "92.37.200.194": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "TA",
-    "regionName": "Tatarstan Republic",
-    "city": "Nizhnekamsk",
-    "zip": "423576",
-    "lat": 55.6404,
-    "lon": 51.8175,
-    "timezone": "Europe/Moscow",
-    "isp": "TATTELECOM",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Komsomolsk-on-Amur",
+    "zip": "681000",
+    "lat": 50.5467,
+    "lon": 137.0144,
+    "timezone": "Asia/Vladivostok",
+    "isp": "KHT RU",
     "org": "",
-    "as": "AS28840 PJSC \"TATTELECOM\"",
-    "query": "178.206.64.73"
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.200.194"
+  },
+  "221.162.113.207": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.162.113.207"
   },
   "186.122.11.238": {
     "status": "success",
