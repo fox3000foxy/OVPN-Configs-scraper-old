@@ -1439,22 +1439,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.124.51"
   },
-  "180.198.86.220": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0061",
-    "lat": 34.7189,
-    "lon": 136.5059,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.198.86.220"
-  },
   "113.153.192.20": {
     "status": "success",
     "country": "Japan",
@@ -1775,22 +1759,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.39.200.167"
   },
-  "183.99.200.65": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.99.200.65"
-  },
   "220.122.43.73": {
     "status": "success",
     "country": "South Korea",
@@ -1903,6 +1871,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.208.128.33"
   },
+  "171.4.220.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.220.44"
+  },
   "175.204.167.19": {
     "status": "success",
     "country": "South Korea",
@@ -1918,6 +1902,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.204.167.19"
+  },
+  "122.0.41.177": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "54592",
+    "lat": 35.9582,
+    "lon": 126.951,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kcnnet",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "122.0.41.177"
   },
   "106.172.53.118": {
     "status": "success",
