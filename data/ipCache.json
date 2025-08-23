@@ -815,6 +815,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
+  "180.197.7.89": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.197.7.89"
+  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -831,22 +847,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.111.221.149"
   },
-  "60.113.169.122": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.113.169.122"
-  },
   "211.228.234.43": {
     "status": "success",
     "country": "South Korea",
@@ -862,6 +862,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.228.234.43"
+  },
+  "60.113.169.122": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.113.169.122"
   },
   "122.99.21.46": {
     "status": "success",
@@ -1263,22 +1279,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.85.84.65"
   },
-  "111.107.20.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Nago",
-    "zip": "905-0011",
-    "lat": 26.6035,
-    "lon": 127.973,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.107.20.111"
-  },
   "116.222.29.22": {
     "status": "success",
     "country": "Japan",
@@ -1311,6 +1311,22 @@
     "as": "AS8447 A1 Telekom Austria AG",
     "query": "91.115.113.141"
   },
+  "111.107.20.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Nago",
+    "zip": "905-0011",
+    "lat": 26.6035,
+    "lon": 127.973,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.107.20.111"
+  },
   "106.176.30.209": {
     "status": "success",
     "country": "Japan",
@@ -1327,21 +1343,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.176.30.209"
   },
-  "126.251.1.126": {
+  "60.127.63.169": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Jōetsu",
-    "zip": "943-0821",
-    "lat": 37.1222,
-    "lon": 138.2451,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "Joetsu Cable Vision",
-    "org": "SOFTBANK Corp",
-    "as": "AS131937 Joetsu Cable Vision",
-    "query": "126.251.1.126"
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.127.63.169"
   },
   "5.8.206.213": {
     "status": "success",
@@ -1359,21 +1375,21 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "152.117.232.204": {
+  "126.251.1.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Meinohama",
-    "zip": "819-0001",
-    "lat": 33.5895,
-    "lon": 130.3197,
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Jōetsu",
+    "zip": "943-0821",
+    "lat": 37.1222,
+    "lon": 138.2451,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "152.117.232.204"
+    "isp": "Joetsu Cable Vision",
+    "org": "SOFTBANK Corp",
+    "as": "AS131937 Joetsu Cable Vision",
+    "query": "126.251.1.126"
   },
   "220.148.142.95": {
     "status": "success",
@@ -1406,22 +1422,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.104.17.219"
-  },
-  "60.127.63.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.127.63.169"
   },
   "220.126.162.145": {
     "status": "success",
