@@ -1119,22 +1119,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
   },
-  "106.153.5.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Sakura",
-    "zip": "285-0021",
-    "lat": 35.7134,
-    "lon": 140.2312,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.153.5.207"
-  },
   "92.19.114.38": {
     "status": "success",
     "country": "United Kingdom",
