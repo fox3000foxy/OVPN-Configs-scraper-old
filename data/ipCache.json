@@ -1071,6 +1071,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.94.219.155"
   },
+  "184.22.17.171": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.17.171"
+  },
   "183.101.189.78": {
     "status": "success",
     "country": "South Korea",
@@ -1214,22 +1230,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.136.81.182"
-  },
-  "125.198.42.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kamiochiai",
-    "zip": "161-8511",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "125.198.42.151"
   },
   "221.45.69.114": {
     "status": "success",
