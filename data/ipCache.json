@@ -815,22 +815,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
-  "180.197.7.89": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.197.7.89"
-  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -1295,22 +1279,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.222.29.22"
   },
-  "91.115.113.141": {
-    "status": "success",
-    "country": "Austria",
-    "countryCode": "AT",
-    "region": "5",
-    "regionName": "Salzburg",
-    "city": "Salzburg",
-    "zip": "5020",
-    "lat": 47.8008,
-    "lon": 13.0443,
-    "timezone": "Europe/Vienna",
-    "isp": "HIGHWAY194",
-    "org": "High Speed Internet Customers",
-    "as": "AS8447 A1 Telekom Austria AG",
-    "query": "91.115.113.141"
-  },
   "111.107.20.111": {
     "status": "success",
     "country": "Japan",
@@ -1326,6 +1294,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.107.20.111"
+  },
+  "91.115.113.141": {
+    "status": "success",
+    "country": "Austria",
+    "countryCode": "AT",
+    "region": "5",
+    "regionName": "Salzburg",
+    "city": "Salzburg",
+    "zip": "5020",
+    "lat": 47.8008,
+    "lon": 13.0443,
+    "timezone": "Europe/Vienna",
+    "isp": "HIGHWAY194",
+    "org": "High Speed Internet Customers",
+    "as": "AS8447 A1 Telekom Austria AG",
+    "query": "91.115.113.141"
   },
   "106.176.30.209": {
     "status": "success",
@@ -1343,21 +1327,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.176.30.209"
   },
-  "60.127.63.169": {
+  "126.251.1.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Jōetsu",
+    "zip": "943-0821",
+    "lat": 37.1222,
+    "lon": 138.2451,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.127.63.169"
+    "isp": "Joetsu Cable Vision",
+    "org": "SOFTBANK Corp",
+    "as": "AS131937 Joetsu Cable Vision",
+    "query": "126.251.1.126"
   },
   "5.8.206.213": {
     "status": "success",
@@ -1375,21 +1359,21 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "126.251.1.126": {
+  "152.117.232.204": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Jōetsu",
-    "zip": "943-0821",
-    "lat": 37.1222,
-    "lon": 138.2451,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Meinohama",
+    "zip": "819-0001",
+    "lat": 33.5895,
+    "lon": 130.3197,
     "timezone": "Asia/Tokyo",
-    "isp": "Joetsu Cable Vision",
-    "org": "SOFTBANK Corp",
-    "as": "AS131937 Joetsu Cable Vision",
-    "query": "126.251.1.126"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "152.117.232.204"
   },
   "220.148.142.95": {
     "status": "success",
@@ -1422,6 +1406,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.104.17.219"
+  },
+  "60.127.63.169": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.127.63.169"
   },
   "220.126.162.145": {
     "status": "success",
