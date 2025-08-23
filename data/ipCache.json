@@ -1087,22 +1087,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.147.3.39"
   },
-  "121.104.177.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kurume",
-    "zip": "830-0031",
-    "lat": 33.3164,
-    "lon": 130.5099,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.104.177.123"
-  },
   "123.1.24.191": {
     "status": "success",
     "country": "Japan",
@@ -1118,6 +1102,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.1.24.191"
+  },
+  "121.104.177.123": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kurume",
+    "zip": "830-0031",
+    "lat": 33.3164,
+    "lon": 130.5099,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.104.177.123"
   },
   "126.78.200.96": {
     "status": "success",
@@ -1599,6 +1599,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.119.228"
   },
+  "61.21.199.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Sumiyoshichō",
+    "zip": "202-0001",
+    "lat": 35.7414,
+    "lon": 139.5396,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.21.199.29"
+  },
   "111.90.98.127": {
     "status": "success",
     "country": "Japan",
@@ -1966,22 +1982,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.200.194"
-  },
-  "122.202.41.126": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41472",
-    "lat": 35.9053,
-    "lon": 128.608,
-    "timezone": "Asia/Seoul",
-    "isp": "Kumho Cable",
-    "org": "HCN",
-    "as": "AS10175 Kumho Cable",
-    "query": "122.202.41.126"
   },
   "181.116.60.240": {
     "status": "success",
