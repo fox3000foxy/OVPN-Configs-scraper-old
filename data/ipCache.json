@@ -1695,6 +1695,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.109.249"
   },
+  "49.228.247.86": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.247.86"
+  },
   "211.178.35.232": {
     "status": "success",
     "country": "South Korea",
@@ -1966,22 +1982,6 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "180.145.130.101"
-  },
-  "157.120.13.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "206-0042",
-    "lat": 35.6673,
-    "lon": 139.751,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "NTT PC Communications, Inc.",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "157.120.13.212"
   },
   "186.130.153.171": {
     "status": "success",
@@ -2350,6 +2350,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.221.12.239"
+  },
+  "157.120.13.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "206-0042",
+    "lat": 35.6673,
+    "lon": 139.751,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT PC Communications, Inc.",
+    "org": "NTT PC Communications, Inc.",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "157.120.13.212"
   },
   "159.28.244.249": {
     "status": "success",
