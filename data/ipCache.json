@@ -1,4 +1,20 @@
 {
+  "118.32.42.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "121",
+    "lat": 37.6675,
+    "lon": 127.2383,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.32.42.108"
+  },
   "61.82.108.143": {
     "status": "success",
     "country": "South Korea",
@@ -175,21 +191,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.34.175.127"
   },
-  "61.26.8.101": {
+  "126.218.214.56": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Higashimukōjima",
-    "zip": "131-0031",
-    "lat": 35.7357,
-    "lon": 139.8253,
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.26.8.101"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.218.214.56"
   },
   "49.228.105.161": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "131.129.141.44"
-  },
-  "185.82.196.19": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Zheleznogorsk",
-    "zip": "660009",
-    "lat": 56.2516,
-    "lon": 93.5445,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Maxima, LLC",
-    "org": "",
-    "as": "AS210267 Maxima, LLC",
-    "query": "185.82.196.19"
   },
   "219.100.37.49": {
     "status": "success",
@@ -1550,6 +1550,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.37"
+  },
+  "61.26.8.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Higashimukōjima",
+    "zip": "131-0031",
+    "lat": 35.7357,
+    "lon": 139.8253,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.26.8.101"
   },
   "14.33.107.111": {
     "status": "success",
