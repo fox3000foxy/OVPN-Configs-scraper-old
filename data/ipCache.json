@@ -1071,6 +1071,22 @@
     "as": "AS7552 Viettel Group",
     "query": "115.75.74.230"
   },
+  "60.94.219.155": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.94.219.155"
+  },
   "184.22.17.171": {
     "status": "success",
     "country": "Thailand",
