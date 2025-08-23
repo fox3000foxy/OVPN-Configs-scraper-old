@@ -703,6 +703,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
   },
+  "118.1.246.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.1.246.146"
+  },
   "82.162.191.20": {
     "status": "success",
     "country": "Russia",
@@ -1950,22 +1966,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.196.175.144"
-  },
-  "128.68.175.55": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "355020",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS8402 PJSC \"Vimpelcom\"",
-    "query": "128.68.175.55"
   },
   "70.29.169.225": {
     "status": "success",
