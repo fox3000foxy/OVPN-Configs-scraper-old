@@ -831,22 +831,6 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
   },
-  "210.245.29.220": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "CHINGLUH",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.29.220"
-  },
   "118.17.87.173": {
     "status": "success",
     "country": "Japan",
@@ -1087,22 +1071,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.94.219.155"
   },
-  "184.22.17.171": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.17.171"
-  },
   "183.101.189.78": {
     "status": "success",
     "country": "South Korea",
@@ -1246,6 +1214,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.136.81.182"
+  },
+  "125.198.42.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamiochiai",
+    "zip": "161-8511",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "125.198.42.151"
   },
   "221.45.69.114": {
     "status": "success",
@@ -1966,6 +1950,22 @@
     "org": "DLIVE Gangnam Cable TV",
     "as": "AS9943 KangNam CableTV",
     "query": "113.10.25.18"
+  },
+  "119.204.165.207": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "283",
+    "lat": 36.6202,
+    "lon": 127.4243,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.204.165.207"
   },
   "186.122.11.238": {
     "status": "success",
