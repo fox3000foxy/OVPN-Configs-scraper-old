@@ -991,6 +991,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.203.71.47"
   },
+  "14.38.102.250": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pyeongtaek-si",
+    "zip": "178",
+    "lat": 37.0009,
+    "lon": 127.0859,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.38.102.250"
+  },
   "125.56.117.10": {
     "status": "success",
     "country": "Japan",
@@ -1423,6 +1439,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.141.111.125"
   },
+  "80.218.232.247": {
+    "status": "success",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": "NE",
+    "regionName": "Neuchâtel",
+    "city": "Neuchâtel",
+    "zip": "2000",
+    "lat": 46.9904,
+    "lon": 6.9339,
+    "timezone": "Europe/Zurich",
+    "isp": "UPC Schweiz GmbH",
+    "org": "UPC Schweiz GmbH",
+    "as": "AS6730 Sunrise GmbH",
+    "query": "80.218.232.247"
+  },
   "203.251.123.85": {
     "status": "success",
     "country": "South Korea",
@@ -1582,6 +1614,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.48.182.76"
+  },
+  "211.57.147.198": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Andong",
+    "zip": "367",
+    "lat": 36.5555,
+    "lon": 128.7515,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.57.147.198"
   },
   "106.153.80.158": {
     "status": "success",
@@ -1918,54 +1966,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "218.159.62.209"
-  },
-  "14.63.51.52": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.63.51.52"
-  },
-  "211.205.161.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-gu",
-    "zip": "043",
-    "lat": 37.5332,
-    "lon": 126.9692,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.161.205"
-  },
-  "39.120.236.16": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "216",
-    "lat": 37.4135,
-    "lon": 126.7153,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.120.236.16"
   },
   "106.137.234.129": {
     "status": "success",
@@ -2958,6 +2958,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "210.100.238.121"
+  },
+  "211.205.161.205": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "043",
+    "lat": 37.5332,
+    "lon": 126.9692,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.161.205"
   },
   "211.219.130.96": {
     "status": "success",
