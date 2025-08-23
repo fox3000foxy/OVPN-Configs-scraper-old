@@ -719,22 +719,6 @@
     "as": "AS30722 Vodafone Italia S.p.A.",
     "query": "109.117.218.134"
   },
-  "114.167.32.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "General placeholder reference all addresses",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "114.167.32.102"
-  },
   "117.18.181.73": {
     "status": "success",
     "country": "Japan",
@@ -750,6 +734,22 @@
     "org": "AMIGO",
     "as": "AS9351 ZTV CO.,LTD",
     "query": "117.18.181.73"
+  },
+  "114.167.32.102": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "General placeholder reference all addresses",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "114.167.32.102"
   },
   "106.158.53.29": {
     "status": "success",
@@ -1775,22 +1775,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.138.248.91"
   },
-  "118.35.174.235": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "31",
-    "regionName": "Ulsan",
-    "city": "Buk-gu",
-    "zip": "442",
-    "lat": 35.5732,
-    "lon": 129.3765,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.35.174.235"
-  },
   "121.188.176.107": {
     "status": "success",
     "country": "South Korea",
@@ -1903,22 +1887,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.220.110"
   },
-  "178.206.64.73": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TA",
-    "regionName": "Tatarstan Republic",
-    "city": "Nizhnekamsk",
-    "zip": "423576",
-    "lat": 55.6404,
-    "lon": 51.8175,
-    "timezone": "Europe/Moscow",
-    "isp": "TATTELECOM",
-    "org": "",
-    "as": "AS28840 PJSC \"TATTELECOM\"",
-    "query": "178.206.64.73"
-  },
   "175.118.42.95": {
     "status": "success",
     "country": "South Korea",
@@ -1935,6 +1903,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.118.42.95"
   },
+  "178.206.64.73": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TA",
+    "regionName": "Tatarstan Republic",
+    "city": "Nizhnekamsk",
+    "zip": "423576",
+    "lat": 55.6404,
+    "lon": 51.8175,
+    "timezone": "Europe/Moscow",
+    "isp": "TATTELECOM",
+    "org": "",
+    "as": "AS28840 PJSC \"TATTELECOM\"",
+    "query": "178.206.64.73"
+  },
   "92.37.200.194": {
     "status": "success",
     "country": "Russia",
@@ -1950,6 +1934,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.200.194"
+  },
+  "221.162.113.207": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.162.113.207"
   },
   "181.116.60.240": {
     "status": "success",
