@@ -1071,22 +1071,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.23.96"
   },
-  "111.238.128.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.128.11"
-  },
   "126.37.240.235": {
     "status": "success",
     "country": "Japan",
@@ -1774,6 +1758,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.208.128.33"
+  },
+  "95.179.120.4": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "LIP",
+    "regionName": "Lipetsk Oblast",
+    "city": "Lipetsk",
+    "zip": "398008",
+    "lat": 52.6072,
+    "lon": 39.5709,
+    "timezone": "Europe/Moscow",
+    "isp": "Address point-to-poiLipetsk Regional Public Network BBN-2/13 General",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.179.120.4"
   },
   "218.155.107.109": {
     "status": "success",
