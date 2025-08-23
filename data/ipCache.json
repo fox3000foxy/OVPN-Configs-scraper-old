@@ -687,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.36.5"
   },
-  "117.18.181.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "25",
-    "regionName": "Shiga",
-    "city": "Nomura",
-    "zip": "525-0021",
-    "lat": 35.0334,
-    "lon": 135.9519,
-    "timezone": "Asia/Tokyo",
-    "isp": "ZTV Co., ltd",
-    "org": "AMIGO",
-    "as": "AS9351 ZTV CO.,LTD",
-    "query": "117.18.181.73"
-  },
   "125.136.187.85": {
     "status": "success",
     "country": "South Korea",
@@ -718,6 +702,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.136.187.85"
+  },
+  "117.18.181.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "25",
+    "regionName": "Shiga",
+    "city": "Nomura",
+    "zip": "525-0021",
+    "lat": 35.0334,
+    "lon": 135.9519,
+    "timezone": "Asia/Tokyo",
+    "isp": "ZTV Co., ltd",
+    "org": "AMIGO",
+    "as": "AS9351 ZTV CO.,LTD",
+    "query": "117.18.181.73"
   },
   "114.167.32.102": {
     "status": "success",
@@ -1743,22 +1743,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.135.232.23"
   },
-  "27.136.219.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0011",
-    "lat": 35.7949,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.136.219.48"
-  },
   "126.106.207.11": {
     "status": "success",
     "country": "Japan",
@@ -1774,6 +1758,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.106.207.11"
+  },
+  "27.136.219.48": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0011",
+    "lat": 35.7949,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.136.219.48"
   },
   "60.110.83.167": {
     "status": "success",
