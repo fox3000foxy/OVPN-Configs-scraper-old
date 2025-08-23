@@ -1919,6 +1919,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.123.89"
   },
+  "159.253.173.33": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom LIR 4",
+    "as": "AS8749 JSC \"Redcom-lnternet\"",
+    "query": "159.253.173.33"
+  },
   "2.49.137.175": {
     "status": "success",
     "country": "United Arab Emirates",
@@ -1966,22 +1982,6 @@
     "org": "NTT PC Communications, Inc.",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "157.120.13.212"
-  },
-  "116.80.75.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "InfoSphere",
-    "org": "NTTPC Communications, Inc",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "116.80.75.113"
   },
   "186.130.153.171": {
     "status": "success",
