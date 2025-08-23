@@ -991,22 +991,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.34.114.221"
   },
-  "112.163.190.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Jinju",
-    "zip": "526",
-    "lat": 35.1684,
-    "lon": 128.031,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.163.190.219"
-  },
   "131.147.239.33": {
     "status": "success",
     "country": "Japan",
@@ -1982,6 +1966,22 @@
     "org": "Redcom LIR 4",
     "as": "AS8749 JSC \"Redcom-lnternet\"",
     "query": "159.253.173.33"
+  },
+  "2.49.137.175": {
+    "status": "success",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "region": "DU",
+    "regionName": "Dubai",
+    "city": "Dubai",
+    "zip": "",
+    "lat": 25.0734,
+    "lon": 55.2979,
+    "timezone": "Asia/Dubai",
+    "isp": "Emirates Telecommunications Corporation",
+    "org": "Etisalat",
+    "as": "AS5384 Emirates Internet",
+    "query": "2.49.137.175"
   },
   "1.66.34.35": {
     "status": "success",
