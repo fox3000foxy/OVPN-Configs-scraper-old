@@ -1,4 +1,36 @@
 {
+  "217.178.143.20": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Multifeed CO.",
+    "org": "Internet Multifeed CO.",
+    "as": "AS55391 INTERNET MULTIFEED CO.",
+    "query": "217.178.143.20"
+  },
+  "119.70.127.101": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anseong",
+    "zip": "175",
+    "lat": 37.0138,
+    "lon": 127.2698,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "119.70.127.101"
+  },
   "92.203.159.128": {
     "status": "success",
     "country": "Japan",
@@ -159,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.195.68.10"
   },
-  "121.164.218.251": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "016",
-    "lat": 37.6576,
-    "lon": 127.072,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.164.218.251"
-  },
   "114.178.61.115": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +206,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT Communications Corporation",
     "query": "114.178.61.115"
+  },
+  "60.237.17.175": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "06",
+    "regionName": "Yamagata",
+    "city": "Yamagata",
+    "zip": "990-0021",
+    "lat": 38.2468,
+    "lon": 140.3683,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "60.237.17.175"
   },
   "175.204.219.167": {
     "status": "success",
@@ -430,38 +462,6 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.204.136"
-  },
-  "70.64.29.101": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "SK",
-    "regionName": "Saskatchewan",
-    "city": "Saskatoon",
-    "zip": "S7V",
-    "lat": 52.0964,
-    "lon": -106.5606,
-    "timezone": "America/Regina",
-    "isp": "Shaw Communications Inc.",
-    "org": "Shaw Communications",
-    "as": "AS6327 Shaw Communications Inc.",
-    "query": "70.64.29.101"
-  },
-  "106.157.175.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "38",
-    "regionName": "Ehime",
-    "city": "Iyo",
-    "zip": "799-3111",
-    "lat": 33.77,
-    "lon": 132.7087,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.157.175.170"
   },
   "219.100.37.49": {
     "status": "success",
