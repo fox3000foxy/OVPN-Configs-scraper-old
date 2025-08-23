@@ -1,4 +1,36 @@
 {
+  "60.93.7.71": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.93.7.71"
+  },
+  "47.146.98.204": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hemet",
+    "zip": "92543",
+    "lat": 33.7443,
+    "lon": -116.9764,
+    "timezone": "America/Los_Angeles",
+    "isp": "Frontier Communications Corporation",
+    "org": "Frontier Communications Solutions",
+    "as": "AS5650 Frontier Communications of America, Inc.",
+    "query": "47.146.98.204"
+  },
   "118.40.161.226": {
     "status": "success",
     "country": "South Korea",
@@ -159,22 +191,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.195.4.56"
   },
-  "138.64.114.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.114.87"
-  },
   "101.55.170.99": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +206,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS9614 Oita Cable Telecom Co,ltd.",
     "query": "101.55.170.99"
+  },
+  "133.186.49.14": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Higashimatsuyama Shi",
+    "zip": "355-0021",
+    "lat": 36.0315,
+    "lon": 139.4081,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "133.186.49.14"
   },
   "86.99.148.146": {
     "status": "success",
@@ -430,38 +462,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.20.174.26"
-  },
-  "14.193.3.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "14.193.3.85"
-  },
-  "106.161.41.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Higashimurayama",
-    "zip": "189-0021",
-    "lat": 35.7554,
-    "lon": 139.4693,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.161.41.4"
   },
   "219.100.37.49": {
     "status": "success",
