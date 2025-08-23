@@ -1215,22 +1215,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.69.114"
   },
-  "112.170.86.132": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.86.132"
-  },
   "175.200.84.194": {
     "status": "success",
     "country": "South Korea",
@@ -1246,6 +1230,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.200.84.194"
+  },
+  "112.170.86.132": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.170.86.132"
   },
   "122.99.21.46": {
     "status": "success",
@@ -1615,22 +1615,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.126.89.27"
   },
-  "202.208.123.206": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Hiroshima",
-    "zip": "730-0831",
-    "lat": 34.3927,
-    "lon": 132.4501,
-    "timezone": "Asia/Tokyo",
-    "isp": "Enecom, Inc.",
-    "org": "Energia Communications, Inc.",
-    "as": "AS18144 Enecom,Inc.",
-    "query": "202.208.123.206"
-  },
   "118.87.151.4": {
     "status": "success",
     "country": "Japan",
@@ -1646,6 +1630,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.87.151.4"
+  },
+  "202.208.123.206": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Hiroshima",
+    "zip": "730-0831",
+    "lat": 34.3927,
+    "lon": 132.4501,
+    "timezone": "Asia/Tokyo",
+    "isp": "Enecom, Inc.",
+    "org": "Energia Communications, Inc.",
+    "as": "AS18144 Enecom,Inc.",
+    "query": "202.208.123.206"
   },
   "124.87.23.105": {
     "status": "success",
