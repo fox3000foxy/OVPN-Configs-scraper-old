@@ -1087,6 +1087,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.231.146"
   },
+  "90.149.86.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Futako",
+    "zip": "213-0001",
+    "lat": 35.6008,
+    "lon": 139.6177,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "90.149.86.111"
+  },
   "86.99.148.146": {
     "status": "success",
     "country": "United Arab Emirates",
@@ -1135,22 +1151,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "125.201.64.98"
   },
-  "182.70.132.65": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "MP",
-    "regionName": "Madhya Pradesh",
-    "city": "Indore",
-    "zip": "452001",
-    "lat": 22.717,
-    "lon": 75.8337,
-    "timezone": "Asia/Kolkata",
-    "isp": "Bharti Airtel",
-    "org": "Bharti Airtel Ltd",
-    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
-    "query": "182.70.132.65"
-  },
   "210.250.96.130": {
     "status": "success",
     "country": "Japan",
@@ -1166,6 +1166,22 @@
     "org": "SO-Net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.250.96.130"
+  },
+  "182.70.132.65": {
+    "status": "success",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "MP",
+    "regionName": "Madhya Pradesh",
+    "city": "Indore",
+    "zip": "452001",
+    "lat": 22.717,
+    "lon": 75.8337,
+    "timezone": "Asia/Kolkata",
+    "isp": "Bharti Airtel",
+    "org": "Bharti Airtel Ltd",
+    "as": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+    "query": "182.70.132.65"
   },
   "118.216.175.105": {
     "status": "success",
@@ -1711,6 +1727,22 @@
     "as": "AS206092 Internet Utilities Europe and Asia Limited",
     "query": "103.125.146.71"
   },
+  "14.39.67.134": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gapyeong County",
+    "zip": "124",
+    "lat": 37.7329,
+    "lon": 127.4185,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.39.67.134"
+  },
   "222.108.203.99": {
     "status": "success",
     "country": "South Korea",
@@ -1950,38 +1982,6 @@
     "org": "Etisalat",
     "as": "AS5384 Emirates Internet",
     "query": "2.49.137.175"
-  },
-  "91.219.222.26": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "53",
-    "regionName": "Poltava Oblast",
-    "city": "Poltava",
-    "zip": "36021",
-    "lat": 49.5895,
-    "lon": 34.5498,
-    "timezone": "Europe/Kyiv",
-    "isp": "NVTOV \"SOLVER\"",
-    "org": "Science Production Enterprise Solver Ltd",
-    "as": "AS15461 NVTOV \"SOLVER\"",
-    "query": "91.219.222.26"
-  },
-  "157.120.13.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "206-0042",
-    "lat": 35.6673,
-    "lon": 139.751,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "NTT PC Communications, Inc.",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "157.120.13.212"
   },
   "1.66.34.35": {
     "status": "success",
