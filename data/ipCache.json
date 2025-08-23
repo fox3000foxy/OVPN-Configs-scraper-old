@@ -863,22 +863,6 @@
     "as": "AS9756 SK Broadband Co Ltd",
     "query": "121.127.181.174"
   },
-  "182.168.131.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Daishuku",
-    "zip": "302-0011",
-    "lat": 35.9054,
-    "lon": 140.0794,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.168.131.73"
-  },
   "219.100.37.110": {
     "status": "success",
     "country": "Japan",
@@ -894,6 +878,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
+  },
+  "182.168.131.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Daishuku",
+    "zip": "302-0011",
+    "lat": 35.9054,
+    "lon": 140.0794,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.168.131.73"
   },
   "211.225.57.219": {
     "status": "success",
