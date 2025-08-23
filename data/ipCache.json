@@ -1935,6 +1935,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.146.49.165"
   },
+  "182.222.166.21": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "222",
+    "lat": 37.4503,
+    "lon": 126.6701,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.222.166.21"
+  },
   "1.52.123.89": {
     "status": "success",
     "country": "Vietnam",
@@ -1982,22 +1998,6 @@
     "org": "Etisalat",
     "as": "AS5384 Emirates Internet",
     "query": "2.49.137.175"
-  },
-  "91.219.222.26": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "53",
-    "regionName": "Poltava Oblast",
-    "city": "Poltava",
-    "zip": "36021",
-    "lat": 49.5895,
-    "lon": 34.5498,
-    "timezone": "Europe/Kyiv",
-    "isp": "NVTOV \"SOLVER\"",
-    "org": "Science Production Enterprise Solver Ltd",
-    "as": "AS15461 NVTOV \"SOLVER\"",
-    "query": "91.219.222.26"
   },
   "128.0.145.50": {
     "status": "success",
