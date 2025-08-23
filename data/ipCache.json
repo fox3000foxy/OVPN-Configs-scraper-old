@@ -1295,22 +1295,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.163.76"
   },
-  "119.25.128.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Takatsuki",
-    "zip": "569-1111",
-    "lat": 34.8631,
-    "lon": 135.6204,
-    "timezone": "Asia/Tokyo",
-    "isp": "CWK",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "119.25.128.82"
-  },
   "210.96.106.5": {
     "status": "success",
     "country": "South Korea",
@@ -1711,6 +1695,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.215.5.22"
   },
+  "119.25.128.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Takatsuki",
+    "zip": "569-1111",
+    "lat": 34.8631,
+    "lon": 135.6204,
+    "timezone": "Asia/Tokyo",
+    "isp": "CWK",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.25.128.82"
+  },
   "49.228.101.59": {
     "status": "success",
     "country": "Thailand",
@@ -1983,6 +1983,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.135.250"
   },
+  "59.17.170.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Yeonsu-gu",
+    "zip": "219",
+    "lat": 37.3736,
+    "lon": 126.6555,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.17.170.32"
+  },
   "157.120.13.212": {
     "status": "success",
     "country": "Japan",
@@ -2014,22 +2030,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "119.198.176.216"
-  },
-  "39.111.17.94": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Utsunomiya",
-    "zip": "320-0031",
-    "lat": 36.5707,
-    "lon": 139.8822,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.17.94"
   },
   "182.70.132.65": {
     "status": "success",
