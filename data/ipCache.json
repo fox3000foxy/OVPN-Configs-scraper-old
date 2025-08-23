@@ -1231,22 +1231,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.103.81.209"
   },
-  "126.26.190.203": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.26.190.203"
-  },
   "210.165.136.195": {
     "status": "success",
     "country": "Japan",
@@ -1262,6 +1246,22 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.165.136.195"
+  },
+  "126.26.190.203": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.26.190.203"
   },
   "106.242.0.235": {
     "status": "success",
@@ -1422,22 +1422,6 @@
     "org": "TOT Public Company Limited",
     "as": "AS23969 TOT Public Company Limited",
     "query": "101.109.167.44"
-  },
-  "210.245.78.240": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPT-STATICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.78.240"
   },
   "202.79.159.167": {
     "status": "success",
@@ -1982,6 +1966,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
+  },
+  "106.174.15.237": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "001-0901",
+    "lat": 43.1288,
+    "lon": 141.2927,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.174.15.237"
   },
   "106.172.53.118": {
     "status": "success",
