@@ -1407,22 +1407,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.241.214"
   },
-  "101.109.167.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "TOT Public Company Limited",
-    "org": "TOT Public Company Limited",
-    "as": "AS23969 TOT Public Company Limited",
-    "query": "101.109.167.44"
-  },
   "210.245.78.240": {
     "status": "success",
     "country": "Vietnam",
@@ -1439,6 +1423,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "210.245.78.240"
   },
+  "101.109.167.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "101.109.167.44"
+  },
   "202.79.159.167": {
     "status": "success",
     "country": "Japan",
@@ -1454,22 +1454,6 @@
     "org": "CCNW",
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "202.79.159.167"
-  },
-  "59.85.51.59": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hyakuninchō",
-    "zip": "169-0071",
-    "lat": 35.7075,
-    "lon": 139.7007,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "59.85.51.59"
   },
   "14.36.144.253": {
     "status": "success",
@@ -1502,6 +1486,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.48.182.76"
+  },
+  "59.85.51.59": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hyakuninchō",
+    "zip": "169-0071",
+    "lat": 35.7075,
+    "lon": 139.7007,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "59.85.51.59"
   },
   "175.135.233.246": {
     "status": "success",
@@ -1662,6 +1662,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.112.163"
+  },
+  "126.125.83.121": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.125.83.121"
   },
   "42.119.163.76": {
     "status": "success",
