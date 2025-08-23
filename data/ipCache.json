@@ -1903,22 +1903,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.220.110"
   },
-  "178.206.64.73": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TA",
-    "regionName": "Tatarstan Republic",
-    "city": "Nizhnekamsk",
-    "zip": "423576",
-    "lat": 55.6404,
-    "lon": 51.8175,
-    "timezone": "Europe/Moscow",
-    "isp": "TATTELECOM",
-    "org": "",
-    "as": "AS28840 PJSC \"TATTELECOM\"",
-    "query": "178.206.64.73"
-  },
   "175.118.42.95": {
     "status": "success",
     "country": "South Korea",
@@ -1934,6 +1918,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.118.42.95"
+  },
+  "178.206.64.73": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TA",
+    "regionName": "Tatarstan Republic",
+    "city": "Nizhnekamsk",
+    "zip": "423576",
+    "lat": 55.6404,
+    "lon": 51.8175,
+    "timezone": "Europe/Moscow",
+    "isp": "TATTELECOM",
+    "org": "",
+    "as": "AS28840 PJSC \"TATTELECOM\"",
+    "query": "178.206.64.73"
   },
   "92.37.200.194": {
     "status": "success",
