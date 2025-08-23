@@ -639,22 +639,6 @@
     "as": "AS11404 Wave Broadband",
     "query": "76.14.40.202"
   },
-  "219.100.37.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.3"
-  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -1871,22 +1855,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.188.176.107"
   },
-  "121.134.72.146": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "065",
-    "lat": 37.5015,
-    "lon": 127.0013,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.134.72.146"
-  },
   "124.111.221.107": {
     "status": "success",
     "country": "South Korea",
@@ -1902,6 +1870,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "124.111.221.107"
+  },
+  "211.235.73.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Telecom",
+    "org": "SK-TELECOM",
+    "as": "AS9644 SK Telecom",
+    "query": "211.235.73.80"
   },
   "211.236.74.5": {
     "status": "success",
@@ -1934,6 +1918,38 @@
     "org": "ABN",
     "as": "AS17608 ABN",
     "query": "113.199.32.62"
+  },
+  "210.99.216.226": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.99.216.226"
+  },
+  "118.220.131.21": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "055",
+    "lat": 37.5108,
+    "lon": 127.1048,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.220.131.21"
   },
   "186.122.11.238": {
     "status": "success",
