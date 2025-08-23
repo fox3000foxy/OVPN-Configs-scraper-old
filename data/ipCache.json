@@ -1327,22 +1327,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.36.178"
   },
-  "101.109.167.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "TOT Public Company Limited",
-    "org": "TOT Public Company Limited",
-    "as": "AS23969 TOT Public Company Limited",
-    "query": "101.109.167.44"
-  },
   "203.251.123.85": {
     "status": "success",
     "country": "South Korea",
@@ -1422,6 +1406,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.154.241.214"
+  },
+  "101.109.167.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "101.109.167.44"
   },
   "175.135.233.246": {
     "status": "success",
