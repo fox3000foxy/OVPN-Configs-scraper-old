@@ -1231,22 +1231,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.66.67"
   },
-  "92.202.213.130": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Adachi City",
-    "zip": "120-0011",
-    "lat": 35.7627,
-    "lon": 139.8063,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.213.130"
-  },
   "103.88.119.198": {
     "status": "success",
     "country": "Vietnam",
@@ -1311,6 +1295,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.23.96"
   },
+  "92.202.213.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Adachi City",
+    "zip": "120-0011",
+    "lat": 35.7627,
+    "lon": 139.8063,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.213.130"
+  },
   "117.2.236.149": {
     "status": "success",
     "country": "Vietnam",
@@ -1374,6 +1374,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.161.75.214"
+  },
+  "106.242.0.235": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "478",
+    "lat": 35.1954,
+    "lon": 129.0571,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.242.0.235"
   },
   "116.82.212.35": {
     "status": "success",
@@ -1582,22 +1598,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.237.222.155"
-  },
-  "211.105.109.97": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Buk-gu",
-    "zip": "414",
-    "lat": 35.9206,
-    "lon": 128.5561,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.105.109.97"
   },
   "119.207.7.177": {
     "status": "success",
@@ -1887,22 +1887,6 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "1.52.153.90": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.153.90"
-  },
   "182.213.69.54": {
     "status": "success",
     "country": "South Korea",
@@ -1966,6 +1950,22 @@
     "org": "OJSC \"VolgaTelecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.49.154.231"
+  },
+  "128.68.175.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "355020",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS8402 PJSC \"Vimpelcom\"",
+    "query": "128.68.175.55"
   },
   "70.29.169.225": {
     "status": "success",
