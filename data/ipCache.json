@@ -1311,6 +1311,22 @@
     "as": "AS8447 A1 Telekom Austria AG",
     "query": "91.115.113.141"
   },
+  "111.107.20.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Nago",
+    "zip": "905-0011",
+    "lat": 26.6035,
+    "lon": 127.973,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.107.20.111"
+  },
   "106.176.30.209": {
     "status": "success",
     "country": "Japan",
@@ -1326,22 +1342,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.176.30.209"
-  },
-  "60.127.63.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.127.63.169"
   },
   "5.8.206.213": {
     "status": "success",
@@ -1406,6 +1406,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.104.17.219"
+  },
+  "60.127.63.169": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.127.63.169"
   },
   "220.126.162.145": {
     "status": "success",
@@ -1966,22 +1982,6 @@
     "org": "",
     "as": "AS48314 Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",
     "query": "185.250.249.92"
-  },
-  "42.126.76.139": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Chūō",
-    "zip": "351-0111",
-    "lat": 35.7907,
-    "lon": 139.6203,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.126.76.139"
   },
   "186.130.153.171": {
     "status": "success",
