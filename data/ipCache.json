@@ -687,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.36.5"
   },
-  "109.117.218.134": {
-    "status": "success",
-    "country": "Italy",
-    "countryCode": "IT",
-    "region": "82",
-    "regionName": "Sicily",
-    "city": "Palermo",
-    "zip": "90145",
-    "lat": 38.1302,
-    "lon": 13.329,
-    "timezone": "Europe/Rome",
-    "isp": "VODAFONE",
-    "org": "",
-    "as": "AS30722 Vodafone Italia S.p.A.",
-    "query": "109.117.218.134"
-  },
   "125.136.187.85": {
     "status": "success",
     "country": "South Korea",
@@ -719,21 +703,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.136.187.85"
   },
-  "114.167.32.102": {
+  "109.117.218.134": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "General placeholder reference all addresses",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "114.167.32.102"
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": "82",
+    "regionName": "Sicily",
+    "city": "Palermo",
+    "zip": "90145",
+    "lat": 38.1302,
+    "lon": 13.329,
+    "timezone": "Europe/Rome",
+    "isp": "VODAFONE",
+    "org": "",
+    "as": "AS30722 Vodafone Italia S.p.A.",
+    "query": "109.117.218.134"
   },
   "117.18.181.73": {
     "status": "success",
@@ -751,21 +735,21 @@
     "as": "AS9351 ZTV CO.,LTD",
     "query": "117.18.181.73"
   },
-  "106.158.53.29": {
+  "114.167.32.102": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "37",
-    "regionName": "Kagawa",
-    "city": "Marugame",
-    "zip": "763-0081",
-    "lat": 34.2878,
-    "lon": 133.7868,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.158.53.29"
+    "isp": "NTT Communications Corporation",
+    "org": "General placeholder reference all addresses",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "114.167.32.102"
   },
   "211.170.143.162": {
     "status": "success",
@@ -782,6 +766,22 @@
     "org": "Actionzone",
     "as": "AS3786 LG DACOM Corporation",
     "query": "211.170.143.162"
+  },
+  "106.158.53.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "37",
+    "regionName": "Kagawa",
+    "city": "Marugame",
+    "zip": "763-0081",
+    "lat": 34.2878,
+    "lon": 133.7868,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.158.53.29"
   },
   "121.109.137.24": {
     "status": "success",
@@ -1006,6 +1006,22 @@
     "org": "Chinanet SD",
     "as": "AS4134 CHINANET-BACKBONE",
     "query": "219.147.27.214"
+  },
+  "121.151.52.127": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Suseong-gu",
+    "zip": "420",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.151.52.127"
   },
   "221.149.220.108": {
     "status": "success",
@@ -1854,22 +1870,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.220.131.21"
-  },
-  "211.236.74.5": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Gyeyang-gu",
-    "zip": "210",
-    "lat": 37.5512,
-    "lon": 126.7341,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.236.74.5"
   },
   "210.99.216.226": {
     "status": "success",
