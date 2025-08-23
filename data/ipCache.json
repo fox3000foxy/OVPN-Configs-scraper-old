@@ -655,22 +655,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.29"
   },
-  "220.122.51.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "419",
-    "lat": 35.8588,
-    "lon": 128.6077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.122.51.250"
-  },
   "14.42.230.125": {
     "status": "success",
     "country": "South Korea",
@@ -686,6 +670,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.42.230.125"
+  },
+  "220.122.51.250": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "419",
+    "lat": 35.8588,
+    "lon": 128.6077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.122.51.250"
   },
   "183.109.13.142": {
     "status": "success",
@@ -975,22 +975,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "125.56.117.10"
   },
-  "118.237.170.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Toyota",
-    "zip": "471-0021",
-    "lat": 35.0901,
-    "lon": 137.1681,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.237.170.123"
-  },
   "121.161.2.130": {
     "status": "success",
     "country": "South Korea",
@@ -1006,6 +990,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.161.2.130"
+  },
+  "118.237.170.123": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Toyota",
+    "zip": "471-0021",
+    "lat": 35.0901,
+    "lon": 137.1681,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.237.170.123"
   },
   "150.147.41.74": {
     "status": "success",
@@ -1054,22 +1054,6 @@
     "org": "KE-ing Co, Ltd",
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
-  },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
   },
   "222.98.75.207": {
     "status": "success",
@@ -1151,22 +1135,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
   },
-  "92.19.114.38": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "SCT",
-    "regionName": "Scotland",
-    "city": "Glasgow",
-    "zip": "G13",
-    "lat": 55.8953,
-    "lon": -4.351,
-    "timezone": "Europe/London",
-    "isp": "TalkTalk",
-    "org": "Carphone Warehouse Broadband Services",
-    "as": "AS13285 TalkTalk Communications Limited",
-    "query": "92.19.114.38"
-  },
   "106.153.5.207": {
     "status": "success",
     "country": "Japan",
@@ -1182,6 +1150,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.153.5.207"
+  },
+  "92.19.114.38": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "SCT",
+    "regionName": "Scotland",
+    "city": "Glasgow",
+    "zip": "G13",
+    "lat": 55.8953,
+    "lon": -4.351,
+    "timezone": "Europe/London",
+    "isp": "TalkTalk",
+    "org": "Carphone Warehouse Broadband Services",
+    "as": "AS13285 TalkTalk Communications Limited",
+    "query": "92.19.114.38"
   },
   "117.2.236.149": {
     "status": "success",
@@ -1343,21 +1327,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.36.178"
   },
-  "121.141.111.125": {
+  "101.109.167.44": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "077",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.141.111.125"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "101.109.167.44"
   },
   "203.251.123.85": {
     "status": "success",
@@ -1374,6 +1358,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "203.251.123.85"
+  },
+  "125.140.175.104": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "285",
+    "lat": 36.6387,
+    "lon": 127.4702,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Chungbukbonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.140.175.104"
   },
   "220.126.206.103": {
     "status": "success",
@@ -1423,22 +1423,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.241.214"
   },
-  "101.109.167.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "TOT Public Company Limited",
-    "org": "TOT Public Company Limited",
-    "as": "AS23969 TOT Public Company Limited",
-    "query": "101.109.167.44"
-  },
   "175.135.233.246": {
     "status": "success",
     "country": "Japan",
@@ -1486,6 +1470,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.36.144.253"
+  },
+  "210.245.78.240": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPT-STATICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.78.240"
   },
   "59.85.51.59": {
     "status": "success",
@@ -1727,22 +1727,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.214.51.62"
   },
-  "211.199.17.252": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "412",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.199.17.252"
-  },
   "221.145.151.109": {
     "status": "success",
     "country": "South Korea",
@@ -1758,6 +1742,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "221.145.151.109"
+  },
+  "211.199.17.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.199.17.252"
   },
   "42.118.44.100": {
     "status": "success",
