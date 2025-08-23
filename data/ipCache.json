@@ -575,6 +575,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.167"
   },
+  "67.185.85.130": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Kirkland",
+    "zip": "98034",
+    "lat": 47.7229,
+    "lon": -122.1961,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, Inc.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "67.185.85.130"
+  },
   "219.100.37.196": {
     "status": "success",
     "country": "Japan",
@@ -606,22 +622,6 @@
     "org": "Ziply Fiber",
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.35.81.23"
-  },
-  "67.185.85.130": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Kirkland",
-    "zip": "98034",
-    "lat": 47.7229,
-    "lon": -122.1961,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "67.185.85.130"
   },
   "219.100.37.168": {
     "status": "success",
@@ -767,22 +767,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "219.117.85.132"
   },
-  "114.19.166.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "114.19.166.236"
-  },
   "59.138.6.205": {
     "status": "success",
     "country": "Japan",
@@ -799,21 +783,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
-  "121.103.21.26": {
+  "114.19.166.236": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kugayama",
-    "zip": "168-0081",
-    "lat": 35.6902,
-    "lon": 139.5997,
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.103.21.26"
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "114.19.166.236"
   },
   "14.132.27.53": {
     "status": "success",
@@ -1311,6 +1295,22 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "67.168.16.166"
   },
+  "59.17.88.175": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Bucheon-si",
+    "zip": "145",
+    "lat": 37.4988,
+    "lon": 126.7824,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.17.88.175"
+  },
   "221.166.142.166": {
     "status": "success",
     "country": "South Korea",
@@ -1342,22 +1342,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.175.158"
-  },
-  "59.17.88.175": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bucheon-si",
-    "zip": "145",
-    "lat": 37.4988,
-    "lon": 126.7824,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KT Corporation",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.17.88.175"
   },
   "60.119.199.206": {
     "status": "success",
@@ -1455,6 +1439,22 @@
     "as": "AS24271 Iruma CATV co.",
     "query": "202.177.66.20"
   },
+  "222.9.107.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "222.9.107.96"
+  },
   "126.29.125.118": {
     "status": "success",
     "country": "Japan",
@@ -1519,6 +1519,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.74.139.93"
   },
+  "133.207.161.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shimotogari",
+    "zip": "411-0941",
+    "lat": 35.1488,
+    "lon": 138.9054,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "NEC BIGLOBE Ltd.",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "133.207.161.129"
+  },
   "175.132.59.112": {
     "status": "success",
     "country": "Japan",
@@ -1550,22 +1566,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.198.6.244"
-  },
-  "133.207.161.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shimotogari",
-    "zip": "411-0941",
-    "lat": 35.1488,
-    "lon": 138.9054,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "NEC BIGLOBE Ltd.",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "133.207.161.129"
   },
   "174.6.72.9": {
     "status": "success",
@@ -1663,22 +1663,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.87.151.4"
   },
-  "81.23.216.121": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Ōgaki",
-    "zip": "503-0851",
-    "lat": 35.3363,
-    "lon": 136.6173,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ogaki Cable Television",
-    "org": "Ogaki Cable Television Co., Inc.",
-    "as": "AS10003 Ogaki Cable Television Co.,Inc.",
-    "query": "81.23.216.121"
-  },
   "60.129.90.182": {
     "status": "success",
     "country": "Japan",
@@ -1694,6 +1678,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.129.90.182"
+  },
+  "81.23.216.121": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Ōgaki",
+    "zip": "503-0851",
+    "lat": 35.3363,
+    "lon": 136.6173,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ogaki Cable Television",
+    "org": "Ogaki Cable Television Co., Inc.",
+    "as": "AS10003 Ogaki Cable Television Co.,Inc.",
+    "query": "81.23.216.121"
   },
   "124.87.23.105": {
     "status": "success",
@@ -1774,6 +1774,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "58.191.121.135"
+  },
+  "222.113.90.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "264",
+    "lat": 37.3468,
+    "lon": 127.9424,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.113.90.252"
   },
   "218.156.18.217": {
     "status": "success",
@@ -1934,6 +1950,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "119.204.165.207"
+  },
+  "169.211.182.81": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "169.211.182.81"
   },
   "186.122.11.238": {
     "status": "success",
