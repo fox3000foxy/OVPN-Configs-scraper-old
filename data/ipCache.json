@@ -1439,6 +1439,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.124.51"
   },
+  "180.198.86.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0061",
+    "lat": 34.7189,
+    "lon": 136.5059,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.198.86.220"
+  },
   "113.153.192.20": {
     "status": "success",
     "country": "Japan",
@@ -1791,22 +1807,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.122.43.73"
   },
-  "116.126.251.244": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "16940",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.126.251.244"
-  },
   "14.43.165.74": {
     "status": "success",
     "country": "South Korea",
@@ -1838,6 +1838,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.75.141"
+  },
+  "116.126.251.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.251.244"
   },
   "180.69.172.41": {
     "status": "success",
@@ -1886,22 +1902,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.208.128.33"
-  },
-  "171.4.220.44": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.220.44"
   },
   "175.204.167.19": {
     "status": "success",
