@@ -815,22 +815,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.111.221.149"
   },
-  "60.113.169.122": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.113.169.122"
-  },
   "211.228.234.43": {
     "status": "success",
     "country": "South Korea",
@@ -846,6 +830,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.228.234.43"
+  },
+  "60.113.169.122": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.113.169.122"
   },
   "122.99.21.46": {
     "status": "success",
@@ -1087,22 +1087,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.87.77"
   },
-  "106.159.231.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "37",
-    "regionName": "Kagawa",
-    "city": "Takamatsu",
-    "zip": "760-0071",
-    "lat": 34.3316,
-    "lon": 134.0455,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.231.146"
-  },
   "126.34.131.228": {
     "status": "success",
     "country": "Japan",
@@ -1118,6 +1102,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.34.131.228"
+  },
+  "106.159.231.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "37",
+    "regionName": "Kagawa",
+    "city": "Takamatsu",
+    "zip": "760-0071",
+    "lat": 34.3316,
+    "lon": 134.0455,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.231.146"
   },
   "118.216.175.105": {
     "status": "success",
@@ -1743,22 +1743,6 @@
     "as": "AS206092 Internet Utilities Europe and Asia Limited",
     "query": "103.125.146.71"
   },
-  "211.184.24.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.184.24.38"
-  },
   "125.186.91.205": {
     "status": "success",
     "country": "South Korea",
@@ -1774,6 +1758,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "125.186.91.205"
+  },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
   },
   "122.128.209.73": {
     "status": "success",
@@ -1919,22 +1919,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.123.89"
   },
-  "159.253.173.33": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom LIR 4",
-    "as": "AS8749 JSC \"Redcom-lnternet\"",
-    "query": "159.253.173.33"
-  },
   "2.49.137.175": {
     "status": "success",
     "country": "United Arab Emirates",
@@ -1982,6 +1966,22 @@
     "org": "NTT PC Communications, Inc.",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "157.120.13.212"
+  },
+  "116.80.75.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "InfoSphere",
+    "org": "NTTPC Communications, Inc",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "116.80.75.113"
   },
   "186.130.153.171": {
     "status": "success",
