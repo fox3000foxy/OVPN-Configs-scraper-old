@@ -1087,22 +1087,6 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.195.104"
   },
-  "123.1.14.46": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "432-8041",
-    "lat": 34.6944,
-    "lon": 137.7216,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.1.14.46"
-  },
   "116.82.239.43": {
     "status": "success",
     "country": "Japan",
@@ -1982,6 +1966,22 @@
     "org": "",
     "as": "AS8402 PJSC \"Vimpelcom\"",
     "query": "128.68.175.55"
+  },
+  "91.122.52.18": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "OJSC \"North-West Telecom\"",
+    "org": "JSC North-West Telecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "91.122.52.18"
   },
   "70.29.169.225": {
     "status": "success",
