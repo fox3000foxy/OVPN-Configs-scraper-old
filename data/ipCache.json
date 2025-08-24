@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.157.209.246"
   },
-  "219.100.37.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.49"
-  },
   "219.100.37.199": {
     "status": "success",
     "country": "Japan",
@@ -591,7 +575,7 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
-  "219.100.37.168": {
+  "219.100.37.3": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -605,7 +589,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.168"
+    "query": "219.100.37.3"
   },
   "219.100.37.29": {
     "status": "success",
@@ -1998,6 +1982,22 @@
     "org": "Branch of HTC International telecommunication joint stock company",
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
+  },
+  "184.22.16.107": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.16.107"
   },
   "128.0.145.50": {
     "status": "success",
