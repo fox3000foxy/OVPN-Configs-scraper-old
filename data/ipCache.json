@@ -1615,6 +1615,22 @@
     "as": "AS35819 Etihad Etisalat, a joint stock company",
     "query": "178.80.71.119"
   },
+  "126.69.251.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.69.251.29"
+  },
   "14.40.9.134": {
     "status": "success",
     "country": "South Korea",
@@ -1759,6 +1775,22 @@
     "as": "AS7738 V tal",
     "query": "191.44.11.51"
   },
+  "124.159.114.8": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Norimatsu",
+    "zip": "807-0831",
+    "lat": 33.857,
+    "lon": 130.7218,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "124.159.114.8"
+  },
   "126.159.10.41": {
     "status": "success",
     "country": "Japan",
@@ -1790,22 +1822,6 @@
     "org": "Fujitsu Limited",
     "as": "AS9354 Community Network Center Inc.",
     "query": "211.2.97.0"
-  },
-  "124.159.114.8": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Norimatsu",
-    "zip": "807-0831",
-    "lat": 33.857,
-    "lon": 130.7218,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "124.159.114.8"
   },
   "1.53.181.116": {
     "status": "success",
@@ -1870,22 +1886,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.108.64.157"
-  },
-  "42.118.45.99": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.45.99"
   },
   "126.92.184.126": {
     "status": "success",
