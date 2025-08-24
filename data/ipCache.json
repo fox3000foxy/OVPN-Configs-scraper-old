@@ -895,21 +895,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.216.175.105"
   },
-  "220.148.142.95": {
+  "126.251.1.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "106-0042",
-    "lat": 35.6557,
-    "lon": 139.7491,
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Jōetsu",
+    "zip": "943-0821",
+    "lat": 37.1222,
+    "lon": 138.2451,
     "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "220.148.142.95"
+    "isp": "Joetsu Cable Vision",
+    "org": "SOFTBANK Corp",
+    "as": "AS131937 Joetsu Cable Vision",
+    "query": "126.251.1.126"
   },
   "5.8.206.213": {
     "status": "success",
@@ -927,21 +927,21 @@
     "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
     "query": "5.8.206.213"
   },
-  "126.251.1.126": {
+  "220.148.142.95": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Jōetsu",
-    "zip": "943-0821",
-    "lat": 37.1222,
-    "lon": 138.2451,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "106-0042",
+    "lat": 35.6557,
+    "lon": 139.7491,
     "timezone": "Asia/Tokyo",
-    "isp": "Joetsu Cable Vision",
-    "org": "SOFTBANK Corp",
-    "as": "AS131937 Joetsu Cable Vision",
-    "query": "126.251.1.126"
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "220.148.142.95"
   },
   "106.157.71.209": {
     "status": "success",
@@ -1167,22 +1167,6 @@
     "as": "AS9757 CMB DONDAEMOON BROADCASTING",
     "query": "122.128.209.73"
   },
-  "211.184.24.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.184.24.38"
-  },
   "5.141.88.31": {
     "status": "success",
     "country": "Russia",
@@ -1214,6 +1198,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.214.7"
+  },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
   },
   "60.114.255.84": {
     "status": "success",
@@ -1439,6 +1439,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.86.111"
   },
+  "49.228.122.67": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Chon Buri",
+    "zip": "20000",
+    "lat": 13.1604,
+    "lon": 101.1083,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.122.67"
+  },
   "118.37.11.108": {
     "status": "success",
     "country": "South Korea",
@@ -1470,22 +1486,6 @@
     "org": "Japan Network Information Center",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "219.104.41.232"
-  },
-  "49.228.122.67": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Chon Buri",
-    "zip": "20000",
-    "lat": 13.1604,
-    "lon": 101.1083,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.122.67"
   },
   "106.73.225.97": {
     "status": "success",
@@ -1583,21 +1583,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.144.18.105"
   },
-  "220.126.162.145": {
+  "121.159.253.63": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bucheon-si",
-    "zip": "145",
-    "lat": 37.4988,
-    "lon": 126.7824,
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "317",
+    "lat": 36.9039,
+    "lon": 126.6919,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "KORNET",
     "as": "AS4766 Korea Telecom",
-    "query": "220.126.162.145"
+    "query": "121.159.253.63"
   },
   "14.52.57.107": {
     "status": "success",
@@ -1630,22 +1630,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.203.144.182"
-  },
-  "121.159.253.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.9039,
-    "lon": 126.6919,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.159.253.63"
   },
   "183.109.157.121": {
     "status": "success",
@@ -1966,6 +1950,22 @@
     "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS12389 PJSC Rostelecom",
     "query": "46.41.94.100"
+  },
+  "95.191.28.184": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634000",
+    "lat": 56.5202,
+    "lon": 85.0371,
+    "timezone": "Asia/Tomsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.191.28.184"
   },
   "128.0.145.50": {
     "status": "success",
