@@ -1855,6 +1855,22 @@
     "as": "AS9354 Community Network Center Inc.",
     "query": "211.2.97.0"
   },
+  "118.104.240.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Suzuka",
+    "zip": "513-0811",
+    "lat": 34.8672,
+    "lon": 136.5953,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "118.104.240.254"
+  },
   "114.186.227.133": {
     "status": "success",
     "country": "Japan",
@@ -1998,22 +2014,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.120.27.3"
-  },
-  "14.48.77.162": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Mokpo",
-    "zip": "586",
-    "lat": 34.8142,
-    "lon": 126.3905,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KT Corporation",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.48.77.162"
   },
   "111.238.189.171": {
     "status": "success",
