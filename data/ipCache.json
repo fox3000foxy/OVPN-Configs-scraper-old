@@ -959,6 +959,38 @@
     "as": "AS27699 TELEFÔNICA BRASIL S.A",
     "query": "179.228.177.69"
   },
+  "114.167.32.102": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "General placeholder reference all addresses",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "114.167.32.102"
+  },
+  "92.202.104.251": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0911",
+    "lat": 36.3502,
+    "lon": 140.4258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.104.251"
+  },
   "219.100.37.110": {
     "status": "success",
     "country": "Japan",
@@ -1407,22 +1439,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.158.51.10"
   },
-  "1.66.34.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.35"
-  },
   "27.136.219.48": {
     "status": "success",
     "country": "Japan",
@@ -1470,6 +1486,22 @@
     "org": "SoftBank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "117.55.17.21"
+  },
+  "1.66.34.35": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.35"
   },
   "61.21.199.29": {
     "status": "success",
@@ -1758,22 +1790,6 @@
     "org": "V tal",
     "as": "AS7738 V tal",
     "query": "191.44.11.51"
-  },
-  "1.53.181.116": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.181.116"
   },
   "124.159.114.8": {
     "status": "success",
