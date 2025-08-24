@@ -607,22 +607,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.168"
   },
-  "104.28.247.133": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JI",
-    "regionName": "East Java",
-    "city": "Surabaya",
-    "zip": "60273",
-    "lat": -7.2523,
-    "lon": 112.7572,
-    "timezone": "Asia/Jakarta",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.247.133"
-  },
   "219.100.37.29": {
     "status": "success",
     "country": "Japan",
@@ -702,22 +686,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
-  },
-  "118.1.246.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "118.1.246.146"
   },
   "114.206.206.178": {
     "status": "success",
@@ -1279,6 +1247,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.114.255.84"
   },
+  "180.197.144.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Tajimi",
+    "zip": "507-0821",
+    "lat": 35.3341,
+    "lon": 137.1278,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.197.144.146"
+  },
   "138.64.214.7": {
     "status": "success",
     "country": "Japan",
@@ -1391,22 +1375,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.239.33"
   },
-  "91.105.70.159": {
-    "status": "success",
-    "country": "Latvia",
-    "countryCode": "LV",
-    "region": "RIX",
-    "regionName": "Rīga",
-    "city": "Riga",
-    "zip": "LV-1063",
-    "lat": 56.9473,
-    "lon": 24.0979,
-    "timezone": "Europe/Riga",
-    "isp": "LATTELEKOM",
-    "org": "",
-    "as": "AS12578 SIA Tet",
-    "query": "91.105.70.159"
-  },
   "90.149.86.111": {
     "status": "success",
     "country": "Japan",
@@ -1422,6 +1390,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.86.111"
+  },
+  "91.105.70.159": {
+    "status": "success",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "region": "RIX",
+    "regionName": "Rīga",
+    "city": "Riga",
+    "zip": "LV-1063",
+    "lat": 56.9473,
+    "lon": 24.0979,
+    "timezone": "Europe/Riga",
+    "isp": "LATTELEKOM",
+    "org": "",
+    "as": "AS12578 SIA Tet",
+    "query": "91.105.70.159"
   },
   "184.22.229.93": {
     "status": "success",
@@ -1774,6 +1758,22 @@
     "org": "SMILE-BDCOM IP",
     "as": "AS7565 BDCOM-BD",
     "query": "113.11.51.165"
+  },
+  "184.22.16.107": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.16.107"
   },
   "39.116.157.205": {
     "status": "success",
