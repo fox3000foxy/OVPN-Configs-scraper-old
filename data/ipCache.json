@@ -1583,22 +1583,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.225.78"
   },
-  "211.185.43.203": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.185.43.203"
-  },
   "112.166.101.230": {
     "status": "success",
     "country": "South Korea",
@@ -1614,6 +1598,22 @@
     "org": "KT Corporation",
     "as": "AS4766 Korea Telecom",
     "query": "112.166.101.230"
+  },
+  "211.185.43.203": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.43.203"
   },
   "118.36.44.125": {
     "status": "success",
