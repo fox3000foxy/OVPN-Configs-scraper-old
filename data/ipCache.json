@@ -1167,22 +1167,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.214.7"
   },
-  "121.3.23.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.3.23.96"
-  },
   "106.136.232.152": {
     "status": "success",
     "country": "Japan",
@@ -1951,6 +1935,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "46.41.94.100"
   },
+  "2.62.171.99": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Leninsk-Kuznetsky",
+    "zip": "652502",
+    "lat": 54.6567,
+    "lon": 86.1737,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.62.171.99"
+  },
   "106.178.223.50": {
     "status": "success",
     "country": "Japan",
@@ -2014,6 +2014,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
+  },
+  "121.3.23.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.3.23.96"
   },
   "122.135.177.147": {
     "status": "success",
