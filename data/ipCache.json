@@ -527,6 +527,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.224"
   },
+  "219.100.37.200": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.200"
+  },
   "219.100.37.111": {
     "status": "success",
     "country": "Japan",
@@ -558,22 +574,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.167"
-  },
-  "219.100.37.200": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.200"
   },
   "219.100.37.196": {
     "status": "success",
@@ -734,22 +734,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.109.13.142"
-  },
-  "126.217.201.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.201.240"
   },
   "121.142.168.169": {
     "status": "success",
@@ -1391,6 +1375,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.206.45.80"
   },
+  "153.215.107.136": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "35",
+    "regionName": "Yamaguchi",
+    "city": "Yamaguchi",
+    "zip": "753-0081",
+    "lat": 34.1895,
+    "lon": 131.4696,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "153.215.107.136"
+  },
   "121.103.202.8": {
     "status": "success",
     "country": "Japan",
@@ -1599,22 +1599,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.26.190.203"
   },
-  "219.104.38.81": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minamimagome",
-    "zip": "143-0021",
-    "lat": 35.5993,
-    "lon": 139.7075,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Japan Network Information Center",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "219.104.38.81"
-  },
   "59.6.204.93": {
     "status": "success",
     "country": "South Korea",
@@ -1630,6 +1614,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.6.204.93"
+  },
+  "219.104.38.81": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minamimagome",
+    "zip": "143-0021",
+    "lat": 35.5993,
+    "lon": 139.7075,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Japan Network Information Center",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "219.104.38.81"
   },
   "77.82.27.25": {
     "status": "success",
