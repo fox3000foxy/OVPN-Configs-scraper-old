@@ -213,6 +213,7 @@ Or download individually:
 | 92.37.178.76 | Russia | Rostelecom networks | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/92.37.178.76.ovpn) |
 | 94.245.135.250 | Russia | Sakhatelecom | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/94.245.135.250.ovpn) |
 | 109.124.210.44 | Russia | SamaraLan | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/109.124.210.44.ovpn) |
+| 178.204.220.14 | Russia | TATTELECOM | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/178.204.220.14.ovpn) |
 | 178.204.220.14 | Russia | TATTELECOM | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/178.204.220.14.ovpn) |
 | 81.162.45.113 | Russia | Telecommunication networks JSC | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/81.162.45.113.ovpn) |
 | 109.126.36.217 | Russia | VLADLINK | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/109.126.36.217.ovpn) |
