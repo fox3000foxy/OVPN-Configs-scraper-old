@@ -1391,6 +1391,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.60.124.202"
   },
+  "153.215.107.136": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "35",
+    "regionName": "Yamaguchi",
+    "city": "Yamaguchi",
+    "zip": "753-0081",
+    "lat": 34.1895,
+    "lon": 131.4696,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "153.215.107.136"
+  },
   "121.103.202.8": {
     "status": "success",
     "country": "Japan",
@@ -1791,22 +1807,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.249.153.170"
   },
-  "42.115.248.125": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Đống Đa",
-    "zip": "",
-    "lat": 21.0201,
-    "lon": 105.831,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.115.248.125"
-  },
   "58.11.3.189": {
     "status": "success",
     "country": "Thailand",
@@ -1822,6 +1822,22 @@
     "org": "True Internet Co.",
     "as": "AS17552 True Online",
     "query": "58.11.3.189"
+  },
+  "42.115.248.125": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Đống Đa",
+    "zip": "",
+    "lat": 21.0201,
+    "lon": 105.831,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.115.248.125"
   },
   "203.251.123.85": {
     "status": "success",
@@ -1966,22 +1982,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "218.149.222.199"
-  },
-  "218.150.139.168": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "300",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.150.139.168"
   },
   "106.172.53.118": {
     "status": "success",
