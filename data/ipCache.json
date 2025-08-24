@@ -1,4 +1,20 @@
 {
+  "219.100.37.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.53"
+  },
   "175.211.23.13": {
     "status": "success",
     "country": "South Korea",
@@ -175,21 +191,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.196.188.133"
   },
-  "123.214.51.62": {
+  "211.185.43.203": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "31",
-    "regionName": "Ulsan",
-    "city": "Buk-gu",
-    "zip": "442",
-    "lat": 35.5732,
-    "lon": 129.3765,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "123.214.51.62"
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.43.203"
   },
   "210.194.188.55": {
     "status": "success",
@@ -318,22 +334,6 @@
     "org": "Frankfort Plant Board",
     "as": "AS26133 Frankfort Plant Board",
     "query": "158.247.187.166"
-  },
-  "219.100.37.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.53"
   },
   "219.100.37.109": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
-  },
-  "118.1.246.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "118.1.246.146"
   },
   "218.151.48.166": {
     "status": "success",
@@ -1982,6 +1966,22 @@
     "org": "Branch of HTC International telecommunication joint stock company",
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
+  },
+  "184.22.16.107": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.16.107"
   },
   "106.178.223.50": {
     "status": "success",
