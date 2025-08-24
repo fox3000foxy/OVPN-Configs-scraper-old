@@ -607,6 +607,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.168"
   },
+  "104.28.247.133": {
+    "status": "success",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "JI",
+    "regionName": "East Java",
+    "city": "Surabaya",
+    "zip": "60273",
+    "lat": -7.2523,
+    "lon": 112.7572,
+    "timezone": "Asia/Jakarta",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.247.133"
+  },
   "219.100.37.29": {
     "status": "success",
     "country": "Japan",
@@ -670,6 +686,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
+  },
+  "118.1.246.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.1.246.146"
   },
   "114.206.206.178": {
     "status": "success",
@@ -750,6 +782,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
+  },
+  "106.159.116.186": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Atsugi",
+    "zip": "243-0011",
+    "lat": 35.4427,
+    "lon": 139.3719,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.116.186"
   },
   "39.111.221.149": {
     "status": "success",
@@ -1918,38 +1966,6 @@
     "org": "Kcnnet",
     "as": "AS17583 Keumgang Cable Network",
     "query": "122.0.41.177"
-  },
-  "109.126.36.250": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "109.126.36.250"
-  },
-  "46.41.94.100": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ROS",
-    "regionName": "Rostov Oblast",
-    "city": "Rostov-on-Don",
-    "zip": "344006",
-    "lat": 47.2363,
-    "lon": 39.7233,
-    "timezone": "Europe/Moscow",
-    "isp": "Macroregional South",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "46.41.94.100"
   },
   "103.164.233.207": {
     "status": "success",
