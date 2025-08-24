@@ -895,22 +895,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.216.175.105"
   },
-  "5.8.206.213": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "CJSC \"Transtelecom-DV\"",
-    "org": "CJSC Transtelecom-DV",
-    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
-    "query": "5.8.206.213"
-  },
   "126.251.1.126": {
     "status": "success",
     "country": "Japan",
@@ -926,6 +910,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS131937 Joetsu Cable Vision",
     "query": "126.251.1.126"
+  },
+  "5.8.206.213": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "CJSC \"Transtelecom-DV\"",
+    "org": "CJSC Transtelecom-DV",
+    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
+    "query": "5.8.206.213"
   },
   "220.148.142.95": {
     "status": "success",
@@ -1087,22 +1087,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.98.208"
   },
-  "14.132.27.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.27.53"
-  },
   "124.18.1.112": {
     "status": "success",
     "country": "Japan",
@@ -1214,6 +1198,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.214.7"
+  },
+  "14.132.27.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.27.53"
   },
   "60.114.255.84": {
     "status": "success",
