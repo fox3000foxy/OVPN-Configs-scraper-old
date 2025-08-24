@@ -1247,22 +1247,6 @@
     "as": "AS18144 Enecom,Inc.",
     "query": "202.208.123.206"
   },
-  "39.111.221.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Misato, Saitama",
-    "zip": "341-0031",
-    "lat": 35.8276,
-    "lon": 139.8887,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.221.72"
-  },
   "1.66.34.35": {
     "status": "success",
     "country": "Japan",
@@ -1278,6 +1262,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
+  },
+  "39.111.221.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Misato, Saitama",
+    "zip": "341-0031",
+    "lat": 35.8276,
+    "lon": 139.8887,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.221.72"
   },
   "153.177.185.182": {
     "status": "success",
@@ -1423,22 +1423,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.132.59.112"
   },
-  "171.7.3.32": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.7.3.32"
-  },
   "174.6.72.9": {
     "status": "success",
     "country": "Canada",
@@ -1454,6 +1438,22 @@
     "org": "Shaw Communications Inc",
     "as": "AS6327 Shaw Communications Inc.",
     "query": "174.6.72.9"
+  },
+  "171.7.3.32": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.7.3.32"
   },
   "37.19.205.208": {
     "status": "success",
