@@ -767,22 +767,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
-  "106.159.116.186": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Atsugi",
-    "zip": "243-0011",
-    "lat": 35.4427,
-    "lon": 139.3719,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.116.186"
-  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.107.82"
+  },
+  "122.0.41.177": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "54592",
+    "lat": 35.9582,
+    "lon": 126.951,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kcnnet",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "122.0.41.177"
   },
   "128.0.145.50": {
     "status": "success",
