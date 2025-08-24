@@ -639,22 +639,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.111.129.224"
   },
-  "118.1.246.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "118.1.246.146"
-  },
   "59.10.44.242": {
     "status": "success",
     "country": "South Korea",
@@ -670,6 +654,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
+  },
+  "118.1.246.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.1.246.146"
   },
   "218.151.48.166": {
     "status": "success",
