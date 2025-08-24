@@ -655,6 +655,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.29"
   },
+  "14.132.250.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kiyosu",
+    "zip": "452-0941",
+    "lat": 35.2172,
+    "lon": 136.8325,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.250.49"
+  },
   "211.44.36.5": {
     "status": "success",
     "country": "South Korea",
@@ -686,22 +702,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.61"
-  },
-  "14.132.250.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.250.49"
   },
   "119.231.65.152": {
     "status": "success",
@@ -1551,22 +1551,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.200.194"
   },
-  "217.168.71.220": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGD",
-    "regionName": "Kaliningrad Oblast",
-    "city": "Kaliningrad",
-    "zip": "236000",
-    "lat": 54.7193,
-    "lon": 20.5097,
-    "timezone": "Europe/Kaliningrad",
-    "isp": "BALTNET",
-    "org": "JSC Elektrosvyaz Kaliningradskoy oblasti",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "217.168.71.220"
-  },
   "153.210.249.96": {
     "status": "success",
     "country": "Japan",
@@ -1583,6 +1567,22 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.210.249.96"
   },
+  "217.168.71.220": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KGD",
+    "regionName": "Kaliningrad Oblast",
+    "city": "Kaliningrad",
+    "zip": "236000",
+    "lat": 54.7193,
+    "lon": 20.5097,
+    "timezone": "Europe/Kaliningrad",
+    "isp": "BALTNET",
+    "org": "JSC Elektrosvyaz Kaliningradskoy oblasti",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "217.168.71.220"
+  },
   "125.15.177.125": {
     "status": "success",
     "country": "Japan",
@@ -1598,6 +1598,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "125.15.177.125"
+  },
+  "126.69.251.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.69.251.29"
   },
   "178.80.71.119": {
     "status": "success",
@@ -1727,22 +1743,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "111.90.98.127"
   },
-  "124.159.114.8": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Norimatsu",
-    "zip": "807-0831",
-    "lat": 33.857,
-    "lon": 130.7218,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "124.159.114.8"
-  },
   "211.218.242.45": {
     "status": "success",
     "country": "South Korea",
@@ -1774,6 +1774,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.181.116"
+  },
+  "124.159.114.8": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Norimatsu",
+    "zip": "807-0831",
+    "lat": 33.857,
+    "lon": 130.7218,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "124.159.114.8"
   },
   "126.159.10.41": {
     "status": "success",
@@ -1822,22 +1838,6 @@
     "org": "Fujitsu Limited",
     "as": "AS9354 Community Network Center Inc.",
     "query": "211.2.97.0"
-  },
-  "118.104.240.254": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Suzuka",
-    "zip": "513-0811",
-    "lat": 34.8672,
-    "lon": 136.5953,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.104.240.254"
   },
   "114.186.227.133": {
     "status": "success",
