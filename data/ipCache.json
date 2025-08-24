@@ -895,22 +895,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.216.175.105"
   },
-  "1.66.34.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.35"
-  },
   "5.8.206.213": {
     "status": "success",
     "country": "Russia",
@@ -990,6 +974,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.104.17.219"
+  },
+  "1.66.34.35": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.35"
   },
   "119.47.36.120": {
     "status": "success",
@@ -1087,6 +1087,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.98.208"
   },
+  "124.18.1.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "124.18.1.112"
+  },
   "116.81.71.88": {
     "status": "success",
     "country": "Japan",
@@ -1118,22 +1134,6 @@
     "org": "Singtel Fibre",
     "as": "AS9506 Singtel Fibre Broadband",
     "query": "121.7.137.17"
-  },
-  "124.18.1.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.1.112"
   },
   "122.128.209.73": {
     "status": "success",
