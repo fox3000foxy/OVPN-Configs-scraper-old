@@ -1199,6 +1199,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "133.114.229.173"
   },
+  "60.74.139.93": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Tonami",
+    "zip": "939-1331",
+    "lat": 36.6205,
+    "lon": 136.943,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.74.139.93"
+  },
   "39.111.221.72": {
     "status": "success",
     "country": "Japan",
@@ -1246,6 +1262,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.6.208.59"
+  },
+  "153.177.185.182": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "153.177.185.182"
   },
   "60.119.199.206": {
     "status": "success",
@@ -1950,38 +1982,6 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "121.67.47.230"
-  },
-  "61.27.42.185": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "062-0901",
-    "lat": 43.048,
-    "lon": 141.3673,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.27.42.185"
-  },
-  "78.157.231.39": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "\"SKTV+\" LLC",
-    "org": "Sktv+ Llc.",
-    "as": "AS42742 InterkamService LLC",
-    "query": "78.157.231.39"
   },
   "174.1.62.137": {
     "status": "success",
