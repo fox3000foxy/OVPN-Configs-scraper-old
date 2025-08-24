@@ -687,22 +687,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.122.51.250"
   },
-  "61.74.103.127": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "055",
-    "lat": 37.5108,
-    "lon": 127.1048,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.74.103.127"
-  },
   "183.109.13.142": {
     "status": "success",
     "country": "South Korea",
@@ -718,6 +702,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.109.13.142"
+  },
+  "61.74.103.127": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "055",
+    "lat": 37.5108,
+    "lon": 127.1048,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.74.103.127"
   },
   "121.142.168.169": {
     "status": "success",
@@ -1679,22 +1679,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.127.95.135"
   },
-  "222.226.215.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "41",
-    "regionName": "Saga",
-    "city": "Saga",
-    "zip": "840-0211",
-    "lat": 33.2482,
-    "lon": 130.298,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "Kddi Corporation",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.226.215.16"
-  },
   "1.229.52.185": {
     "status": "success",
     "country": "South Korea",
@@ -1710,6 +1694,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.229.52.185"
+  },
+  "222.226.215.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "41",
+    "regionName": "Saga",
+    "city": "Saga",
+    "zip": "840-0211",
+    "lat": 33.2482,
+    "lon": 130.298,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "Kddi Corporation",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.226.215.16"
   },
   "101.143.55.254": {
     "status": "success",
