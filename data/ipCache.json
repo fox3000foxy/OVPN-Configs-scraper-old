@@ -1679,22 +1679,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.226.44"
   },
-  "61.254.214.84": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "315",
-    "lat": 36.7836,
-    "lon": 127.0042,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.254.214.84"
-  },
   "60.91.157.48": {
     "status": "success",
     "country": "Japan",
@@ -1710,6 +1694,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.91.157.48"
+  },
+  "61.254.214.84": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Asan",
+    "zip": "315",
+    "lat": 36.7836,
+    "lon": 127.0042,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.254.214.84"
   },
   "125.134.123.30": {
     "status": "success",
@@ -1983,6 +1983,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.120.27.3"
   },
+  "114.129.255.51": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gumi",
+    "zip": "392",
+    "lat": 36.1135,
+    "lon": 128.343,
+    "timezone": "Asia/Seoul",
+    "isp": "HYUNDAI COMMUNICATIONS & NETWORK",
+    "org": "HYUNDAI HCN Seronet Systems Co.Ltd",
+    "as": "AS9981 Saero Network Service LTD",
+    "query": "114.129.255.51"
+  },
   "121.170.222.212": {
     "status": "success",
     "country": "South Korea",
@@ -1998,22 +2014,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "121.170.222.212"
-  },
-  "50.20.127.122": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AZ",
-    "regionName": "Arizona",
-    "city": "Chandler",
-    "zip": "85286",
-    "lat": 33.2727,
-    "lon": -111.8278,
-    "timezone": "America/Phoenix",
-    "isp": "WeLink Communications, Inc.",
-    "org": "WeLink Communications, Inc.",
-    "as": "AS397303 WeLink Communications, Inc.",
-    "query": "50.20.127.122"
   },
   "110.66.118.107": {
     "status": "success",
