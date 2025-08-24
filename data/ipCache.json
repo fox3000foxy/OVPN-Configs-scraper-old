@@ -1583,22 +1583,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.206.71.126"
   },
-  "49.228.122.67": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Chon Buri",
-    "zip": "20000",
-    "lat": 13.1604,
-    "lon": 101.1083,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.122.67"
-  },
   "125.131.29.196": {
     "status": "success",
     "country": "South Korea",
@@ -1615,21 +1599,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.131.29.196"
   },
-  "220.121.88.62": {
+  "49.228.122.67": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "21554",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.121.88.62"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Chon Buri",
+    "zip": "20000",
+    "lat": 13.1604,
+    "lon": 101.1083,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.122.67"
   },
   "59.13.204.107": {
     "status": "success",
@@ -1646,6 +1630,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.13.204.107"
+  },
+  "220.121.88.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.121.88.62"
   },
   "211.210.229.127": {
     "status": "success",
