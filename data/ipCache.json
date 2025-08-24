@@ -1231,22 +1231,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.214.51.62"
   },
-  "218.55.90.234": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.55.90.234"
-  },
   "118.40.161.226": {
     "status": "success",
     "country": "South Korea",
@@ -1262,6 +1246,22 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "118.40.161.226"
+  },
+  "218.55.90.234": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.55.90.234"
   },
   "92.203.222.28": {
     "status": "success",
@@ -1487,22 +1487,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.129.77.248"
   },
-  "126.79.124.253": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.124.253"
-  },
   "112.187.145.138": {
     "status": "success",
     "country": "South Korea",
@@ -1518,6 +1502,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.187.145.138"
+  },
+  "126.79.124.253": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.124.253"
   },
   "202.79.159.167": {
     "status": "success",
