@@ -575,6 +575,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
+  "219.100.37.3": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.3"
+  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -1247,22 +1263,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.239.33"
   },
-  "180.198.59.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.198.59.48"
-  },
   "203.76.64.38": {
     "status": "success",
     "country": "Japan",
@@ -1375,22 +1375,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.66.67"
   },
-  "90.149.86.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Futako",
-    "zip": "213-0001",
-    "lat": 35.6008,
-    "lon": 139.6177,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "90.149.86.111"
-  },
   "124.38.138.146": {
     "status": "success",
     "country": "Japan",
@@ -1487,6 +1471,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.73.225.97"
   },
+  "59.147.41.39": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Wakamiya",
+    "zip": "813-0031",
+    "lat": 33.6437,
+    "lon": 130.4572,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "59.147.41.39"
+  },
   "126.37.240.235": {
     "status": "success",
     "country": "Japan",
@@ -1518,22 +1518,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.207.126"
-  },
-  "118.34.114.221": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Jung-gu",
-    "zip": "350",
-    "lat": 36.307,
-    "lon": 127.4492,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.34.114.221"
   },
   "49.228.97.5": {
     "status": "success",
@@ -1966,6 +1950,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.171.99"
+  },
+  "103.88.119.198": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Quận Ba",
+    "zip": "",
+    "lat": 10.759,
+    "lon": 106.685,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "HTCITCHCM",
+    "org": "Branch of HTC International telecommunication joint stock company",
+    "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
+    "query": "103.88.119.198"
   },
   "128.0.145.50": {
     "status": "success",
