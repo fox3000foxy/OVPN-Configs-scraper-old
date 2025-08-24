@@ -927,22 +927,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
-  "5.8.206.213": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "CJSC \"Transtelecom-DV\"",
-    "org": "CJSC Transtelecom-DV",
-    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
-    "query": "5.8.206.213"
-  },
   "126.251.1.126": {
     "status": "success",
     "country": "Japan",
@@ -1406,6 +1390,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.239.33"
+  },
+  "184.22.229.93": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.229.93"
   },
   "91.105.70.159": {
     "status": "success",
