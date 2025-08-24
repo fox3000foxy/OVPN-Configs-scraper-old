@@ -895,22 +895,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
-  "5.8.206.213": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "CJSC \"Transtelecom-DV\"",
-    "org": "CJSC Transtelecom-DV",
-    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
-    "query": "5.8.206.213"
-  },
   "126.251.1.126": {
     "status": "success",
     "country": "Japan",
@@ -926,6 +910,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS131937 Joetsu Cable Vision",
     "query": "126.251.1.126"
+  },
+  "5.8.206.213": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "CJSC \"Transtelecom-DV\"",
+    "org": "CJSC Transtelecom-DV",
+    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
+    "query": "5.8.206.213"
   },
   "220.148.142.95": {
     "status": "success",
@@ -1007,6 +1007,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.129.95.41"
   },
+  "119.207.7.177": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Jeju City",
+    "zip": "631",
+    "lat": 33.5109,
+    "lon": 126.5264,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.207.7.177"
+  },
   "118.105.192.244": {
     "status": "success",
     "country": "Japan",
@@ -1070,22 +1086,6 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.98.208"
-  },
-  "116.81.71.88": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Okayama",
-    "zip": "700-0931",
-    "lat": 34.6428,
-    "lon": 133.9217,
-    "timezone": "Asia/Tokyo",
-    "isp": "Enecom, Inc.",
-    "org": "Energia Communications, Inc.",
-    "as": "AS18144 Enecom,Inc.",
-    "query": "116.81.71.88"
   },
   "121.7.137.17": {
     "status": "success",
@@ -1167,22 +1167,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.141.88.31"
   },
-  "14.132.27.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.27.53"
-  },
   "211.184.24.38": {
     "status": "success",
     "country": "South Korea",
@@ -1198,6 +1182,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
+  },
+  "14.132.27.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.27.53"
   },
   "60.114.255.84": {
     "status": "success",
@@ -1567,22 +1567,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.159.253.63"
   },
-  "175.177.46.43": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "its communications Inc.",
-    "org": "its communications Inc.",
-    "as": "AS9365 its communications Inc.",
-    "query": "175.177.46.43"
-  },
   "14.52.57.107": {
     "status": "success",
     "country": "South Korea",
@@ -1806,6 +1790,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.116.157.205"
+  },
+  "116.126.251.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.251.244"
   },
   "49.228.186.123": {
     "status": "success",
