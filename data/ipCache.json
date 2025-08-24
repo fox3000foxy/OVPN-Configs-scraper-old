@@ -543,22 +543,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.224"
   },
-  "219.100.37.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.111"
-  },
   "219.100.37.200": {
     "status": "success",
     "country": "Japan",
@@ -574,6 +558,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.200"
+  },
+  "219.100.37.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.111"
   },
   "219.100.37.167": {
     "status": "success",
@@ -687,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.36.5"
   },
-  "90.149.251.61": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "90.149.251.61"
-  },
   "114.167.32.102": {
     "status": "success",
     "country": "Japan",
@@ -782,6 +766,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.109.137.24"
+  },
+  "110.67.98.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Okayama",
+    "zip": "703-8291",
+    "lat": 34.657,
+    "lon": 133.9436,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "110.67.98.100"
   },
   "14.132.27.53": {
     "status": "success",
@@ -1647,6 +1647,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.226.44"
   },
+  "125.134.123.30": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeongdo-gu",
+    "zip": "491",
+    "lat": 35.0763,
+    "lon": 129.0608,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "busanbonbujang(kones)",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.134.123.30"
+  },
   "60.91.157.48": {
     "status": "success",
     "country": "Japan",
@@ -1678,22 +1694,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.214.84"
-  },
-  "125.134.123.30": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeongdo-gu",
-    "zip": "491",
-    "lat": 35.0763,
-    "lon": 129.0608,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "busanbonbujang(kones)",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.134.123.30"
   },
   "111.90.98.127": {
     "status": "success",
