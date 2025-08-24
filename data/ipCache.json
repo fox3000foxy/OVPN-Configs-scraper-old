@@ -1391,22 +1391,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.85.159.73"
   },
-  "175.132.59.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Setagaya City",
-    "zip": "154-0011",
-    "lat": 35.6413,
-    "lon": 139.6662,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.132.59.112"
-  },
   "171.7.3.32": {
     "status": "success",
     "country": "Thailand",
@@ -1422,6 +1406,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.3.32"
+  },
+  "175.132.59.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.132.59.112"
   },
   "174.6.72.9": {
     "status": "success",
