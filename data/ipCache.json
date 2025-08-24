@@ -783,22 +783,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
-  "106.159.116.186": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Atsugi",
-    "zip": "243-0011",
-    "lat": 35.4427,
-    "lon": 139.3719,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.116.186"
-  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -1423,22 +1407,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.239.33"
   },
-  "184.22.229.93": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.229.93"
-  },
   "91.105.70.159": {
     "status": "success",
     "country": "Latvia",
@@ -1454,6 +1422,22 @@
     "org": "",
     "as": "AS12578 SIA Tet",
     "query": "91.105.70.159"
+  },
+  "184.22.229.93": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.229.93"
   },
   "90.149.86.111": {
     "status": "success",
@@ -1966,6 +1950,22 @@
     "org": "Kcnnet",
     "as": "AS17583 Keumgang Cable Network",
     "query": "122.0.41.177"
+  },
+  "95.191.28.184": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634000",
+    "lat": 56.5202,
+    "lon": 85.0371,
+    "timezone": "Asia/Tomsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.191.28.184"
   },
   "103.164.233.207": {
     "status": "success",
