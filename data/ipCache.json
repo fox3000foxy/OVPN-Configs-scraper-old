@@ -703,22 +703,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
   },
-  "118.1.246.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "118.1.246.146"
-  },
   "82.162.191.20": {
     "status": "success",
     "country": "Russia",
@@ -1982,6 +1966,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.143.59"
+  },
+  "182.161.157.120": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Ulsan",
+    "zip": "44691",
+    "lat": 35.5335,
+    "lon": 129.3173,
+    "timezone": "Asia/Seoul",
+    "isp": "Ulsan Jung-Ang Broadcasting Network",
+    "org": "Joyful Communication Network",
+    "as": "AS45361 Ulsan Jung-Ang Broadcasting Network",
+    "query": "182.161.157.120"
   },
   "103.164.233.207": {
     "status": "success",
