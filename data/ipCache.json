@@ -703,22 +703,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.136.95.178"
   },
-  "126.227.110.1": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.227.110.1"
-  },
   "126.235.87.202": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.87.202"
+  },
+  "126.227.110.1": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.227.110.1"
   },
   "219.117.85.132": {
     "status": "success",
@@ -910,22 +910,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.103.21.26"
-  },
-  "222.0.159.199": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamiyabechō",
-    "zip": "245-0051",
-    "lat": 35.4266,
-    "lon": 139.5404,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.0.159.199"
   },
   "219.100.37.110": {
     "status": "success",
@@ -1998,6 +1982,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "121.67.47.230"
+  },
+  "61.27.42.185": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "062-0901",
+    "lat": 43.048,
+    "lon": 141.3673,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.27.42.185"
   },
   "174.1.62.137": {
     "status": "success",
