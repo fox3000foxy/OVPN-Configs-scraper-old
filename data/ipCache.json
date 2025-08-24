@@ -1,4 +1,20 @@
 {
+  "219.100.37.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.224"
+  },
   "153.194.28.239": {
     "status": "success",
     "country": "Japan",
@@ -175,21 +191,21 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.199.227.81"
   },
-  "218.156.10.120": {
+  "14.40.9.134": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Ganghwa-gun",
-    "zip": "230",
-    "lat": 37.7501,
-    "lon": 126.4952,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "KORNET",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "218.156.10.120"
+    "query": "14.40.9.134"
   },
   "123.214.51.62": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "114.16.18.46"
   },
-  "219.100.37.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.170"
-  },
   "219.100.37.49": {
     "status": "success",
     "country": "Japan",
@@ -510,22 +510,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
-  },
-  "219.100.37.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.224"
   },
   "219.100.37.200": {
     "status": "success",
@@ -1039,22 +1023,6 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "58.85.23.215"
   },
-  "124.18.1.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.1.112"
-  },
   "49.228.98.208": {
     "status": "success",
     "country": "Thailand",
@@ -1086,6 +1054,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.27.53"
+  },
+  "124.18.1.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "124.18.1.112"
   },
   "126.34.131.228": {
     "status": "success",
@@ -1919,22 +1903,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.36.250"
   },
-  "95.191.28.184": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634000",
-    "lat": 56.5202,
-    "lon": 85.0371,
-    "timezone": "Asia/Tomsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.191.28.184"
-  },
   "46.41.94.100": {
     "status": "success",
     "country": "Russia",
@@ -1966,6 +1934,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.171.99"
+  },
+  "103.88.119.198": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Quận Ba",
+    "zip": "",
+    "lat": 10.759,
+    "lon": 106.685,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "HTCITCHCM",
+    "org": "Branch of HTC International telecommunication joint stock company",
+    "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
+    "query": "103.88.119.198"
   },
   "128.0.145.50": {
     "status": "success",
