@@ -1439,22 +1439,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.86.111"
   },
-  "49.228.122.67": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Chon Buri",
-    "zip": "20000",
-    "lat": 13.1604,
-    "lon": 101.1083,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.122.67"
-  },
   "118.37.11.108": {
     "status": "success",
     "country": "South Korea",
@@ -1486,6 +1470,22 @@
     "org": "Japan Network Information Center",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "219.104.41.232"
+  },
+  "49.228.122.67": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Chon Buri",
+    "zip": "20000",
+    "lat": 13.1604,
+    "lon": 101.1083,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.122.67"
   },
   "106.73.225.97": {
     "status": "success",
