@@ -1407,22 +1407,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.85.159.73"
   },
-  "175.132.59.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Setagaya City",
-    "zip": "154-0011",
-    "lat": 35.6413,
-    "lon": 139.6662,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.132.59.112"
-  },
   "171.7.3.32": {
     "status": "success",
     "country": "Thailand",
@@ -1438,6 +1422,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.3.32"
+  },
+  "175.132.59.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.132.59.112"
   },
   "174.6.72.9": {
     "status": "success",
@@ -1503,6 +1503,22 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "153.174.234.224"
   },
+  "221.45.69.114": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.45.69.114"
+  },
   "175.205.242.179": {
     "status": "success",
     "country": "South Korea",
@@ -1534,22 +1550,6 @@
     "org": "FastNet",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.94.182.6"
-  },
-  "221.45.69.114": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.45.69.114"
   },
   "222.106.62.196": {
     "status": "success",
@@ -1631,22 +1631,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "114.152.205.177"
   },
-  "180.233.224.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "CMBI-NETHK",
-    "org": "Cmbi Nethk",
-    "as": "AS38680 CMB",
-    "query": "180.233.224.57"
-  },
   "42.112.233.36": {
     "status": "success",
     "country": "Vietnam",
@@ -1678,6 +1662,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.163.148.199"
+  },
+  "180.233.224.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "CMBI-NETHK",
+    "org": "Cmbi Nethk",
+    "as": "AS38680 CMB",
+    "query": "180.233.224.57"
   },
   "59.31.21.205": {
     "status": "success",
@@ -1726,6 +1726,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.5.130.217"
+  },
+  "178.204.220.14": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TA",
+    "regionName": "Tatarstan Republic",
+    "city": "Kazan'",
+    "zip": "422525",
+    "lat": 55.785,
+    "lon": 49.1178,
+    "timezone": "Europe/Moscow",
+    "isp": "TATTELECOM",
+    "org": "",
+    "as": "AS28840 PJSC \"TATTELECOM\"",
+    "query": "178.204.220.14"
   },
   "58.232.230.23": {
     "status": "success",
@@ -2574,22 +2590,6 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "176.226.165.178"
-  },
-  "178.204.220.14": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TA",
-    "regionName": "Tatarstan Republic",
-    "city": "Kazan'",
-    "zip": "422525",
-    "lat": 55.785,
-    "lon": 49.1178,
-    "timezone": "Europe/Moscow",
-    "isp": "TATTELECOM",
-    "org": "",
-    "as": "AS28840 PJSC \"TATTELECOM\"",
-    "query": "178.204.220.14"
   },
   "31.171.197.17": {
     "status": "success",
