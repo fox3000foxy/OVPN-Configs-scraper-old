@@ -847,22 +847,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.128.11"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
   "124.98.118.106": {
     "status": "success",
     "country": "Japan",
@@ -1982,6 +1966,22 @@
     "org": "Pubnetplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.241.49.23"
+  },
+  "114.202.12.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju-si",
+    "zip": "10923",
+    "lat": 37.7562,
+    "lon": 126.7865,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.202.12.166"
   },
   "103.164.233.207": {
     "status": "success",
