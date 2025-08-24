@@ -671,21 +671,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.230.125"
   },
-  "211.2.56.29": {
+  "220.122.51.250": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Chiba",
-    "zip": "260-0021",
-    "lat": 35.6029,
-    "lon": 140.1187,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Japan Network Information Center",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "211.2.56.29"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "419",
+    "lat": 35.8588,
+    "lon": 128.6077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.122.51.250"
   },
   "180.49.196.87": {
     "status": "success",
@@ -703,21 +703,21 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "180.49.196.87"
   },
-  "220.122.51.250": {
+  "211.2.56.29": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "419",
-    "lat": 35.8588,
-    "lon": 128.6077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.122.51.250"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Chiba",
+    "zip": "260-0021",
+    "lat": 35.6029,
+    "lon": 140.1187,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Japan Network Information Center",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "211.2.56.29"
   },
   "183.109.13.142": {
     "status": "success",
@@ -1167,6 +1167,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.36.144.253"
   },
+  "121.110.186.67": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Mochida",
+    "zip": "883-1601",
+    "lat": 32.4703,
+    "lon": 131.1486,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.110.186.67"
+  },
   "219.54.189.18": {
     "status": "success",
     "country": "Japan",
@@ -1503,22 +1519,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.82.12"
   },
-  "153.215.107.136": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "35",
-    "regionName": "Yamaguchi",
-    "city": "Yamaguchi",
-    "zip": "753-0081",
-    "lat": 34.1895,
-    "lon": 131.4696,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "153.215.107.136"
-  },
   "202.79.159.167": {
     "status": "success",
     "country": "Japan",
@@ -1550,6 +1550,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "42.124.70.114"
+  },
+  "121.155.86.248": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yangcheon-gu",
+    "zip": "081",
+    "lat": 37.518,
+    "lon": 126.8673,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.155.86.248"
   },
   "59.6.204.93": {
     "status": "success",
@@ -1646,22 +1662,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.234.138.87"
-  },
-  "121.155.86.248": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yangcheon-gu",
-    "zip": "081",
-    "lat": 37.518,
-    "lon": 126.8673,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.155.86.248"
   },
   "77.82.27.25": {
     "status": "success",
