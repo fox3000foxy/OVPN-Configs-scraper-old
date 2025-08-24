@@ -671,22 +671,6 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "118.17.87.173"
   },
-  "106.174.122.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "10",
-    "regionName": "Gunma",
-    "city": "Fujioka",
-    "zip": "375-0021",
-    "lat": 36.2366,
-    "lon": 139.0926,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.174.122.123"
-  },
   "126.227.110.1": {
     "status": "success",
     "country": "Japan",
@@ -1183,22 +1167,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.106.92.248"
   },
-  "60.74.139.93": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Tonami",
-    "zip": "939-1331",
-    "lat": 36.6205,
-    "lon": 136.943,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.74.139.93"
-  },
   "202.177.66.20": {
     "status": "success",
     "country": "Japan",
@@ -1551,6 +1519,22 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "220.144.162.230"
   },
+  "114.152.205.177": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "31",
+    "regionName": "Tottori",
+    "city": "Tottori",
+    "zip": "682-0811",
+    "lat": 35.4323,
+    "lon": 133.8389,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "114.152.205.177"
+  },
   "121.140.122.51": {
     "status": "success",
     "country": "South Korea",
@@ -1678,6 +1662,22 @@
     "org": "AMX Argentina S.A",
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "181.116.201.158"
+  },
+  "14.32.119.233": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "067",
+    "lat": 37.4802,
+    "lon": 127.0444,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.32.119.233"
   },
   "211.206.72.8": {
     "status": "success",
@@ -1903,22 +1903,6 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.64.126"
   },
-  "218.158.55.246": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.55.246"
-  },
   "27.133.60.211": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "STNet, Incorporated",
     "as": "AS7522 STNet, Incorporated",
     "query": "27.133.60.211"
+  },
+  "218.158.55.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.158.55.246"
   },
   "180.145.130.101": {
     "status": "success",
@@ -3102,22 +3102,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "125.140.60.105"
-  },
-  "14.32.119.233": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "067",
-    "lat": 37.4802,
-    "lon": 127.0444,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.32.119.233"
   },
   "14.36.144.253": {
     "status": "success",
