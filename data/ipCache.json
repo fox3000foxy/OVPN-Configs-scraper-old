@@ -895,22 +895,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.201.51.221"
   },
-  "180.198.170.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Nagano",
-    "zip": "380-0941",
-    "lat": 36.63,
-    "lon": 138.1795,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.198.170.53"
-  },
   "61.24.93.114": {
     "status": "success",
     "country": "Japan",
@@ -1375,22 +1359,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.92.237.140"
   },
-  "218.110.195.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Communication Network Corporation",
-    "org": "Sony Communication Network Corporation",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "218.110.195.3"
-  },
   "59.18.161.138": {
     "status": "success",
     "country": "South Korea",
@@ -1406,6 +1374,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.18.161.138"
+  },
+  "218.110.195.3": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Communication Network Corporation",
+    "org": "Sony Communication Network Corporation",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "218.110.195.3"
   },
   "46.188.124.68": {
     "status": "success",
@@ -1902,6 +1886,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.191.203.36"
+  },
+  "86.98.152.111": {
+    "status": "success",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "region": "RK",
+    "regionName": "Ra's al Khaymah",
+    "city": "Ras al-Khaimah",
+    "zip": "",
+    "lat": 25.7935,
+    "lon": 55.944,
+    "timezone": "Asia/Dubai",
+    "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "org": "Emirates Telecommunications Corporation",
+    "as": "AS5384 Emirates Internet",
+    "query": "86.98.152.111"
   },
   "103.83.86.175": {
     "status": "success",
