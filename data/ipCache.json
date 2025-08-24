@@ -1,4 +1,20 @@
 {
+  "68.150.171.190": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "AB",
+    "regionName": "Alberta",
+    "city": "Edmonton",
+    "zip": "T5T",
+    "lat": 53.5185,
+    "lon": -113.6579,
+    "timezone": "America/Edmonton",
+    "isp": "Shaw Communications Inc.",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications Inc.",
+    "query": "68.150.171.190"
+  },
   "67.180.18.67": {
     "status": "success",
     "country": "United States",
@@ -175,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.1.163.33"
   },
-  "149.54.152.39": {
+  "175.114.13.177": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "ITEC HANKYU HANSHIN CO., LTD.",
-    "org": "ITEC Hankyu Hanshin Co., Ltd.",
-    "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
-    "query": "149.54.152.39"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.114.13.177"
   },
   "211.192.121.212": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.55.149.131"
-  },
-  "1.55.69.12": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.69.12"
   },
   "219.100.37.49": {
     "status": "success",
