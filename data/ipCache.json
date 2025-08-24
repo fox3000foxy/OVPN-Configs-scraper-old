@@ -607,22 +607,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.168"
   },
-  "104.28.247.133": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JI",
-    "regionName": "East Java",
-    "city": "Surabaya",
-    "zip": "60273",
-    "lat": -7.2523,
-    "lon": 112.7572,
-    "timezone": "Asia/Jakarta",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.247.133"
-  },
   "219.100.37.29": {
     "status": "success",
     "country": "Japan",
@@ -686,22 +670,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.44.242"
-  },
-  "118.1.246.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "118.1.246.146"
   },
   "114.206.206.178": {
     "status": "success",
@@ -1407,22 +1375,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.239.33"
   },
-  "91.105.70.159": {
-    "status": "success",
-    "country": "Latvia",
-    "countryCode": "LV",
-    "region": "RIX",
-    "regionName": "Rīga",
-    "city": "Riga",
-    "zip": "LV-1063",
-    "lat": 56.9473,
-    "lon": 24.0979,
-    "timezone": "Europe/Riga",
-    "isp": "LATTELEKOM",
-    "org": "",
-    "as": "AS12578 SIA Tet",
-    "query": "91.105.70.159"
-  },
   "184.22.229.93": {
     "status": "success",
     "country": "Thailand",
@@ -1438,6 +1390,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.229.93"
+  },
+  "91.105.70.159": {
+    "status": "success",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "region": "RIX",
+    "regionName": "Rīga",
+    "city": "Riga",
+    "zip": "LV-1063",
+    "lat": 56.9473,
+    "lon": 24.0979,
+    "timezone": "Europe/Riga",
+    "isp": "LATTELEKOM",
+    "org": "",
+    "as": "AS12578 SIA Tet",
+    "query": "91.105.70.159"
   },
   "90.149.86.111": {
     "status": "success",
@@ -1951,21 +1919,37 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "122.0.41.177"
   },
-  "95.191.28.184": {
+  "109.126.36.250": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634000",
-    "lat": 56.5202,
-    "lon": 85.0371,
-    "timezone": "Asia/Tomsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690000",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "109.126.36.250"
+  },
+  "46.41.94.100": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ROS",
+    "regionName": "Rostov Oblast",
+    "city": "Rostov-on-Don",
+    "zip": "344006",
+    "lat": 47.2363,
+    "lon": 39.7233,
+    "timezone": "Europe/Moscow",
+    "isp": "Macroregional South",
+    "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "95.191.28.184"
+    "query": "46.41.94.100"
   },
   "103.164.233.207": {
     "status": "success",
