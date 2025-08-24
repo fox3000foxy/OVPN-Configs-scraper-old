@@ -639,6 +639,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.29"
   },
+  "36.13.39.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.39.73"
+  },
   "14.132.250.49": {
     "status": "success",
     "country": "Japan",
@@ -1182,22 +1198,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.78.200.96"
-  },
-  "218.158.51.10": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.51.10"
   },
   "1.21.119.228": {
     "status": "success",
@@ -1743,22 +1743,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.10.64.237"
   },
-  "1.239.70.208": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangbuk-gu",
-    "zip": "011",
-    "lat": 37.628,
-    "lon": 127.0268,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.239.70.208"
-  },
   "73.71.101.152": {
     "status": "success",
     "country": "United States",
@@ -1774,6 +1758,22 @@
     "org": "Comcast IP Services, L.L.C.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "73.71.101.152"
+  },
+  "1.239.70.208": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangbuk-gu",
+    "zip": "011",
+    "lat": 37.628,
+    "lon": 127.0268,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.239.70.208"
   },
   "118.40.206.56": {
     "status": "success",
