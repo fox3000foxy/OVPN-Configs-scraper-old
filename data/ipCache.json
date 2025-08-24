@@ -1359,22 +1359,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.92.237.140"
   },
-  "59.18.161.138": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Hwaseong-si",
-    "zip": "186",
-    "lat": 37.0849,
-    "lon": 126.904,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.18.161.138"
-  },
   "218.110.195.3": {
     "status": "success",
     "country": "Japan",
@@ -1390,6 +1374,22 @@
     "org": "Sony Communication Network Corporation",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "218.110.195.3"
+  },
+  "59.18.161.138": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "186",
+    "lat": 37.0849,
+    "lon": 126.904,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.18.161.138"
   },
   "46.188.124.68": {
     "status": "success",
@@ -1583,22 +1583,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.225.78"
   },
-  "112.166.101.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "311",
-    "lat": 36.8151,
-    "lon": 127.0944,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KT Corporation",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.166.101.230"
-  },
   "211.185.43.203": {
     "status": "success",
     "country": "South Korea",
@@ -1614,6 +1598,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.185.43.203"
+  },
+  "112.166.101.230": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "311",
+    "lat": 36.8151,
+    "lon": 127.0944,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.166.101.230"
   },
   "118.36.44.125": {
     "status": "success",
