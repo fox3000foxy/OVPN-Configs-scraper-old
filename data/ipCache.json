@@ -1295,22 +1295,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.222.29.22"
   },
-  "124.38.138.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shimoishiwara",
-    "zip": "182-0031",
-    "lat": 35.6499,
-    "lon": 139.5191,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corp.",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "124.38.138.146"
-  },
   "184.22.101.135": {
     "status": "success",
     "country": "Thailand",
@@ -1406,6 +1390,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.86.111"
+  },
+  "124.38.138.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shimoishiwara",
+    "zip": "182-0031",
+    "lat": 35.6499,
+    "lon": 139.5191,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corp.",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "124.38.138.146"
   },
   "118.37.11.108": {
     "status": "success",
