@@ -639,22 +639,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.29"
   },
-  "14.132.250.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.250.49"
-  },
   "211.44.36.5": {
     "status": "success",
     "country": "South Korea",
@@ -686,6 +670,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.61"
+  },
+  "14.132.250.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kiyosu",
+    "zip": "452-0941",
+    "lat": 35.2172,
+    "lon": 136.8325,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.250.49"
   },
   "119.231.65.152": {
     "status": "success",
@@ -1855,6 +1855,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.10.41"
   },
+  "211.2.97.0": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Toyota",
+    "zip": "471-0021",
+    "lat": 35.0901,
+    "lon": 137.1681,
+    "timezone": "Asia/Tokyo",
+    "isp": "InfoWeb",
+    "org": "Fujitsu Limited",
+    "as": "AS9354 Community Network Center Inc.",
+    "query": "211.2.97.0"
+  },
   "114.186.227.133": {
     "status": "success",
     "country": "Japan",
@@ -1999,21 +2015,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.120.27.3"
   },
-  "114.129.255.51": {
+  "121.170.222.212": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gumi",
-    "zip": "392",
-    "lat": 36.1135,
-    "lon": 128.343,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangmyeong",
+    "zip": "142",
+    "lat": 37.4796,
+    "lon": 126.8746,
     "timezone": "Asia/Seoul",
-    "isp": "HYUNDAI COMMUNICATIONS & NETWORK",
-    "org": "HYUNDAI HCN Seronet Systems Co.Ltd",
-    "as": "AS9981 Saero Network Service LTD",
-    "query": "114.129.255.51"
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.170.222.212"
   },
   "110.66.118.107": {
     "status": "success",
