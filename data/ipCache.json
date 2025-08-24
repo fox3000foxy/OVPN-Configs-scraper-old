@@ -1,4 +1,36 @@
 {
+  "118.37.11.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "077",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.37.11.108"
+  },
+  "218.157.209.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Suseong-gu",
+    "zip": "420",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.157.209.246"
+  },
   "115.38.167.207": {
     "status": "success",
     "country": "Japan",
@@ -159,22 +191,6 @@
     "as": "AS5650 Frontier Communications of America, Inc.",
     "query": "47.153.149.220"
   },
-  "1.21.121.201": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0041",
-    "lat": 34.7614,
-    "lon": 135.516,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Marubeni Access Solutions Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "1.21.121.201"
-  },
   "106.159.231.146": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +206,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.231.146"
+  },
+  "222.109.72.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "049",
+    "lat": 37.547,
+    "lon": 127.0958,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.37"
   },
   "133.114.229.173": {
     "status": "success",
@@ -1342,22 +1374,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.86.111"
-  },
-  "118.37.11.108": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "077",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.37.11.108"
   },
   "106.73.225.97": {
     "status": "success",
