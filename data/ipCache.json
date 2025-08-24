@@ -607,6 +607,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.196"
   },
+  "64.189.47.114": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX",
+    "regionName": "Texas",
+    "city": "Austin",
+    "zip": "78741",
+    "lat": 30.2304,
+    "lon": -97.7243,
+    "timezone": "America/Chicago",
+    "isp": "Apogee Telecom Inc.",
+    "org": "APOG-WC",
+    "as": "AS395461 Apogee Telecom Inc.",
+    "query": "64.189.47.114"
+  },
   "219.100.37.168": {
     "status": "success",
     "country": "Japan",
@@ -958,22 +974,6 @@
     "org": "TELEF�NICA BRASIL S.A",
     "as": "AS27699 TELEFÔNICA BRASIL S.A",
     "query": "179.228.177.69"
-  },
-  "114.167.32.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "General placeholder reference all addresses",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "114.167.32.102"
   },
   "92.202.104.251": {
     "status": "success",
@@ -1919,6 +1919,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.99.216.226"
   },
+  "118.44.237.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Jecheon",
+    "zip": "271",
+    "lat": 37.14,
+    "lon": 128.2106,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.44.237.37"
+  },
   "121.188.176.107": {
     "status": "success",
     "country": "South Korea",
@@ -1998,38 +2014,6 @@
     "org": "HYUNDAI HCN Seronet Systems Co.Ltd",
     "as": "AS9981 Saero Network Service LTD",
     "query": "114.129.255.51"
-  },
-  "121.170.222.212": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangmyeong",
-    "zip": "142",
-    "lat": 37.4796,
-    "lon": 126.8746,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.170.222.212"
-  },
-  "50.20.127.122": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AZ",
-    "regionName": "Arizona",
-    "city": "Chandler",
-    "zip": "85286",
-    "lat": 33.2727,
-    "lon": -111.8278,
-    "timezone": "America/Phoenix",
-    "isp": "WeLink Communications, Inc.",
-    "org": "WeLink Communications, Inc.",
-    "as": "AS397303 WeLink Communications, Inc.",
-    "query": "50.20.127.122"
   },
   "110.66.118.107": {
     "status": "success",
