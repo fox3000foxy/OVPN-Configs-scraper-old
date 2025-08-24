@@ -1087,22 +1087,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.36.178"
   },
-  "219.54.189.18": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "219.54.189.18"
-  },
   "125.140.175.104": {
     "status": "success",
     "country": "South Korea",
@@ -1118,6 +1102,22 @@
     "org": "Chungbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "125.140.175.104"
+  },
+  "219.54.189.18": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "219.54.189.18"
   },
   "1.235.107.148": {
     "status": "success",
