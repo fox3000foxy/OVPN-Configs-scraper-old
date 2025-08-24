@@ -831,6 +831,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.128.11"
   },
+  "115.37.104.31": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0031",
+    "lat": 34.7268,
+    "lon": 136.5145,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "115.37.104.31"
+  },
   "211.204.251.153": {
     "status": "success",
     "country": "South Korea",
@@ -1950,22 +1966,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.171.99"
-  },
-  "103.88.119.198": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Quận Ba",
-    "zip": "",
-    "lat": 10.759,
-    "lon": 106.685,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "HTCITCHCM",
-    "org": "Branch of HTC International telecommunication joint stock company",
-    "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
-    "query": "103.88.119.198"
   },
   "103.164.233.207": {
     "status": "success",
