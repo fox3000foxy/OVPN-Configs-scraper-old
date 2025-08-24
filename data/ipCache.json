@@ -1791,6 +1791,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.159.253.63"
   },
+  "183.99.200.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anseong",
+    "zip": "175",
+    "lat": 37.0138,
+    "lon": 127.2698,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.200.65"
+  },
   "125.136.142.84": {
     "status": "success",
     "country": "South Korea",
@@ -1822,22 +1838,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.131.159.91"
-  },
-  "183.99.200.65": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.99.200.65"
   },
   "220.126.162.145": {
     "status": "success",
