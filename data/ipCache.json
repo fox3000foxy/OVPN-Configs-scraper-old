@@ -1535,6 +1535,22 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "42.124.70.114"
   },
+  "58.121.128.4": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Seo-gu",
+    "zip": "227",
+    "lat": 37.5214,
+    "lon": 126.6251,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.121.128.4"
+  },
   "121.155.86.248": {
     "status": "success",
     "country": "South Korea",
@@ -1966,22 +1982,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.57.147.198"
-  },
-  "218.149.222.199": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.149.222.199"
   },
   "106.172.53.118": {
     "status": "success",
