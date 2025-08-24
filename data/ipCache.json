@@ -1775,22 +1775,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.206.72.8"
   },
-  "114.30.160.93": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Mokpo-si",
-    "zip": "58647",
-    "lat": 34.8142,
-    "lon": 126.3905,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHonam",
-    "as": "AS38121 LG HelloVision Corp.",
-    "query": "114.30.160.93"
-  },
   "111.94.182.6": {
     "status": "success",
     "country": "Indonesia",
@@ -1870,6 +1854,22 @@
     "org": "CJSC ChitaNet",
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.103.233.46"
+  },
+  "114.30.160.93": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Mokpo-si",
+    "zip": "58647",
+    "lat": 34.8142,
+    "lon": 126.3905,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHonam",
+    "as": "AS38121 LG HelloVision Corp.",
+    "query": "114.30.160.93"
   },
   "5.137.27.169": {
     "status": "success",
