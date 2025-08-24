@@ -735,6 +735,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
+  "106.159.116.186": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Atsugi",
+    "zip": "243-0011",
+    "lat": 35.4427,
+    "lon": 139.3719,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.116.186"
+  },
   "39.111.221.149": {
     "status": "success",
     "country": "Japan",
@@ -895,22 +911,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
-  "5.8.206.213": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "CJSC \"Transtelecom-DV\"",
-    "org": "CJSC Transtelecom-DV",
-    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
-    "query": "5.8.206.213"
-  },
   "126.251.1.126": {
     "status": "success",
     "country": "Japan",
@@ -926,6 +926,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS131937 Joetsu Cable Vision",
     "query": "126.251.1.126"
+  },
+  "5.8.206.213": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "CJSC \"Transtelecom-DV\"",
+    "org": "CJSC Transtelecom-DV",
+    "as": "AS15774 Limited Liability Company \"TTK-Svyaz\"",
+    "query": "5.8.206.213"
   },
   "220.148.142.95": {
     "status": "success",
@@ -1566,22 +1582,6 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "121.159.253.63"
-  },
-  "175.177.46.43": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "its communications Inc.",
-    "org": "its communications Inc.",
-    "as": "AS9365 its communications Inc.",
-    "query": "175.177.46.43"
   },
   "14.52.57.107": {
     "status": "success",
