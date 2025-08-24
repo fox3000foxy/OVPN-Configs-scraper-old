@@ -1087,22 +1087,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.79.36.178"
   },
-  "125.140.175.104": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "285",
-    "lat": 36.6387,
-    "lon": 127.4702,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Chungbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.140.175.104"
-  },
   "219.54.189.18": {
     "status": "success",
     "country": "Japan",
@@ -1118,6 +1102,22 @@
     "org": "Japan nation-wide Network of SOFTBANK Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "219.54.189.18"
+  },
+  "125.140.175.104": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "285",
+    "lat": 36.6387,
+    "lon": 127.4702,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Chungbukbonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.140.175.104"
   },
   "1.235.107.148": {
     "status": "success",
