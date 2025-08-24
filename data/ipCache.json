@@ -639,6 +639,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.111.129.224"
   },
+  "118.1.246.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "118.1.246.146"
+  },
   "59.10.44.242": {
     "status": "success",
     "country": "South Korea",
@@ -1039,22 +1055,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.34.131.228"
   },
-  "14.132.27.53": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.27.53"
-  },
   "121.7.137.17": {
     "status": "success",
     "country": "Singapore",
@@ -1134,6 +1134,22 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.141.88.31"
+  },
+  "14.132.27.53": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.27.53"
   },
   "60.114.255.84": {
     "status": "success",
@@ -1950,22 +1966,6 @@
     "org": "Branch of HTC International telecommunication joint stock company",
     "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
     "query": "103.88.119.198"
-  },
-  "184.22.16.107": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.16.107"
   },
   "106.178.223.50": {
     "status": "success",
