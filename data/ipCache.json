@@ -1583,22 +1583,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.206.71.126"
   },
-  "125.131.29.196": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "13606",
-    "lat": 37.3654,
-    "lon": 127.122,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.131.29.196"
-  },
   "49.228.122.67": {
     "status": "success",
     "country": "Thailand",
@@ -1615,21 +1599,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.122.67"
   },
-  "59.13.204.107": {
+  "125.131.29.196": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
     "city": "Seongnam-si",
-    "zip": "132",
-    "lat": 37.4541,
-    "lon": 127.1404,
+    "zip": "13606",
+    "lat": 37.3654,
+    "lon": 127.122,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "59.13.204.107"
+    "query": "125.131.29.196"
   },
   "220.121.88.62": {
     "status": "success",
@@ -1646,6 +1630,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.121.88.62"
+  },
+  "59.13.204.107": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "132",
+    "lat": 37.4541,
+    "lon": 127.1404,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.13.204.107"
   },
   "211.210.229.127": {
     "status": "success",
