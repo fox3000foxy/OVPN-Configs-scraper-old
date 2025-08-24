@@ -1071,6 +1071,22 @@
     "as": "AS9506 Singtel Fibre Broadband",
     "query": "121.7.137.17"
   },
+  "138.64.214.7": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Ikutacho",
+    "zip": "651-0091",
+    "lat": 34.7002,
+    "lon": 135.2002,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.214.7"
+  },
   "122.128.209.73": {
     "status": "success",
     "country": "South Korea",
@@ -1102,22 +1118,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
-  },
-  "138.64.214.7": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Ikutacho",
-    "zip": "651-0091",
-    "lat": 34.7002,
-    "lon": 135.2002,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.214.7"
   },
   "5.141.88.31": {
     "status": "success",
