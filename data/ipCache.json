@@ -1295,22 +1295,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.131.164"
   },
-  "59.12.85.196": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.12.85.196"
-  },
   "111.90.98.127": {
     "status": "success",
     "country": "Japan",
@@ -1326,6 +1310,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "111.90.98.127"
+  },
+  "59.12.85.196": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "169",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.12.85.196"
   },
   "118.105.136.252": {
     "status": "success",
@@ -1438,6 +1438,22 @@
     "org": "QTnet, Inc.",
     "as": "AS7679 QTnet,Inc.",
     "query": "124.159.92.159"
+  },
+  "220.90.78.134": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangsan-gu",
+    "zip": "622",
+    "lat": 35.2119,
+    "lon": 126.8545,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "KT munheung daeju3cha",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.90.78.134"
   },
   "187.250.42.242": {
     "status": "success",
@@ -1566,6 +1582,22 @@
     "org": "V tal",
     "as": "AS7738 V tal",
     "query": "191.44.11.51"
+  },
+  "59.20.187.60": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "487",
+    "lat": 35.1266,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.20.187.60"
   },
   "131.96.42.33": {
     "status": "success",
@@ -1870,22 +1902,6 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "222.100.231.87"
-  },
-  "78.157.231.174": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "\"SKTV+\" LLC",
-    "org": "Sktv+ Llc.",
-    "as": "AS42742 InterkamService LLC",
-    "query": "78.157.231.174"
   },
   "186.122.11.238": {
     "status": "success",
