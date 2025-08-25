@@ -799,21 +799,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
-  "210.245.29.220": {
+  "61.44.175.142": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "CHINGLUH",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.29.220"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0071",
+    "lat": 41.7974,
+    "lon": 140.7298,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.175.142"
   },
   "81.162.45.113": {
     "status": "success",
@@ -830,22 +830,6 @@
     "org": "OJSC Telecommunication networks",
     "as": "AS49136 Telecommunication networks Ltd",
     "query": "81.162.45.113"
-  },
-  "61.44.175.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Hakodate",
-    "zip": "040-0071",
-    "lat": 41.7974,
-    "lon": 140.7298,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCV",
-    "org": "New Media Co., Ltd",
-    "as": "AS59127 Newmedia Corporation",
-    "query": "61.44.175.142"
   },
   "221.153.150.103": {
     "status": "success",
@@ -1982,6 +1966,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.200.230.80"
+  },
+  "121.66.245.171": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "121.66.245.171"
   },
   "186.122.11.238": {
     "status": "success",
