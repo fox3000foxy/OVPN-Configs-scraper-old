@@ -975,22 +975,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.84.205.57"
   },
-  "77.35.13.126": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.13.126"
-  },
   "61.25.149.161": {
     "status": "success",
     "country": "Japan",
@@ -1006,6 +990,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.25.149.161"
+  },
+  "77.35.13.126": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690000",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.13.126"
   },
   "126.77.185.5": {
     "status": "success",
@@ -1279,22 +1279,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.87.151.4"
   },
-  "27.72.89.195": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Newass2011xDSLHN",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "27.72.89.195"
-  },
   "175.213.166.190": {
     "status": "success",
     "country": "South Korea",
@@ -1503,22 +1487,6 @@
     "as": "AS6327 Shaw Communications Inc.",
     "query": "174.6.72.9"
   },
-  "60.112.15.145": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.112.15.145"
-  },
   "223.217.222.217": {
     "status": "success",
     "country": "Japan",
@@ -1535,7 +1503,7 @@
     "as": "AS4713 NTT Communications Corporation",
     "query": "223.217.222.217"
   },
-  "60.130.165.77": {
+  "60.112.15.145": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -1549,7 +1517,7 @@
     "isp": "SoftBank Corp.",
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
-    "query": "60.130.165.77"
+    "query": "60.112.15.145"
   },
   "184.22.104.49": {
     "status": "success",
@@ -1566,6 +1534,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.104.49"
+  },
+  "60.130.165.77": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.130.165.77"
   },
   "118.41.238.80": {
     "status": "success",
