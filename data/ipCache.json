@@ -1071,22 +1071,6 @@
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
   },
-  "133.175.174.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chuo",
-    "zip": "103-0000",
-    "lat": 35.6812,
-    "lon": 139.774,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Toray Industries, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.175.174.202"
-  },
   "125.11.100.23": {
     "status": "success",
     "country": "Japan",
@@ -1247,22 +1231,6 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "67.168.16.166"
   },
-  "125.198.42.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kamiochiai",
-    "zip": "161-8511",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "125.198.42.151"
-  },
   "59.31.21.205": {
     "status": "success",
     "country": "South Korea",
@@ -1278,6 +1246,22 @@
     "org": "Chungbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "59.31.21.205"
+  },
+  "125.198.42.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamiochiai",
+    "zip": "161-8511",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "125.198.42.151"
   },
   "118.87.151.4": {
     "status": "success",
