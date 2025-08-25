@@ -1391,22 +1391,6 @@
     "as": "AS35807 SkyNet Ltd.",
     "query": "94.19.187.253"
   },
-  "27.72.89.195": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Newass2011xDSLHN",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "27.72.89.195"
-  },
   "182.217.161.57": {
     "status": "success",
     "country": "South Korea",
@@ -1902,6 +1886,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.126.1.235"
+  },
+  "37.140.24.30": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Magnitogorsk",
+    "zip": "455033",
+    "lat": 53.3981,
+    "lon": 59.0066,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.24.30"
   },
   "106.178.223.50": {
     "status": "success",
