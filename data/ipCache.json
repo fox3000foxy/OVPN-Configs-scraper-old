@@ -815,6 +815,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
+  "210.245.29.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "CHINGLUH",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.29.220"
+  },
   "81.162.45.113": {
     "status": "success",
     "country": "Russia",
@@ -910,6 +926,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.0.159.199"
+  },
+  "92.37.217.121": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "KHT RU",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.217.121"
   },
   "95.70.20.24": {
     "status": "success",
@@ -1295,22 +1327,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.27.53"
   },
-  "203.171.11.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Suzuka",
-    "zip": "513-0811",
-    "lat": 34.8672,
-    "lon": 136.5953,
-    "timezone": "Asia/Tokyo",
-    "isp": "Suzuka Cable Co., Ltd",
-    "org": "Suzuka Cable Co., Ltd",
-    "as": "AS9997 Suzuka Cable Co.,Ltd",
-    "query": "203.171.11.112"
-  },
   "27.72.89.195": {
     "status": "success",
     "country": "Vietnam",
@@ -1567,6 +1583,22 @@
     "as": "AS7018 AT&T Enterprises, LLC",
     "query": "104.3.32.106"
   },
+  "59.169.230.205": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "59.169.230.205"
+  },
   "60.130.165.77": {
     "status": "success",
     "country": "Japan",
@@ -1615,22 +1647,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.119.214"
   },
-  "106.176.36.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Yagisawa",
-    "zip": "202-0021",
-    "lat": 35.7285,
-    "lon": 139.5584,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.176.36.212"
-  },
   "222.116.131.178": {
     "status": "success",
     "country": "South Korea",
@@ -1663,6 +1679,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.244.60.179"
   },
+  "106.176.36.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Yagisawa",
+    "zip": "202-0021",
+    "lat": 35.7285,
+    "lon": 139.5584,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.176.36.212"
+  },
   "126.218.26.174": {
     "status": "success",
     "country": "Japan",
@@ -1694,6 +1726,22 @@
     "org": "FastNet384",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "118.136.168.99"
+  },
+  "50.20.127.126": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ",
+    "regionName": "Arizona",
+    "city": "Chandler",
+    "zip": "85286",
+    "lat": 33.2727,
+    "lon": -111.8278,
+    "timezone": "America/Phoenix",
+    "isp": "WeLink Communications, Inc.",
+    "org": "WeLink Communications, Inc.",
+    "as": "AS397303 WeLink Communications, Inc.",
+    "query": "50.20.127.126"
   },
   "125.136.163.111": {
     "status": "success",
@@ -1742,22 +1790,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.204.54.218"
-  },
-  "50.20.127.126": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AZ",
-    "regionName": "Arizona",
-    "city": "Chandler",
-    "zip": "85286",
-    "lat": 33.2727,
-    "lon": -111.8278,
-    "timezone": "America/Phoenix",
-    "isp": "WeLink Communications, Inc.",
-    "org": "WeLink Communications, Inc.",
-    "as": "AS397303 WeLink Communications, Inc.",
-    "query": "50.20.127.126"
   },
   "49.228.106.210": {
     "status": "success",
@@ -1950,38 +1982,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.14.218.220"
-  },
-  "114.200.230.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.200.230.80"
-  },
-  "121.66.245.171": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "121.66.245.171"
   },
   "111.217.106.162": {
     "status": "success",
