@@ -1695,22 +1695,6 @@
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "118.136.168.99"
   },
-  "125.136.163.111": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Mokpo-si",
-    "zip": "58647",
-    "lat": 34.8142,
-    "lon": 126.3905,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.136.163.111"
-  },
   "175.204.54.218": {
     "status": "success",
     "country": "South Korea",
@@ -1726,6 +1710,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.204.54.218"
+  },
+  "125.136.163.111": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Mokpo-si",
+    "zip": "58647",
+    "lat": 34.8142,
+    "lon": 126.3905,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Jeonnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.136.163.111"
   },
   "112.187.49.134": {
     "status": "success",
