@@ -1,4 +1,20 @@
 {
+  "113.22.67.0": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.67.0"
+  },
   "126.218.164.175": {
     "status": "success",
     "country": "Japan",
@@ -175,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.126.89.27"
   },
-  "124.80.119.113": {
+  "1.230.51.135": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Mapo-gu",
-    "zip": "041",
-    "lat": 37.5521,
-    "lon": 126.9505,
+    "city": "Gwanak-gu",
+    "zip": "088",
+    "lat": 37.4625,
+    "lon": 126.9438,
     "timezone": "Asia/Seoul",
     "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD Ginam",
-    "as": "AS17849 SK Broadband Co Ltd",
-    "query": "124.80.119.113"
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.230.51.135"
   },
   "153.160.185.86": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.203.90"
-  },
-  "121.179.100.237": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Naju",
-    "zip": "582",
-    "lat": 35.0223,
-    "lon": 126.7897,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.179.100.237"
   },
   "219.100.37.49": {
     "status": "success",
