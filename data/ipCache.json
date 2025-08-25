@@ -767,22 +767,6 @@
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "182.235.231.66"
   },
-  "118.44.169.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.44.169.33"
-  },
   "131.147.203.90": {
     "status": "success",
     "country": "Japan",
@@ -1151,6 +1135,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
+  "133.32.165.70": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Toyosu",
+    "zip": "135-0061",
+    "lat": 35.6289,
+    "lon": 139.7915,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.165.70"
+  },
   "5.143.104.50": {
     "status": "success",
     "country": "Russia",
@@ -1214,6 +1214,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.82.43"
+  },
+  "182.168.131.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Daishuku",
+    "zip": "302-0011",
+    "lat": 35.9054,
+    "lon": 140.0794,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.168.131.73"
   },
   "1.239.70.208": {
     "status": "success",
@@ -1407,22 +1423,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.163.76"
   },
-  "221.152.84.65": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Sacheon-si",
-    "zip": "525",
-    "lat": 35.0355,
-    "lon": 128.0682,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.84.65"
-  },
   "124.159.92.159": {
     "status": "success",
     "country": "Japan",
@@ -1535,22 +1535,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.156.107"
   },
-  "191.44.11.51": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "ES",
-    "regionName": "Espírito Santo",
-    "city": "Serra",
-    "zip": "29160",
-    "lat": -20.1088,
-    "lon": -40.3022,
-    "timezone": "America/Sao_Paulo",
-    "isp": "V tal",
-    "org": "V tal",
-    "as": "AS7738 V tal",
-    "query": "191.44.11.51"
-  },
   "46.188.124.68": {
     "status": "success",
     "country": "Russia",
@@ -1566,6 +1550,22 @@
     "org": "2COM Co ltd.",
     "as": "AS8334 LLC SETEL",
     "query": "46.188.124.68"
+  },
+  "191.44.11.51": {
+    "status": "success",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "ES",
+    "regionName": "Espírito Santo",
+    "city": "Serra",
+    "zip": "29160",
+    "lat": -20.1088,
+    "lon": -40.3022,
+    "timezone": "America/Sao_Paulo",
+    "isp": "V tal",
+    "org": "V tal",
+    "as": "AS7738 V tal",
+    "query": "191.44.11.51"
   },
   "131.96.42.33": {
     "status": "success",
@@ -1662,22 +1662,6 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.204.136"
-  },
-  "133.32.165.70": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Toyosu",
-    "zip": "135-0061",
-    "lat": 35.6289,
-    "lon": 139.7915,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.165.70"
   },
   "126.106.207.11": {
     "status": "success",
@@ -1950,6 +1934,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "222.100.231.87"
+  },
+  "78.157.231.174": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "\"SKTV+\" LLC",
+    "org": "Sktv+ Llc.",
+    "as": "AS42742 InterkamService LLC",
+    "query": "78.157.231.174"
   },
   "186.122.11.238": {
     "status": "success",
