@@ -1151,6 +1151,22 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.109.240.71"
   },
+  "1.66.34.35": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.35"
+  },
   "221.155.1.155": {
     "status": "success",
     "country": "South Korea",
@@ -1182,22 +1198,6 @@
     "org": "WI-NET Telecom SAC",
     "as": "AS265691 WI-NET TELECOM S.A.C.",
     "query": "38.25.53.68"
-  },
-  "1.66.34.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.35"
   },
   "27.72.89.195": {
     "status": "success",
@@ -1583,22 +1583,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.104.49"
   },
-  "106.176.36.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Yagisawa",
-    "zip": "202-0021",
-    "lat": 35.7285,
-    "lon": 139.5584,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.176.36.212"
-  },
   "60.130.165.77": {
     "status": "success",
     "country": "Japan",
@@ -1678,6 +1662,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.119.214"
+  },
+  "106.176.36.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Yagisawa",
+    "zip": "202-0021",
+    "lat": 35.7285,
+    "lon": 139.5584,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.176.36.212"
   },
   "222.116.131.178": {
     "status": "success",
