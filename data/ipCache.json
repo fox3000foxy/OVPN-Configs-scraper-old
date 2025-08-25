@@ -1,4 +1,52 @@
 {
+  "222.227.234.24": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.227.234.24"
+  },
+  "114.190.156.40": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "114.190.156.40"
+  },
+  "61.27.198.131": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Takanosu",
+    "zip": "806-0041",
+    "lat": 33.866,
+    "lon": 130.7497,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.27.198.131"
+  },
   "187.250.42.242": {
     "status": "success",
     "country": "Mexico",
@@ -143,22 +191,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.148.205"
   },
-  "122.99.21.46": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "TPE",
-    "regionName": "Taipei City",
-    "city": "Taipei",
-    "zip": "",
-    "lat": 25.053,
-    "lon": 121.5259,
-    "timezone": "Asia/Taipei",
-    "isp": "KE-ING",
-    "org": "KE-ing Co, Ltd",
-    "as": "AS9416 Hoshin Multimedia Center Inc.",
-    "query": "122.99.21.46"
-  },
   "221.152.115.166": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +222,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
+  },
+  "61.245.188.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61928",
+    "lat": 35.1573,
+    "lon": 126.904,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Cable TV Kwangju Broadcasting",
+    "org": "Kctvnet",
+    "as": "AS38673 Korea Cable TV Kwangju Broadcasting",
+    "query": "61.245.188.65"
   },
   "125.205.7.205": {
     "status": "success",
@@ -430,38 +478,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.49"
-  },
-  "67.185.85.130": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Kirkland",
-    "zip": "98034",
-    "lat": 47.7229,
-    "lon": -122.1961,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "67.185.85.130"
-  },
-  "219.100.37.201": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.201"
   },
   "219.100.37.199": {
     "status": "success",
@@ -1071,6 +1087,22 @@
     "as": "AS45899 VNPT Corp",
     "query": "14.186.49.153"
   },
+  "122.99.21.46": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "TPE",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "zip": "",
+    "lat": 25.053,
+    "lon": 121.5259,
+    "timezone": "Asia/Taipei",
+    "isp": "KE-ING",
+    "org": "KE-ing Co, Ltd",
+    "as": "AS9416 Hoshin Multimedia Center Inc.",
+    "query": "122.99.21.46"
+  },
   "133.175.174.202": {
     "status": "success",
     "country": "Japan",
@@ -1518,22 +1550,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.105.128.211"
-  },
-  "61.27.198.131": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Takanosu",
-    "zip": "806-0041",
-    "lat": 33.866,
-    "lon": 130.7497,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.27.198.131"
   },
   "153.136.167.26": {
     "status": "success",
