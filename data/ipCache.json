@@ -895,6 +895,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.118.83"
   },
+  "219.147.27.214": {
+    "status": "success",
+    "country": "China",
+    "countryCode": "CN",
+    "region": "SD",
+    "regionName": "Shandong",
+    "city": "Jinan",
+    "zip": "250000",
+    "lat": 36.6518,
+    "lon": 117.12,
+    "timezone": "Asia/Shanghai",
+    "isp": "Chinanet",
+    "org": "Chinanet SD",
+    "as": "AS4134 CHINANET-BACKBONE",
+    "query": "219.147.27.214"
+  },
   "165.22.52.133": {
     "status": "success",
     "country": "Singapore",
@@ -1310,6 +1326,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.12.85.196"
+  },
+  "101.109.222.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10250",
+    "lat": 13.8582,
+    "lon": 100.478,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "101.109.222.44"
   },
   "111.90.98.127": {
     "status": "success",
@@ -1870,22 +1902,6 @@
     "org": "JSC Rostelecom regional branch \"Siberia\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.208.32.236"
-  },
-  "222.100.231.87": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Bupyeong-gu",
-    "zip": "213",
-    "lat": 37.5087,
-    "lon": 126.7219,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.100.231.87"
   },
   "186.122.11.238": {
     "status": "success",
