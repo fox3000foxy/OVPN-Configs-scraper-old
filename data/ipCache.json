@@ -927,22 +927,6 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
   },
-  "182.237.221.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9445,
-    "lon": 126.954,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.37"
-  },
   "221.153.150.103": {
     "status": "success",
     "country": "South Korea",
@@ -958,6 +942,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.153.150.103"
+  },
+  "182.237.221.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "546",
+    "lat": 35.9445,
+    "lon": 126.954,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kumgang Jungbotongsin(Gunsan)",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "182.237.221.37"
   },
   "95.70.20.24": {
     "status": "success",
@@ -1230,6 +1230,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.73.43"
+  },
+  "221.155.1.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju",
+    "zip": "108",
+    "lat": 37.7428,
+    "lon": 126.737,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.155.1.155"
   },
   "126.203.204.100": {
     "status": "success",
@@ -1918,22 +1934,6 @@
     "org": "FastNet",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.94.182.6"
-  },
-  "114.200.230.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.200.230.80"
   },
   "111.217.106.162": {
     "status": "success",
