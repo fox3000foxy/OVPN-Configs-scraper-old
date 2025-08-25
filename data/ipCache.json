@@ -1071,22 +1071,6 @@
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
   },
-  "133.175.174.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chuo",
-    "zip": "103-0000",
-    "lat": 35.6812,
-    "lon": 139.774,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Toray Industries, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.175.174.202"
-  },
   "125.11.100.23": {
     "status": "success",
     "country": "Japan",
@@ -1535,22 +1519,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.112.15.145"
   },
-  "223.217.222.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "04",
-    "regionName": "Miyagi",
-    "city": "Kōyōdai",
-    "zip": "981-0212",
-    "lat": 38.3869,
-    "lon": 141.0684,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT Communications Corporation",
-    "query": "223.217.222.217"
-  },
   "104.3.32.106": {
     "status": "success",
     "country": "United States",
@@ -1566,6 +1534,22 @@
     "org": "AT&T Corp",
     "as": "AS7018 AT&T Enterprises, LLC",
     "query": "104.3.32.106"
+  },
+  "223.217.222.217": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Kōyōdai",
+    "zip": "981-0212",
+    "lat": 38.3869,
+    "lon": 141.0684,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT Communications Corporation",
+    "query": "223.217.222.217"
   },
   "60.130.165.77": {
     "status": "success",
@@ -1982,6 +1966,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.200.230.80"
+  },
+  "121.66.245.171": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "121.66.245.171"
   },
   "186.122.11.238": {
     "status": "success",
