@@ -1,4 +1,36 @@
 {
+  "5.149.218.158": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "40",
+    "regionName": "Sebastopol City",
+    "city": "Sevastopol",
+    "zip": "90022",
+    "lat": 44.6089,
+    "lon": 33.53,
+    "timezone": "Europe/Simferopol",
+    "isp": "Lancom Ltd.",
+    "org": "Lancom Ltd",
+    "as": "AS35816 Lancom Ltd.",
+    "query": "5.149.218.158"
+  },
+  "27.69.164.22": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "DN",
+    "regionName": "Da Nang",
+    "city": "Da Nang",
+    "zip": "550000",
+    "lat": 16.0685,
+    "lon": 108.2215,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Viettel Group",
+    "org": "VIETTEL",
+    "as": "AS7552 Viettel Group",
+    "query": "27.69.164.22"
+  },
   "115.30.202.47": {
     "status": "success",
     "country": "Japan",
@@ -159,22 +191,6 @@
     "as": "AS6128 Cablevision Systems Corp.",
     "query": "173.3.234.196"
   },
-  "49.142.206.11": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Yesan",
-    "zip": "324",
-    "lat": 36.6781,
-    "lon": 126.6946,
-    "timezone": "Asia/Seoul",
-    "isp": "HCN CHUNGBUK CABLE TV SYSTEMS",
-    "org": "HCN",
-    "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
-    "query": "49.142.206.11"
-  },
   "218.235.148.205": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +206,22 @@
     "org": "543MEDIATECH",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.148.205"
+  },
+  "121.138.244.175": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3851,
+    "lon": 127.2217,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.138.244.175"
   },
   "133.32.152.44": {
     "status": "success",
@@ -430,38 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.196.3.212"
-  },
-  "221.152.115.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Suyeong-gu",
-    "zip": "482",
-    "lat": 35.1513,
-    "lon": 129.1203,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "(ju)hyeonsolru",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.115.166"
-  },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
   },
   "219.100.37.49": {
     "status": "success",
@@ -3310,22 +3310,6 @@
     "org": "Comcast Cable Communications, LLC",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "76.139.3.169"
-  },
-  "27.69.164.22": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "DN",
-    "regionName": "Da Nang",
-    "city": "Da Nang",
-    "zip": "550000",
-    "lat": 16.0685,
-    "lon": 108.2215,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Viettel Group",
-    "org": "VIETTEL",
-    "as": "AS7552 Viettel Group",
-    "query": "27.69.164.22"
   },
   "42.114.252.221": {
     "status": "success",
