@@ -863,6 +863,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.201.195.240"
   },
+  "210.245.29.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "CHINGLUH",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.29.220"
+  },
   "81.162.45.113": {
     "status": "success",
     "country": "Russia",
@@ -1391,6 +1407,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.103.233.46"
   },
+  "27.72.89.195": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Newass2011xDSLHN",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "27.72.89.195"
+  },
   "94.19.187.253": {
     "status": "success",
     "country": "Russia",
@@ -1711,22 +1743,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "169.211.182.81"
   },
-  "222.237.26.127": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "066",
-    "lat": 37.4906,
-    "lon": 127.0168,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.237.26.127"
-  },
   "14.33.133.125": {
     "status": "success",
     "country": "South Korea",
@@ -1934,22 +1950,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.126.1.235"
-  },
-  "61.109.38.148": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "153",
-    "lat": 37.3253,
-    "lon": 126.8178,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS17864 SK Broadband Co Ltd",
-    "query": "61.109.38.148"
   },
   "111.217.106.162": {
     "status": "success",
