@@ -1231,22 +1231,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
-  "221.155.1.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju",
-    "zip": "108",
-    "lat": 37.7428,
-    "lon": 126.737,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.155.1.155"
-  },
   "42.113.73.43": {
     "status": "success",
     "country": "Vietnam",
@@ -1262,6 +1246,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.73.43"
+  },
+  "221.155.1.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju",
+    "zip": "108",
+    "lat": 37.7428,
+    "lon": 126.737,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.155.1.155"
   },
   "126.203.204.100": {
     "status": "success",
@@ -1407,22 +1407,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.103.233.46"
   },
-  "182.217.161.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "050",
-    "lat": 37.5406,
-    "lon": 127.0763,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "182.217.161.57"
-  },
   "27.72.89.195": {
     "status": "success",
     "country": "Vietnam",
@@ -1470,6 +1454,22 @@
     "org": "Total Play Telecomunicaciones SA De CV",
     "as": "AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV",
     "query": "187.189.217.52"
+  },
+  "182.217.161.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "050",
+    "lat": 37.5406,
+    "lon": 127.0763,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.217.161.57"
   },
   "210.20.179.124": {
     "status": "success",
@@ -1743,6 +1743,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "169.211.182.81"
   },
+  "222.237.26.127": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "066",
+    "lat": 37.4906,
+    "lon": 127.0168,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.237.26.127"
+  },
   "14.33.133.125": {
     "status": "success",
     "country": "South Korea",
@@ -1934,22 +1950,6 @@
     "org": "FastNet",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.94.182.6"
-  },
-  "116.126.1.235": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.126.1.235"
   },
   "111.217.106.162": {
     "status": "success",
