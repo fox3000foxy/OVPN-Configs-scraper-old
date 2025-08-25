@@ -1311,6 +1311,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.12.85.196"
   },
+  "101.109.222.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10250",
+    "lat": 13.8582,
+    "lon": 100.478,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "101.109.222.44"
+  },
   "111.90.98.127": {
     "status": "success",
     "country": "Japan",
