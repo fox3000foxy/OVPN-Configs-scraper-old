@@ -943,6 +943,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.20.24"
   },
+  "211.205.56.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Seo-gu",
+    "zip": "619",
+    "lat": 35.1644,
+    "lon": 126.8546,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.56.227"
+  },
   "222.0.159.199": {
     "status": "success",
     "country": "Japan",
@@ -1183,6 +1199,22 @@
     "as": "AS131267 Star Telecom",
     "query": "183.182.113.191"
   },
+  "221.155.1.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju",
+    "zip": "108",
+    "lat": 37.7428,
+    "lon": 126.737,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.155.1.155"
+  },
   "42.113.73.43": {
     "status": "success",
     "country": "Vietnam",
@@ -1214,22 +1246,6 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
-  },
-  "221.155.1.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju",
-    "zip": "108",
-    "lat": 37.7428,
-    "lon": 126.737,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.155.1.155"
   },
   "126.203.204.100": {
     "status": "success",
@@ -1390,22 +1406,6 @@
     "org": "Total Play Telecomunicaciones SA De CV",
     "as": "AS17072 TOTAL PLAY TELECOMUNICACIONES SA DE CV",
     "query": "187.189.217.52"
-  },
-  "113.10.25.18": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "06245",
-    "lat": 37.5167,
-    "lon": 127.042,
-    "timezone": "Asia/Seoul",
-    "isp": "KangNam CableTV",
-    "org": "DLIVE Gangnam Cable TV",
-    "as": "AS9943 KangNam CableTV",
-    "query": "113.10.25.18"
   },
   "60.105.78.58": {
     "status": "success",
