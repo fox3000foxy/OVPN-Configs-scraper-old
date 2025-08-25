@@ -1023,22 +1023,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.110"
   },
-  "77.35.13.126": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.13.126"
-  },
   "61.25.149.161": {
     "status": "success",
     "country": "Japan",
@@ -1054,6 +1038,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.25.149.161"
+  },
+  "77.35.13.126": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690000",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.13.126"
   },
   "211.216.239.54": {
     "status": "success",
@@ -1182,6 +1182,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.109.240.71"
+  },
+  "183.182.113.191": {
+    "status": "success",
+    "country": "Laos",
+    "countryCode": "LA",
+    "region": "XS",
+    "regionName": "Xaisomboun",
+    "city": "Ban Longchèng",
+    "zip": "",
+    "lat": 19.1096,
+    "lon": 102.9183,
+    "timezone": "Asia/Vientiane",
+    "isp": "Star Telecom Company",
+    "org": "UNITEL",
+    "as": "AS131267 Star Telecom",
+    "query": "183.182.113.191"
   },
   "1.66.34.35": {
     "status": "success",
@@ -1854,22 +1870,6 @@
     "org": "jusighwyeusa keitisudogwongogaegsenteo",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.89.23"
-  },
-  "183.182.113.191": {
-    "status": "success",
-    "country": "Laos",
-    "countryCode": "LA",
-    "region": "XS",
-    "regionName": "Xaisomboun",
-    "city": "Ban Longchèng",
-    "zip": "",
-    "lat": 19.1096,
-    "lon": 102.9183,
-    "timezone": "Asia/Vientiane",
-    "isp": "Star Telecom Company",
-    "org": "UNITEL",
-    "as": "AS131267 Star Telecom",
-    "query": "183.182.113.191"
   },
   "61.109.38.148": {
     "status": "success",
