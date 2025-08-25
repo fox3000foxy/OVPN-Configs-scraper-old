@@ -831,21 +831,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
-  "210.245.29.220": {
+  "222.229.115.162": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "CHINGLUH",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.29.220"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Chita",
+    "zip": "478-0051",
+    "lat": 34.9887,
+    "lon": 136.8708,
+    "timezone": "Asia/Tokyo",
+    "isp": "MEDIAS",
+    "org": "Chita Medias Network INC.",
+    "as": "AS9354 Community Network Center Inc.",
+    "query": "222.229.115.162"
   },
   "175.201.195.240": {
     "status": "success",
@@ -1310,22 +1310,6 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.87.151.4"
-  },
-  "59.31.21.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Jecheon",
-    "zip": "271",
-    "lat": 37.14,
-    "lon": 128.2106,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Chungbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.31.21.205"
   },
   "119.240.154.27": {
     "status": "success",
@@ -1934,6 +1918,22 @@
     "org": "broadNnet",
     "as": "AS17864 SK Broadband Co Ltd",
     "query": "61.109.38.148"
+  },
+  "116.126.1.235": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.1.235"
   },
   "111.217.106.162": {
     "status": "success",
