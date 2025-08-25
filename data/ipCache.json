@@ -1151,22 +1151,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.35"
   },
-  "133.32.165.70": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Toyosu",
-    "zip": "135-0061",
-    "lat": 35.6289,
-    "lon": 139.7915,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.165.70"
-  },
   "5.143.104.50": {
     "status": "success",
     "country": "Russia",
@@ -1230,22 +1214,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.82.43"
-  },
-  "182.168.131.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Daishuku",
-    "zip": "302-0011",
-    "lat": 35.9054,
-    "lon": 140.0794,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.168.131.73"
   },
   "1.239.70.208": {
     "status": "success",
@@ -1438,6 +1406,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.163.76"
+  },
+  "221.152.84.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Sacheon-si",
+    "zip": "525",
+    "lat": 35.0355,
+    "lon": 128.0682,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.152.84.65"
   },
   "124.159.92.159": {
     "status": "success",
@@ -1678,6 +1662,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.204.136"
+  },
+  "133.32.165.70": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Toyosu",
+    "zip": "135-0061",
+    "lat": 35.6289,
+    "lon": 139.7915,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.165.70"
   },
   "126.106.207.11": {
     "status": "success",
