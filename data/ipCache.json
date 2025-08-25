@@ -831,22 +831,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.201.195.240"
   },
-  "210.245.29.220": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "CHINGLUH",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.29.220"
-  },
   "222.229.115.162": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "broadNnet",
     "as": "AS17864 SK Broadband Co Ltd",
     "query": "61.109.38.148"
+  },
+  "37.140.24.30": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Magnitogorsk",
+    "zip": "455033",
+    "lat": 53.3981,
+    "lon": 59.0066,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.24.30"
   },
   "111.217.106.162": {
     "status": "success",
