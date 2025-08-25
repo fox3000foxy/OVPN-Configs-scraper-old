@@ -543,22 +543,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.200"
   },
-  "219.100.37.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.167"
-  },
   "219.100.37.111": {
     "status": "success",
     "country": "Japan",
@@ -574,6 +558,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.111"
+  },
+  "219.100.37.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.167"
   },
   "219.100.37.196": {
     "status": "success",
@@ -799,22 +799,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
-  "210.245.29.220": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "CHINGLUH",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "210.245.29.220"
-  },
   "61.44.175.142": {
     "status": "success",
     "country": "Japan",
@@ -1039,22 +1023,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.25.149.161"
   },
-  "122.99.21.46": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "TPE",
-    "regionName": "Taipei City",
-    "city": "Taipei",
-    "zip": "",
-    "lat": 25.053,
-    "lon": 121.5259,
-    "timezone": "Asia/Taipei",
-    "isp": "KE-ING",
-    "org": "KE-ing Co, Ltd",
-    "as": "AS9416 Hoshin Multimedia Center Inc.",
-    "query": "122.99.21.46"
-  },
   "61.73.170.176": {
     "status": "success",
     "country": "South Korea",
@@ -1070,6 +1038,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "61.73.170.176"
+  },
+  "122.99.21.46": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "TPE",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "zip": "",
+    "lat": 25.053,
+    "lon": 121.5259,
+    "timezone": "Asia/Taipei",
+    "isp": "KE-ING",
+    "org": "KE-ing Co, Ltd",
+    "as": "AS9416 Hoshin Multimedia Center Inc.",
+    "query": "122.99.21.46"
   },
   "133.175.174.202": {
     "status": "success",
@@ -1151,22 +1135,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.109.240.71"
   },
-  "1.66.34.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.35"
-  },
   "221.155.1.155": {
     "status": "success",
     "country": "South Korea",
@@ -1199,37 +1167,21 @@
     "as": "AS265691 WI-NET TELECOM S.A.C.",
     "query": "38.25.53.68"
   },
-  "27.72.89.195": {
+  "1.66.34.35": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Newass2011xDSLHN",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "27.72.89.195"
-  },
-  "67.168.16.166": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Seattle",
-    "zip": "98103",
-    "lat": 47.6733,
-    "lon": -122.3426,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, IP Services",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "67.168.16.166"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.35"
   },
   "140.177.72.68": {
     "status": "success",
@@ -1407,22 +1359,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "210.20.179.124"
   },
-  "113.10.25.18": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "06245",
-    "lat": 37.5167,
-    "lon": 127.042,
-    "timezone": "Asia/Seoul",
-    "isp": "KangNam CableTV",
-    "org": "DLIVE Gangnam Cable TV",
-    "as": "AS9943 KangNam CableTV",
-    "query": "113.10.25.18"
-  },
   "118.70.171.120": {
     "status": "success",
     "country": "Vietnam",
@@ -1438,6 +1374,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.70.171.120"
+  },
+  "113.10.25.18": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "06245",
+    "lat": 37.5167,
+    "lon": 127.042,
+    "timezone": "Asia/Seoul",
+    "isp": "KangNam CableTV",
+    "org": "DLIVE Gangnam Cable TV",
+    "as": "AS9943 KangNam CableTV",
+    "query": "113.10.25.18"
   },
   "183.81.60.93": {
     "status": "success",
@@ -1583,6 +1535,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.104.49"
   },
+  "106.176.36.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Yagisawa",
+    "zip": "202-0021",
+    "lat": 35.7285,
+    "lon": 139.5584,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.176.36.212"
+  },
   "60.130.165.77": {
     "status": "success",
     "country": "Japan",
@@ -1663,22 +1631,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.119.214"
   },
-  "106.176.36.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Yagisawa",
-    "zip": "202-0021",
-    "lat": 35.7285,
-    "lon": 139.5584,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.176.36.212"
-  },
   "222.116.131.178": {
     "status": "success",
     "country": "South Korea",
@@ -1726,6 +1678,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "59.169.230.205"
+  },
+  "67.168.16.166": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Seattle",
+    "zip": "98103",
+    "lat": 47.6733,
+    "lon": -122.3426,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, IP Services",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "67.168.16.166"
   },
   "118.136.168.99": {
     "status": "success",
@@ -1998,6 +1966,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "121.66.245.171"
+  },
+  "120.142.94.230": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "116",
+    "lat": 37.7413,
+    "lon": 127.0361,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Woori Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "120.142.94.230"
   },
   "186.122.11.238": {
     "status": "success",
