@@ -799,6 +799,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.6.205"
   },
+  "210.245.29.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "CHINGLUH",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "210.245.29.220"
+  },
   "81.162.45.113": {
     "status": "success",
     "country": "Russia",
@@ -1055,6 +1071,22 @@
     "as": "AS9416 Hoshin Multimedia Center Inc.",
     "query": "122.99.21.46"
   },
+  "133.175.174.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chuo",
+    "zip": "103-0000",
+    "lat": 35.6812,
+    "lon": 139.774,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Toray Industries, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.175.174.202"
+  },
   "125.11.100.23": {
     "status": "success",
     "country": "Japan",
@@ -1215,22 +1247,6 @@
     "as": "AS12119 ITV-3",
     "query": "140.177.72.68"
   },
-  "118.87.151.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Honchō",
-    "zip": "273-0001",
-    "lat": 35.7059,
-    "lon": 140.0004,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.87.151.4"
-  },
   "125.198.42.151": {
     "status": "success",
     "country": "Japan",
@@ -1262,6 +1278,22 @@
     "org": "Chungbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "59.31.21.205"
+  },
+  "118.87.151.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Honchō",
+    "zip": "273-0001",
+    "lat": 35.7059,
+    "lon": 140.0004,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.87.151.4"
   },
   "14.132.27.53": {
     "status": "success",
@@ -1950,22 +1982,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.200.230.80"
-  },
-  "121.66.245.171": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "121.66.245.171"
   },
   "186.122.11.238": {
     "status": "success",
