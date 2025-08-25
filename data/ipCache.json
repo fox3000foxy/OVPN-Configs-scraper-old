@@ -1,4 +1,36 @@
 {
+  "115.30.202.47": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "37",
+    "regionName": "Kagawa",
+    "city": "Takamatsu",
+    "zip": "760-0071",
+    "lat": 34.3316,
+    "lon": 134.0455,
+    "timezone": "Asia/Tokyo",
+    "isp": "STNet, Incorporated",
+    "org": "STNet",
+    "as": "AS7522 STNet, Incorporated",
+    "query": "115.30.202.47"
+  },
+  "221.163.84.170": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "162",
+    "lat": 37.2963,
+    "lon": 127.0506,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.163.84.170"
+  },
   "220.72.161.129": {
     "status": "success",
     "country": "South Korea",
@@ -159,22 +191,6 @@
     "as": "AS41349 Limited Liability Company MVM Technology",
     "query": "89.189.102.196"
   },
-  "61.45.123.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kokubunji",
-    "zip": "185-0021",
-    "lat": 35.6984,
-    "lon": 139.4819,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT-ME Corporation",
-    "org": "NTT-ME Corporation",
-    "as": "AS9595 NTT-ME Corporation",
-    "query": "61.45.123.207"
-  },
   "184.22.21.79": {
     "status": "success",
     "country": "Thailand",
@@ -190,6 +206,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.21.79"
+  },
+  "118.156.193.249": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nishiōizumi",
+    "zip": "178-0061",
+    "lat": 35.7662,
+    "lon": 139.5827,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.156.193.249"
   },
   "114.145.121.88": {
     "status": "success",
@@ -430,38 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.162.106.207"
-  },
-  "219.100.37.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.170"
-  },
-  "24.17.113.48": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Bellevue",
-    "zip": "98006",
-    "lat": 47.5579,
-    "lon": -122.1633,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.17.113.48"
   },
   "219.100.37.49": {
     "status": "success",
@@ -1966,22 +1966,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "113.155.193.199"
-  },
-  "115.30.202.47": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "37",
-    "regionName": "Kagawa",
-    "city": "Takamatsu",
-    "zip": "760-0071",
-    "lat": 34.3316,
-    "lon": 134.0455,
-    "timezone": "Asia/Tokyo",
-    "isp": "STNet, Incorporated",
-    "org": "STNet",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "115.30.202.47"
   },
   "115.38.31.202": {
     "status": "success",
