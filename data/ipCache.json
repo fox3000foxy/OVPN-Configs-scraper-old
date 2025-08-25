@@ -1311,22 +1311,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.87.151.4"
   },
-  "59.31.21.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Jecheon",
-    "zip": "271",
-    "lat": 37.14,
-    "lon": 128.2106,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Chungbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.31.21.205"
-  },
   "119.240.154.27": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "broadNnet",
     "as": "AS17864 SK Broadband Co Ltd",
     "query": "61.109.38.148"
+  },
+  "116.126.1.235": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.1.235"
   },
   "111.217.106.162": {
     "status": "success",
