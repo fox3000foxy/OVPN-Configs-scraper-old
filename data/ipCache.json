@@ -239,22 +239,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
-  "138.64.235.144": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.235.144"
-  },
   "220.150.148.16": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
+  },
+  "138.64.235.144": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.235.144"
   },
   "222.109.124.1": {
     "status": "success",
@@ -1263,6 +1263,22 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
+  "221.145.64.185": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "016",
+    "lat": 37.6576,
+    "lon": 127.072,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.145.64.185"
+  },
   "210.182.153.244": {
     "status": "success",
     "country": "South Korea",
@@ -1534,22 +1550,6 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
-  },
-  "210.159.189.22": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "37",
-    "regionName": "Kagawa",
-    "city": "Takamatsu",
-    "zip": "760-0061",
-    "lat": 34.3465,
-    "lon": 134.0624,
-    "timezone": "Asia/Tokyo",
-    "isp": "FBDC",
-    "org": "FreeBit Co., Ltd.",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "210.159.189.22"
   },
   "219.100.37.176": {
     "status": "success",
