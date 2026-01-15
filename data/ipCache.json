@@ -719,6 +719,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "120.51.69.68"
   },
+  "221.49.38.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.49.38.126"
+  },
   "217.29.181.61": {
     "status": "success",
     "country": "Russia",
@@ -831,6 +847,22 @@
     "as": "AS8402 PJSC \"Vimpelcom\"",
     "query": "95.27.187.15"
   },
+  "121.171.190.235": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.171.190.235"
+  },
   "121.130.138.116": {
     "status": "success",
     "country": "South Korea",
@@ -862,22 +894,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.18.235.155"
-  },
-  "121.171.190.235": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.171.190.235"
   },
   "116.68.80.251": {
     "status": "success",
@@ -1423,22 +1439,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.148.121.15"
   },
-  "92.253.30.34": {
-    "status": "success",
-    "country": "Jordan",
-    "countryCode": "JO",
-    "region": "AM",
-    "regionName": "Amman Governorate",
-    "city": "Amman",
-    "zip": "",
-    "lat": 31.9555,
-    "lon": 35.9435,
-    "timezone": "Asia/Amman",
-    "isp": "Jordan Data Communications Company LLC",
-    "org": "Jordan Telecom Group",
-    "as": "AS8376 Jordan Data Communications Company LLC",
-    "query": "92.253.30.34"
-  },
   "112.68.110.36": {
     "status": "success",
     "country": "Japan",
@@ -1534,6 +1534,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.37.234.40"
+  },
+  "180.21.114.51": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Ageo",
+    "zip": "362-0061",
+    "lat": 35.9766,
+    "lon": 139.5892,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.21.114.51"
   },
   "113.11.51.162": {
     "status": "success",
