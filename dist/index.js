@@ -4,13 +4,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = __importDefault(require("fs"));
-const path_1 = __importDefault(require("path"));
-const VPNGATE_getVpnList_js_1 = require("./api/VPNGATE-getVpnList.js");
-const OPL_getVpnList_js_1 = require("./api/OPL-getVpnList.js");
-const IPSpeed_getVpnList_js_1 = require("./api/IPSpeed-getVpnList.js");
-const getIPInfo_js_1 = require("./api/getIPInfo.js");
-const simple_git_1 = __importDefault(require("simple-git"));
 const node_fetch_1 = __importDefault(require("node-fetch"));
+const path_1 = __importDefault(require("path"));
+const simple_git_1 = __importDefault(require("simple-git"));
+const IPSpeed_getVpnList_1 = require("./api/IPSpeed-getVpnList");
+const OPL_getVpnList_1 = require("./api/OPL-getVpnList");
+const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
+const getIPInfo_1 = require("./api/getIPInfo");
 // --- Ajout de la fonction convertOvpnConfig ---
 function convertOvpnConfig(config) {
     const supportedCiphers = [
@@ -56,7 +56,7 @@ async function main() {
     await ensureDir(dataDir);
     await ensureDir(configsDir);
     (0, simple_git_1.default)().pull();
-    const [opl, vpngate, ipspeed] = await Promise.all([(0, OPL_getVpnList_js_1.getVpnList)(), (0, VPNGATE_getVpnList_js_1.getVpnList)(), (0, IPSpeed_getVpnList_js_1.getVpnList)()]);
+    const [opl, vpngate, ipspeed] = await Promise.all([(0, OPL_getVpnList_1.getVpnList)(), (0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
     const allServers = [
         ...opl.servers.map((s) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
@@ -80,7 +80,7 @@ async function main() {
     console.log(`Saved ${allServers.length} configs.`);
     // Lookup ISP info et sauvegarde du cache enrichi
     const allIps = allServers.map((server) => server.ip);
-    const ipInfos = await (0, getIPInfo_js_1.bulkIpLookup)(allIps);
+    const ipInfos = await (0, getIPInfo_1.bulkIpLookup)(allIps);
     // On sauvegarde un cache enrichi (ISP, pays, etc) dans data/ipCache.json
     const ipCache = {};
     ipInfos.forEach((info) => {
@@ -122,6 +122,10 @@ async function loop() {
     while (true) {
         try {
             await main();
+            process.env.GIT_AUTHOR_NAME = "openvpn-configs-bot";
+            process.env.GIT_AUTHOR_EMAIL = "openvpn-configs-bot@local";
+            process.env.GIT_COMMITTER_NAME = "openvpn-configs-bot";
+            process.env.GIT_COMMITTER_EMAIL = "openvpn-configs-bot@local";
             // Git add, commit, push
             await git.add('./*');
             const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
