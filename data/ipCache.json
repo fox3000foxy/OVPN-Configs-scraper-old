@@ -335,22 +335,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "211.104.232.96": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Suyeong-gu",
-    "zip": "482",
-    "lat": 35.1513,
-    "lon": 129.1203,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.104.232.96"
-  },
   "175.209.13.17": {
     "status": "success",
     "country": "South Korea",
@@ -703,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.127.200.40"
   },
-  "220.148.17.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0861",
-    "lat": 34.9882,
-    "lon": 138.3742,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "220.148.17.222"
-  },
   "49.251.213.94": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +702,22 @@
     "org": "JCOM",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "49.251.213.94"
+  },
+  "220.148.17.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0861",
+    "lat": 34.9882,
+    "lon": 138.3742,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "220.148.17.222"
   },
   "5.35.54.110": {
     "status": "success",
@@ -895,22 +879,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.227.143"
   },
-  "121.130.138.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "050",
-    "lat": 37.5409,
-    "lon": 127.0762,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.130.138.116"
-  },
   "121.171.190.235": {
     "status": "success",
     "country": "South Korea",
@@ -926,6 +894,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.171.190.235"
+  },
+  "121.130.138.116": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "050",
+    "lat": 37.5409,
+    "lon": 127.0762,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.130.138.116"
   },
   "59.18.235.155": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.37.82.146"
+  },
+  "133.149.208.5": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.149.208.5"
   },
   "113.11.51.162": {
     "status": "success",
