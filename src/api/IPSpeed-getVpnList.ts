@@ -37,7 +37,7 @@ export async function getVpnList(): Promise<IPSpeedServer[]> {
     const allLinks = htmls.flatMap(parsePage);
     const linksSet = new Set(allLinks);
     const linksArray = Array.from(linksSet);
-    linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
+    // linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
     linksSet.clear();
     return linksArray;
 } 

@@ -1,11 +1,11 @@
 import fs from 'fs';
-import path from 'path';
-import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList.js';
-import { getVpnList as OPL } from './api/OPL-getVpnList.js';
-import { getVpnList as IPSpeed } from './api/IPSpeed-getVpnList.js';
-import { bulkIpLookup } from './api/getIPInfo.js';
-import simpleGit from 'simple-git';
 import fetch from 'node-fetch';
+import path from 'path';
+import simpleGit from 'simple-git';
+import { getVpnList as IPSpeed } from './api/IPSpeed-getVpnList';
+import { getVpnList as OPL } from './api/OPL-getVpnList';
+import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList';
+import { bulkIpLookup } from './api/getIPInfo';
 
 // --- Ajout de la fonction convertOvpnConfig ---
 function convertOvpnConfig(config: string): string {
