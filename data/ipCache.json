@@ -319,22 +319,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.57.100"
   },
-  "126.92.53.177": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.92.53.177"
-  },
   "80.44.212.7": {
     "status": "success",
     "country": "United Kingdom",
@@ -398,6 +382,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.188.92.196"
+  },
+  "126.92.53.177": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.92.53.177"
   },
   "58.188.169.103": {
     "status": "success",
@@ -1423,22 +1423,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.19.75.66"
   },
-  "121.162.221.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.162.221.57"
-  },
   "221.150.221.190": {
     "status": "success",
     "country": "South Korea",
@@ -1566,6 +1550,22 @@
     "org": "Pubnetplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "117.111.97.46"
+  },
+  "203.251.127.225": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Geoje-si",
+    "zip": "53225",
+    "lat": 34.9,
+    "lon": 128.6667,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "203.251.127.225"
   },
   "182.8.211.33": {
     "status": "success",
