@@ -191,38 +191,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "36.13.6.150": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Honchō",
-    "zip": "335-0021",
-    "lat": 35.8103,
-    "lon": 139.6696,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.13.6.150"
-  },
-  "112.219.44.30": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.219.44.30"
-  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -831,22 +799,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
   },
-  "95.27.187.15": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "",
-    "lat": 55.7569,
-    "lon": 37.7005,
-    "timezone": "Europe/Moscow",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS8402 PJSC \"Vimpelcom\"",
-    "query": "95.27.187.15"
-  },
   "184.22.227.143": {
     "status": "success",
     "country": "Thailand",
@@ -862,6 +814,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.227.143"
+  },
+  "95.27.187.15": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "",
+    "lat": 55.7569,
+    "lon": 37.7005,
+    "timezone": "Europe/Moscow",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS8402 PJSC \"Vimpelcom\"",
+    "query": "95.27.187.15"
   },
   "59.18.235.155": {
     "status": "success",
@@ -894,22 +862,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.171.190.235"
-  },
-  "113.153.86.227": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0021",
-    "lat": 34.7595,
-    "lon": 135.5329,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.153.86.227"
   },
   "116.68.80.251": {
     "status": "success",
@@ -1263,22 +1215,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.34.150.132"
   },
-  "49.228.123.69": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10700",
-    "lat": 13.751,
-    "lon": 100.4873,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.123.69"
-  },
   "5.143.108.24": {
     "status": "success",
     "country": "Russia",
@@ -1358,6 +1294,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.66"
+  },
+  "104.28.230.245": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.230.245"
   },
   "87.103.208.169": {
     "status": "success",
@@ -1518,6 +1470,38 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.37.82.146"
+  },
+  "133.149.208.5": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.149.208.5"
+  },
+  "126.26.204.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.26.204.62"
   },
   "60.125.234.205": {
     "status": "success",
@@ -2990,6 +2974,22 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.233.28"
+  },
+  "49.228.123.69": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10700",
+    "lat": 13.751,
+    "lon": 100.4873,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.123.69"
   },
   "174.65.56.182": {
     "status": "success",
