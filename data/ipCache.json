@@ -367,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.201.195.240"
   },
-  "143.189.43.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0911",
-    "lat": 36.3502,
-    "lon": 140.4258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "143.189.43.87"
-  },
   "210.194.10.105": {
     "status": "success",
     "country": "Japan",
@@ -863,6 +847,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.134.228.229"
   },
+  "119.171.18.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Honchō",
+    "zip": "203-0051",
+    "lat": 35.7624,
+    "lon": 139.5242,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.171.18.29"
+  },
   "175.215.97.62": {
     "status": "success",
     "country": "South Korea",
@@ -1327,22 +1327,6 @@
     "as": "AS197275 Link Telecom NN Ltd.",
     "query": "176.115.147.117"
   },
-  "47.153.191.145": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Whittier",
-    "zip": "90603",
-    "lat": 33.9436,
-    "lon": -117.9957,
-    "timezone": "America/Los_Angeles",
-    "isp": "Frontier Communications Corporation",
-    "org": "Frontier Communications Solutions",
-    "as": "AS5650 Frontier Communications of America, Inc.",
-    "query": "47.153.191.145"
-  },
   "222.105.213.165": {
     "status": "success",
     "country": "South Korea",
@@ -1358,6 +1342,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.105.213.165"
+  },
+  "47.153.191.145": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Whittier",
+    "zip": "90603",
+    "lat": 33.9436,
+    "lon": -117.9957,
+    "timezone": "America/Los_Angeles",
+    "isp": "Frontier Communications Corporation",
+    "org": "Frontier Communications Solutions",
+    "as": "AS5650 Frontier Communications of America, Inc.",
+    "query": "47.153.191.145"
   },
   "182.172.122.57": {
     "status": "success",
