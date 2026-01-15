@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "115.22.171.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "472",
+    "lat": 35.1659,
+    "lon": 129.0542,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.171.164"
+  },
   "220.212.128.195": {
     "status": "success",
     "country": "Japan",
@@ -303,22 +319,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "115.78.10.208": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VIETELftth",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "115.78.10.208"
-  },
   "175.209.13.17": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +334,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.209.13.17"
+  },
+  "115.78.10.208": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELftth",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "115.78.10.208"
   },
   "58.150.189.252": {
     "status": "success",
@@ -511,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
   },
-  "112.169.150.39": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.169.150.39"
-  },
   "58.236.216.134": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +542,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.236.216.134"
+  },
+  "112.169.150.39": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.169.150.39"
   },
   "222.109.72.106": {
     "status": "success",
@@ -574,22 +590,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.143.41"
-  },
-  "118.19.79.38": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "19",
-    "regionName": "Yamanashi",
-    "city": "Kofu",
-    "zip": "400-0041",
-    "lat": 35.6574,
-    "lon": 138.5583,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "118.19.79.38"
   },
   "119.24.254.96": {
     "status": "success",
@@ -718,22 +718,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "120.51.69.68"
-  },
-  "221.49.38.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.49.38.126"
   },
   "217.29.181.61": {
     "status": "success",
@@ -975,22 +959,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.127.212.188"
   },
-  "220.76.55.170": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "052",
-    "lat": 37.5554,
-    "lon": 127.1515,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.76.55.170"
-  },
   "138.64.212.183": {
     "status": "success",
     "country": "Japan",
@@ -1055,21 +1023,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.152.230.44"
   },
-  "59.4.220.59": {
+  "220.76.55.170": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Geochang-gun",
-    "zip": "50124",
-    "lat": 35.7282,
-    "lon": 127.8989,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "052",
+    "lat": 37.5554,
+    "lon": 127.1515,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "59.4.220.59"
+    "query": "220.76.55.170"
   },
   "1.225.128.156": {
     "status": "success",
@@ -1150,22 +1118,6 @@
     "org": "Omskie kabelnye seti Ltd.",
     "as": "AS47165 Omskie kabelnye seti Ltd.",
     "query": "94.137.54.28"
-  },
-  "92.253.30.34": {
-    "status": "success",
-    "country": "Jordan",
-    "countryCode": "JO",
-    "region": "AM",
-    "regionName": "Amman Governorate",
-    "city": "Amman",
-    "zip": "",
-    "lat": 31.9555,
-    "lon": 35.9435,
-    "timezone": "Asia/Amman",
-    "isp": "Jordan Data Communications Company LLC",
-    "org": "Jordan Telecom Group",
-    "as": "AS8376 Jordan Data Communications Company LLC",
-    "query": "92.253.30.34"
   },
   "109.169.229.101": {
     "status": "success",
@@ -1470,6 +1422,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.148.121.15"
+  },
+  "92.253.30.34": {
+    "status": "success",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "region": "AM",
+    "regionName": "Amman Governorate",
+    "city": "Amman",
+    "zip": "",
+    "lat": 31.9555,
+    "lon": 35.9435,
+    "timezone": "Asia/Amman",
+    "isp": "Jordan Data Communications Company LLC",
+    "org": "Jordan Telecom Group",
+    "as": "AS8376 Jordan Data Communications Company LLC",
+    "query": "92.253.30.34"
   },
   "112.68.110.36": {
     "status": "success",
