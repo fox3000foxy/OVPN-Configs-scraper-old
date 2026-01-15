@@ -863,22 +863,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.209.98.170"
   },
-  "150.9.154.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Numbers Authority",
-    "org": "Internet Numbers Authority",
-    "as": "AS4685 Asahi Net",
-    "query": "150.9.154.11"
-  },
   "42.125.162.163": {
     "status": "success",
     "country": "Japan",
@@ -894,6 +878,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "42.125.162.163"
+  },
+  "150.9.154.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Numbers Authority",
+    "org": "Internet Numbers Authority",
+    "as": "AS4685 Asahi Net",
+    "query": "150.9.154.11"
   },
   "126.34.226.9": {
     "status": "success",
@@ -1455,22 +1455,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.64.247.153"
   },
-  "82.162.120.170": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "82.162.120.170"
-  },
   "94.245.131.69": {
     "status": "success",
     "country": "Russia",
@@ -1486,6 +1470,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.131.69"
+  },
+  "82.162.120.170": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.120.170"
   },
   "118.158.160.162": {
     "status": "success",
