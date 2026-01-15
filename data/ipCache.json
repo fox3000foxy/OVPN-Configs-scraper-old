@@ -703,22 +703,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.127.200.40"
   },
-  "49.251.213.94": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Takaminosato",
-    "zip": "580-0021",
-    "lat": 34.5712,
-    "lon": 135.5459,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "49.251.213.94"
-  },
   "220.148.17.222": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "220.148.17.222"
+  },
+  "49.251.213.94": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Takaminosato",
+    "zip": "580-0021",
+    "lat": 34.5712,
+    "lon": 135.5459,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "49.251.213.94"
   },
   "5.35.54.110": {
     "status": "success",
@@ -1375,22 +1375,6 @@
     "as": "AS13335 Cloudflare, Inc.",
     "query": "104.28.230.245"
   },
-  "87.103.208.169": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Novokuznetsk",
-    "zip": "654014",
-    "lat": 53.7575,
-    "lon": 87.136,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "Kuzbass Network",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "87.103.208.169"
-  },
   "95.104.173.104": {
     "status": "success",
     "country": "Russia",
@@ -1406,6 +1390,22 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.173.104"
+  },
+  "87.103.208.169": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Novokuznetsk",
+    "zip": "654014",
+    "lat": 53.7575,
+    "lon": 87.136,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Kuzbass Network",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "87.103.208.169"
   },
   "176.50.36.206": {
     "status": "success",
@@ -1487,6 +1487,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.232.45"
   },
+  "92.253.30.34": {
+    "status": "success",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "region": "AM",
+    "regionName": "Amman Governorate",
+    "city": "Amman",
+    "zip": "",
+    "lat": 31.9555,
+    "lon": 35.9435,
+    "timezone": "Asia/Amman",
+    "isp": "Jordan Data Communications Company LLC",
+    "org": "Jordan Telecom Group",
+    "as": "AS8376 Jordan Data Communications Company LLC",
+    "query": "92.253.30.34"
+  },
   "113.148.121.15": {
     "status": "success",
     "country": "Japan",
@@ -1534,22 +1550,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.37.82.146"
-  },
-  "133.149.208.5": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.149.208.5"
   },
   "113.11.51.162": {
     "status": "success",
