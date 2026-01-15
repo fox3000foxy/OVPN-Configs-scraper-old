@@ -191,38 +191,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "36.13.6.150": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Honchō",
-    "zip": "335-0021",
-    "lat": 35.8103,
-    "lon": 139.6696,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.13.6.150"
-  },
-  "112.219.44.30": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.219.44.30"
-  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -1566,6 +1534,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.37.234.40"
+  },
+  "180.21.114.51": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Ageo",
+    "zip": "362-0061",
+    "lat": 35.9766,
+    "lon": 139.5892,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.21.114.51"
   },
   "113.11.51.162": {
     "status": "success",
