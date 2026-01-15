@@ -799,22 +799,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
   },
-  "184.22.227.143": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.227.143"
-  },
   "95.27.187.15": {
     "status": "success",
     "country": "Russia",
@@ -830,6 +814,22 @@
     "org": "",
     "as": "AS8402 PJSC \"Vimpelcom\"",
     "query": "95.27.187.15"
+  },
+  "184.22.227.143": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.227.143"
   },
   "59.18.235.155": {
     "status": "success",
@@ -862,6 +862,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.171.190.235"
+  },
+  "113.153.86.227": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0021",
+    "lat": 34.7595,
+    "lon": 135.5329,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.153.86.227"
   },
   "116.68.80.251": {
     "status": "success",
@@ -1390,22 +1406,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.86.164"
-  },
-  "113.153.86.227": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0021",
-    "lat": 34.7595,
-    "lon": 135.5329,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.153.86.227"
   },
   "213.184.244.63": {
     "status": "success",
