@@ -175,6 +175,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.223.24.93"
   },
+  "223.132.208.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.208.135"
+  },
   "119.173.41.197": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +286,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
-  },
-  "110.15.2.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.15.2.128"
   },
   "219.100.37.102": {
     "status": "success",
@@ -623,6 +623,22 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.101.1"
   },
+  "126.79.216.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0811",
+    "lat": 36.0833,
+    "lon": 140.117,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.216.134"
+  },
   "126.124.223.156": {
     "status": "success",
     "country": "Japan",
@@ -910,6 +926,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.66.3.201"
+  },
+  "61.255.91.50": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.91.50"
   },
   "42.119.56.6": {
     "status": "success",
@@ -1534,38 +1566,6 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.117.199"
-  },
-  "133.106.33.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Ichigaya-honmurachō",
-    "zip": "102-0076",
-    "lat": 35.6944,
-    "lon": 139.729,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.33.151"
-  },
-  "95.189.230.131": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.189.230.131"
   },
   "60.225.225.4": {
     "status": "success",
