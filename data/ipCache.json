@@ -255,22 +255,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.235.144"
   },
-  "220.150.148.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0021",
-    "lat": 36.096,
-    "lon": 140.1503,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "220.150.148.16"
-  },
   "222.109.124.1": {
     "status": "success",
     "country": "South Korea",
@@ -287,21 +271,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
   },
-  "118.108.56.233": {
+  "220.150.148.16": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0021",
+    "lat": 36.096,
+    "lon": 140.1503,
     "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "118.108.56.233"
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.150.148.16"
   },
   "27.85.1.30": {
     "status": "success",
@@ -318,6 +302,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.85.1.30"
+  },
+  "118.108.56.233": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "118.108.56.233"
   },
   "113.148.186.91": {
     "status": "success",
@@ -1519,6 +1519,22 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
+  "222.117.155.147": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "18261",
+    "lat": 37.2072,
+    "lon": 126.8168,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.117.155.147"
+  },
   "210.159.189.22": {
     "status": "success",
     "country": "Japan",
@@ -1534,22 +1550,6 @@
     "org": "FreeBit Co., Ltd.",
     "as": "AS7522 STNet, Incorporated",
     "query": "210.159.189.22"
-  },
-  "118.16.164.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Yokkaichi",
-    "zip": "510-0071",
-    "lat": 34.972,
-    "lon": 136.6182,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "118.16.164.168"
   },
   "113.11.51.162": {
     "status": "success",
