@@ -138,7 +138,10 @@ async function loop() {
   while (true) {
     try {
       await main();
-
+      process.env.GIT_AUTHOR_NAME = "openvpn-configs-bot";
+      process.env.GIT_AUTHOR_EMAIL = "openvpn-configs-bot@local"
+      process.env.GIT_COMMITTER_NAME = "openvpn-configs-bot"
+      process.env.GIT_COMMITTER_EMAIL = "openvpn-configs-bot@local"
       // Git add, commit, push
       await git.add('./*');
       const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
