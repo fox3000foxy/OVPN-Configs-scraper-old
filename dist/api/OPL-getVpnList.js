@@ -1,8 +1,14 @@
-import puppeteer from "puppeteer";
-import { load } from "cheerio";
-import fetch from 'node-fetch';
-import { createRequire } from "module";
-const require = createRequire(import.meta.url);
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.getVpnList = getVpnList;
+const puppeteer_1 = __importDefault(require("puppeteer"));
+const cheerio_1 = require("cheerio");
+const node_fetch_1 = __importDefault(require("node-fetch"));
+const module_1 = require("module");
+// const require = (0, module_1.createRequire)(import.meta.url);
 const configs = require("../../configs.json");
 function sleep(ms) {
     return new Promise(res => setTimeout(res, ms));
@@ -13,7 +19,7 @@ async function getListsScriptFn() {
     await sleep(1000);
     const fetchPage = async (page) => {
         const token = await window.grecaptcha.execute(configs.oplConstants.site_key, { action: "homepage" });
-        return fetch("https://openproxylist.com/get-list.html", {
+        return (0, node_fetch_1.default)("https://openproxylist.com/get-list.html", {
             headers: {
                 "Content-Type": "application/x-www-form-urlencoded",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
@@ -43,7 +49,7 @@ const getListsScript = `
     getListsScriptFn();
 `;
 async function getVpnListHTML() {
-    const browser = await puppeteer.launch({ headless: "shell" });
+    const browser = await puppeteer_1.default.launch({ headless: "shell" });
     const page = await browser.newPage();
     // Bloquer les requêtes de pub
     await page.setRequestInterception(true);
@@ -64,7 +70,7 @@ async function getVpnListHTML() {
     return result;
 }
 function parseVpnList(html) {
-    const $ = load(html);
+    const $ = (0, cheerio_1.load)(html);
     const servers = [];
     const countries = {};
     $("tr").each((i, el) => {
@@ -89,7 +95,7 @@ function parseVpnList(html) {
     });
     return { servers, countries };
 }
-export async function getVpnList() {
+async function getVpnList() {
     try {
         console.log("Fetching VPN list HTML from OPL");
         const html = await getVpnListHTML();

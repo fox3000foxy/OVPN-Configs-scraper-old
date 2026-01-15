@@ -1,14 +1,20 @@
-import { load } from "cheerio";
-import fetch from 'node-fetch';
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.getVpnList = getVpnList;
+const cheerio_1 = require("cheerio");
+const node_fetch_1 = __importDefault(require("node-fetch"));
 const url = "https://ipspeed.info/freevpn_openvpn.php?language=en&page=";
 async function scrapPage(page) {
-    const response = await fetch(url + page);
+    const response = await (0, node_fetch_1.default)(url + page);
     if (!response.ok)
         throw new Error("Network error");
     return response.text();
 }
 function parsePage(html) {
-    const $ = load(html);
+    const $ = (0, cheerio_1.load)(html);
     const links = $("a[href$='.ovpn']");
     const ipSpeedServers = [];
     for (const link of links) {
@@ -21,13 +27,13 @@ function parsePage(html) {
     return ipSpeedServers;
 }
 const PAGE_NB = 4;
-export async function getVpnList() {
+async function getVpnList() {
     const pages = Array.from({ length: PAGE_NB }, (_, i) => i + 1);
     const htmls = await Promise.all(pages.map(page => scrapPage(page.toString())));
     const allLinks = htmls.flatMap(parsePage);
     const linksSet = new Set(allLinks);
     const linksArray = Array.from(linksSet);
-    linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
+    // linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
     linksSet.clear();
     return linksArray;
 }
