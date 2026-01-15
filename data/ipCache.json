@@ -1295,22 +1295,6 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.132.224"
   },
-  "178.34.150.132": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "STA",
-    "regionName": "Stavropol Kray",
-    "city": "Stavropol",
-    "zip": "355000",
-    "lat": 45.0424,
-    "lon": 41.9707,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom",
-    "org": "Broadband Internet Access",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.34.150.132"
-  },
   "49.228.123.69": {
     "status": "success",
     "country": "Thailand",
@@ -1566,6 +1550,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.125.234.205"
+  },
+  "126.37.234.40": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.37.234.40"
   },
   "113.11.51.162": {
     "status": "success",
