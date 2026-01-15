@@ -399,22 +399,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "203.78.160.190": {
-    "status": "success",
-    "country": "Spain",
-    "countryCode": "ES",
-    "region": "AN",
-    "regionName": "Andalusia",
-    "city": "Jaén",
-    "zip": "23009",
-    "lat": 37.7664,
-    "lon": -3.7955,
-    "timezone": "Europe/Madrid",
-    "isp": "Fibroptic CAT Telecom SL",
-    "org": "Tecnocolor",
-    "as": "AS206757 FIBROPTIC CAT TELECOM SL",
-    "query": "203.78.160.190"
-  },
   "60.120.20.164": {
     "status": "success",
     "country": "Japan",
@@ -591,6 +575,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.143.41"
   },
+  "118.19.79.38": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "19",
+    "regionName": "Yamanashi",
+    "city": "Kofu",
+    "zip": "400-0041",
+    "lat": 35.6574,
+    "lon": 138.5583,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "118.19.79.38"
+  },
   "119.24.254.96": {
     "status": "success",
     "country": "Japan",
@@ -686,22 +686,6 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "220.148.17.222"
-  },
-  "114.186.162.253": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Higashirinkan",
-    "zip": "252-0311",
-    "lat": 35.5197,
-    "lon": 139.4335,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.186.162.253"
   },
   "5.35.54.110": {
     "status": "success",
@@ -1566,6 +1550,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.125.234.205"
+  },
+  "126.37.234.40": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.37.234.40"
   },
   "113.11.51.162": {
     "status": "success",
