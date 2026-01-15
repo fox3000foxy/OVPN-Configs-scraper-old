@@ -191,6 +191,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
+  "36.13.6.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Honchō",
+    "zip": "335-0021",
+    "lat": 35.8103,
+    "lon": 139.6696,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.6.150"
+  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -1215,6 +1231,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.65.243"
   },
+  "133.106.132.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Yūtenji",
+    "zip": "153-0052",
+    "lat": 35.6379,
+    "lon": 139.693,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.132.224"
+  },
   "178.34.150.132": {
     "status": "success",
     "country": "Russia",
@@ -1230,6 +1262,22 @@
     "org": "Broadband Internet Access",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.34.150.132"
+  },
+  "49.228.123.69": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10700",
+    "lat": 13.751,
+    "lon": 100.4873,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.123.69"
   },
   "5.143.108.24": {
     "status": "success",
@@ -1359,22 +1407,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.50.36.206"
   },
-  "133.106.132.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Yūtenji",
-    "zip": "153-0052",
-    "lat": 35.6379,
-    "lon": 139.693,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.132.224"
-  },
   "80.234.77.35": {
     "status": "success",
     "country": "Russia",
@@ -1486,22 +1518,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.37.82.146"
-  },
-  "126.26.204.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.26.204.62"
   },
   "60.125.234.205": {
     "status": "success",
@@ -2974,22 +2990,6 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.233.28"
-  },
-  "49.228.123.69": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10700",
-    "lat": 13.751,
-    "lon": 100.4873,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.123.69"
   },
   "174.65.56.182": {
     "status": "success",
