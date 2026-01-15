@@ -207,22 +207,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.13.6.150"
   },
-  "112.219.44.30": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.219.44.30"
-  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -1247,6 +1231,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.65.243"
   },
+  "133.106.132.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Yūtenji",
+    "zip": "153-0052",
+    "lat": 35.6379,
+    "lon": 139.693,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.132.224"
+  },
   "178.34.150.132": {
     "status": "success",
     "country": "Russia",
@@ -1359,6 +1359,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.66"
   },
+  "104.28.230.245": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.230.245"
+  },
   "87.103.208.169": {
     "status": "success",
     "country": "Russia",
@@ -1390,22 +1406,6 @@
     "org": "Sibirtelecom Co.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.50.36.206"
-  },
-  "133.106.132.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Yūtenji",
-    "zip": "153-0052",
-    "lat": 35.6379,
-    "lon": 139.693,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.132.224"
   },
   "80.234.77.35": {
     "status": "success",
