@@ -1391,6 +1391,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.86.164"
   },
+  "113.153.86.227": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0021",
+    "lat": 34.7595,
+    "lon": 135.5329,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.153.86.227"
+  },
   "213.184.244.63": {
     "status": "success",
     "country": "Belarus",
@@ -1470,22 +1486,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.37.82.146"
-  },
-  "133.149.208.5": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.149.208.5"
   },
   "126.26.204.62": {
     "status": "success",
