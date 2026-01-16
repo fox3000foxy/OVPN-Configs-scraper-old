@@ -255,22 +255,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "183.180.154.178"
   },
-  "218.145.181.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "060",
-    "lat": 37.5245,
-    "lon": 127.0354,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.181.197"
-  },
   "36.14.133.245": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
+  },
+  "218.145.181.197": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "060",
+    "lat": 37.5245,
+    "lon": 127.0354,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.181.197"
   },
   "180.68.118.32": {
     "status": "success",
@@ -943,6 +943,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.231.146.27"
   },
+  "113.155.236.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kasugai",
+    "zip": "486-0911",
+    "lat": 35.2493,
+    "lon": 136.9596,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.236.250"
+  },
   "184.22.234.90": {
     "status": "success",
     "country": "Thailand",
@@ -974,22 +990,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.133.204.57"
-  },
-  "113.155.236.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kasugai",
-    "zip": "486-0911",
-    "lat": 35.2493,
-    "lon": 136.9596,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.236.250"
   },
   "109.120.6.149": {
     "status": "success",
@@ -1071,22 +1071,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.138.193.208"
   },
-  "211.194.240.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "412",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.194.240.41"
-  },
   "88.206.13.150": {
     "status": "success",
     "country": "Russia",
@@ -1102,6 +1086,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.13.150"
+  },
+  "211.194.240.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.194.240.41"
   },
   "222.111.19.158": {
     "status": "success",
