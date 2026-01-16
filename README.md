@@ -385,7 +385,6 @@ Or download individually:
 | 46.0.167.20 | Russia | CJSC "ER-Telecom Holding" Samara branch | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/46.0.167.20.ovpn) |
 | 176.215.29.247 | Russia | CJSC "ER-Telecom Holding" Yekaterinburg branch | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/176.215.29.247.ovpn) |
 | 78.109.130.29 | Russia | DIANET address | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/78.109.130.29.ovpn) |
-| 77.35.108.88 | Russia | Eastern Economic Forum - 2022 | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/77.35.108.88.ovpn) |
 | 5.35.54.110 | Russia | Grand Ltd | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/5.35.54.110.ovpn) |
 | 5.35.54.110 | Russia | Grand Ltd | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/5.35.54.110.ovpn) |
 | 5.35.54.110 | Russia | Grand Ltd | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/5.35.54.110.ovpn) |
@@ -473,6 +472,7 @@ Or download individually:
 | 175.215.19.145 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/175.215.19.145.ovpn) |
 | 220.88.141.12 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/220.88.141.12.ovpn) |
 | 14.42.81.37 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/14.42.81.37.ovpn) |
+| 220.82.159.177 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/220.82.159.177.ovpn) |
 | 118.37.33.91 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/118.37.33.91.ovpn) |
 | 121.185.143.11 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/121.185.143.11.ovpn) |
 | 14.52.9.17 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/14.52.9.17.ovpn) |
