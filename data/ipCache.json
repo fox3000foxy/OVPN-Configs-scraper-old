@@ -351,6 +351,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.175.174.202"
   },
+  "116.126.92.190": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.92.190"
+  },
   "112.133.180.199": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +574,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.21.67"
-  },
-  "14.132.22.67": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.22.67"
   },
   "222.100.81.225": {
     "status": "success",
@@ -1902,6 +1902,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "119.231.28.172"
+  },
+  "14.132.22.67": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.22.67"
   },
   "138.64.194.75": {
     "status": "success",
