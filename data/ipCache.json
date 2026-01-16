@@ -1055,6 +1055,22 @@
     "as": "AS7545 TPG Telecom Limited",
     "query": "220.240.112.61"
   },
+  "14.32.251.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.32.251.62"
+  },
   "121.107.70.142": {
     "status": "success",
     "country": "Japan",
@@ -1487,22 +1503,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "89.204.92.2"
   },
-  "85.15.110.119": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Vostoktelecom",
-    "org": "Vostoktelecom Telephone Company LLC",
-    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
-    "query": "85.15.110.119"
-  },
   "210.126.109.3": {
     "status": "success",
     "country": "South Korea",
@@ -1519,6 +1519,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.126.109.3"
   },
+  "85.15.110.119": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Vostoktelecom",
+    "org": "Vostoktelecom Telephone Company LLC",
+    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
+    "query": "85.15.110.119"
+  },
   "178.64.247.153": {
     "status": "success",
     "country": "Russia",
@@ -1534,22 +1550,6 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.64.247.153"
-  },
-  "94.245.131.69": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.131.69"
   },
   "219.100.37.176": {
     "status": "success",
