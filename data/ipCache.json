@@ -1167,6 +1167,22 @@
     "as": "AS55391 INTERNET MULTIFEED CO.",
     "query": "130.62.12.39"
   },
+  "220.80.120.36": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Gwangyang",
+    "zip": "577",
+    "lat": 34.949,
+    "lon": 127.6994,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Jeonnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.80.120.36"
+  },
   "221.163.229.60": {
     "status": "success",
     "country": "South Korea",
@@ -1391,22 +1407,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.98.39.143"
   },
-  "59.8.251.200": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.8.251.200"
-  },
   "61.73.24.214": {
     "status": "success",
     "country": "South Korea",
@@ -1439,6 +1439,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.137.152.126"
   },
+  "59.8.251.200": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anseong",
+    "zip": "175",
+    "lat": 37.0138,
+    "lon": 127.2698,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.8.251.200"
+  },
   "118.219.21.191": {
     "status": "success",
     "country": "South Korea",
@@ -1470,22 +1486,6 @@
     "org": "jusighwyeusakeiti",
     "as": "AS4766 Korea Telecom",
     "query": "218.148.114.42"
-  },
-  "121.138.184.67": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.138.184.67"
   },
   "76.69.228.15": {
     "status": "success",
