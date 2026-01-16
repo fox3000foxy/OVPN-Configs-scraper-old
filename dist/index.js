@@ -136,7 +136,7 @@ async function loop() {
         catch (e) {
             console.error('Erreur dans main ou git:', e);
         }
-        await new Promise(res => setTimeout(res, 60000)); // 1 minute
+        await new Promise(res => setTimeout(res, 60000 * 10)); // 1 minute
     }
 }
 loop();
