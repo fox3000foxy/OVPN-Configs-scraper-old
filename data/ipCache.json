@@ -655,22 +655,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.149.221.10"
   },
-  "125.55.110.221": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "289-2605",
-    "lat": 35.6896,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "125.55.110.221"
-  },
   "182.170.87.159": {
     "status": "success",
     "country": "Japan",
@@ -702,6 +686,22 @@
     "org": "Telezon",
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
+  },
+  "125.55.110.221": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "289-2605",
+    "lat": 35.6896,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "125.55.110.221"
   },
   "68.149.154.94": {
     "status": "success",
@@ -1055,22 +1055,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.201.240"
   },
-  "125.138.193.208": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Yesan",
-    "zip": "324",
-    "lat": 36.6781,
-    "lon": 126.6946,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.138.193.208"
-  },
   "88.206.13.150": {
     "status": "success",
     "country": "Russia",
@@ -1086,6 +1070,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.13.150"
+  },
+  "125.138.193.208": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Yesan",
+    "zip": "324",
+    "lat": 36.6781,
+    "lon": 126.6946,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.138.193.208"
   },
   "211.194.240.41": {
     "status": "success",
