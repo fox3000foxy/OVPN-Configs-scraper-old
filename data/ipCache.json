@@ -175,22 +175,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "173.80.88.246": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WV",
-    "regionName": "West Virginia",
-    "city": "Parkersburg",
-    "zip": "26104",
-    "lat": 39.2804,
-    "lon": -81.4936,
-    "timezone": "America/New_York",
-    "isp": "Suddenlink Communications",
-    "org": "Optimum",
-    "as": "AS19108 Optimum",
-    "query": "173.80.88.246"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
+  },
+  "173.80.88.246": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV",
+    "regionName": "West Virginia",
+    "city": "Parkersburg",
+    "zip": "26104",
+    "lat": 39.2804,
+    "lon": -81.4936,
+    "timezone": "America/New_York",
+    "isp": "Suddenlink Communications",
+    "org": "Optimum",
+    "as": "AS19108 Optimum",
+    "query": "173.80.88.246"
   },
   "66.42.62.241": {
     "status": "success",
@@ -927,22 +927,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.84.162.134"
   },
-  "76.69.228.15": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "QC",
-    "regionName": "Quebec",
-    "city": "Montreal",
-    "zip": "H3C",
-    "lat": 45.4978,
-    "lon": -73.5485,
-    "timezone": "America/Toronto",
-    "isp": "Bell Canada",
-    "org": "Sympatico HSE",
-    "as": "AS577 Bell Canada",
-    "query": "76.69.228.15"
-  },
   "171.4.240.215": {
     "status": "success",
     "country": "Thailand",
@@ -958,6 +942,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.240.215"
+  },
+  "76.69.228.15": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "QC",
+    "regionName": "Quebec",
+    "city": "Montreal",
+    "zip": "H3C",
+    "lat": 45.4978,
+    "lon": -73.5485,
+    "timezone": "America/Toronto",
+    "isp": "Bell Canada",
+    "org": "Sympatico HSE",
+    "as": "AS577 Bell Canada",
+    "query": "76.69.228.15"
   },
   "138.64.69.170": {
     "status": "success",
@@ -1519,22 +1519,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.189.74.135"
   },
-  "153.208.126.152": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.208.126.152"
-  },
   "77.106.5.46": {
     "status": "success",
     "country": "Russia",
@@ -1550,6 +1534,22 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
+  },
+  "153.208.126.152": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.208.126.152"
   },
   "186.13.209.137": {
     "status": "success",
