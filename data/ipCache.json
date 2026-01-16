@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "68.173.74.87": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "NY",
-    "regionName": "New York",
-    "city": "Brooklyn",
-    "zip": "11231",
-    "lat": 40.6799,
-    "lon": -74.0028,
-    "timezone": "America/New_York",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS12271 Charter Communications Inc",
-    "query": "68.173.74.87"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -207,21 +191,21 @@
     "as": "AS19108 Optimum",
     "query": "173.80.88.246"
   },
-  "66.42.62.241": {
+  "68.173.74.87": {
     "status": "success",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "region": "05",
-    "regionName": "South West",
-    "city": "Singapore",
-    "zip": "627753",
-    "lat": 1.32123,
-    "lon": 103.695,
-    "timezone": "Asia/Singapore",
-    "isp": "SGP VULTR",
-    "org": "",
-    "as": "AS20473 The Constant Company, LLC",
-    "query": "66.42.62.241"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY",
+    "regionName": "New York",
+    "city": "Brooklyn",
+    "zip": "11231",
+    "lat": 40.6799,
+    "lon": -74.0028,
+    "timezone": "America/New_York",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS12271 Charter Communications Inc",
+    "query": "68.173.74.87"
   },
   "118.104.168.55": {
     "status": "success",
@@ -1262,6 +1246,22 @@
     "org": "JSC \"ER-Telecom Holding\" Yekaterinburg Branch",
     "as": "AS51604 JSC ER-Telecom Holding",
     "query": "176.215.29.247"
+  },
+  "39.122.182.187": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Yeonsu-gu",
+    "zip": "219",
+    "lat": 37.3736,
+    "lon": 126.6555,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.122.182.187"
   },
   "220.88.141.12": {
     "status": "success",
