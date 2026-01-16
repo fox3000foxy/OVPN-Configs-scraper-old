@@ -959,22 +959,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.231.146.27"
   },
-  "113.155.236.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kasugai",
-    "zip": "486-0911",
-    "lat": 35.2493,
-    "lon": 136.9596,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.236.250"
-  },
   "60.133.204.57": {
     "status": "success",
     "country": "Japan",
@@ -990,6 +974,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.133.204.57"
+  },
+  "113.155.236.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kasugai",
+    "zip": "486-0911",
+    "lat": 35.2493,
+    "lon": 136.9596,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.236.250"
   },
   "118.240.118.77": {
     "status": "success",
@@ -1007,22 +1007,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.118.77"
   },
-  "14.37.223.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "100",
-    "lat": 37.7542,
-    "lon": 126.557,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.37.223.205"
-  },
   "60.73.48.68": {
     "status": "success",
     "country": "Japan",
@@ -1038,6 +1022,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.48.68"
+  },
+  "14.37.223.205": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gimpo-si",
+    "zip": "100",
+    "lat": 37.7542,
+    "lon": 126.557,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.37.223.205"
   },
   "126.217.201.240": {
     "status": "success",
