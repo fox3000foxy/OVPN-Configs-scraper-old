@@ -639,6 +639,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.121.114"
   },
+  "126.219.0.177": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.219.0.177"
+  },
   "220.102.233.254": {
     "status": "success",
     "country": "Japan",
@@ -942,22 +958,6 @@
     "org": "KT Corporation",
     "as": "AS4766 Korea Telecom",
     "query": "220.84.162.134"
-  },
-  "189.189.140.192": {
-    "status": "success",
-    "country": "Mexico",
-    "countryCode": "MX",
-    "region": "MEX",
-    "regionName": "México",
-    "city": "Ecatepec",
-    "zip": "55080",
-    "lat": 19.5734,
-    "lon": -99.0443,
-    "timezone": "America/Mexico_City",
-    "isp": "UNINET",
-    "org": "Gestión de direccionamiento UniNet",
-    "as": "AS8151 UNINET",
-    "query": "189.189.140.192"
   },
   "76.69.228.15": {
     "status": "success",
@@ -1503,22 +1503,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.126.109.3"
   },
-  "77.35.108.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690014",
-    "lat": 43.1236,
-    "lon": 131.888,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Eastern Economic Forum - 2022",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.108.88"
-  },
   "95.189.74.135": {
     "status": "success",
     "country": "Russia",
@@ -1550,6 +1534,22 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
+  },
+  "42.119.98.240": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.98.240"
   },
   "186.13.209.137": {
     "status": "success",
