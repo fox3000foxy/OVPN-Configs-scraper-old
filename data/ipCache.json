@@ -511,6 +511,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "125.9.108.163"
   },
+  "85.91.103.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "",
+    "lat": 55.8024,
+    "lon": 37.5637,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Nauka-Svyaz\"",
+    "org": "Nauka-Svyaz",
+    "as": "AS8641 BACKBONE AS of Nauka-Svyaz",
+    "query": "85.91.103.2"
+  },
   "131.147.59.94": {
     "status": "success",
     "country": "Japan",
@@ -1535,22 +1551,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.120.170"
   },
-  "118.158.160.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0831",
-    "lat": 35.5315,
-    "lon": 139.7259,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "118.158.160.162"
-  },
   "219.100.37.176": {
     "status": "success",
     "country": "Japan",
@@ -2222,6 +2222,22 @@
     "org": "Internet Multifeed CO.",
     "as": "AS55391 INTERNET MULTIFEED CO.",
     "query": "217.178.134.23"
+  },
+  "118.158.160.162": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0831",
+    "lat": 35.5315,
+    "lon": 139.7259,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.158.160.162"
   },
   "195.208.140.149": {
     "status": "success",
