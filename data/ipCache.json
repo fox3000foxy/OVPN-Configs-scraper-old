@@ -863,22 +863,6 @@
     "as": "AS4685 Asahi Net",
     "query": "150.9.154.11"
   },
-  "42.125.162.163": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fuji",
-    "zip": "417-0051",
-    "lat": 35.1673,
-    "lon": 138.686,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.125.162.163"
-  },
   "112.171.237.202": {
     "status": "success",
     "country": "South Korea",
@@ -894,6 +878,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "112.171.237.202"
+  },
+  "42.125.162.163": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Fuji",
+    "zip": "417-0051",
+    "lat": 35.1673,
+    "lon": 138.686,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "42.125.162.163"
   },
   "221.45.33.197": {
     "status": "success",
