@@ -479,22 +479,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.210.10.148"
   },
-  "112.170.21.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.21.41"
-  },
   "126.206.11.243": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
+  },
+  "112.170.21.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.170.21.41"
   },
   "61.47.212.110": {
     "status": "success",
@@ -1007,22 +1007,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.69.170"
   },
-  "219.99.243.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Anjo",
-    "zip": "446-0041",
-    "lat": 34.9596,
-    "lon": 137.0783,
-    "timezone": "Asia/Tokyo",
-    "isp": "KATCH Network Inc.",
-    "org": "KATCH",
-    "as": "AS59108 KATCH NETWORK INC.",
-    "query": "219.99.243.172"
-  },
   "118.0.154.38": {
     "status": "success",
     "country": "Japan",
@@ -1503,22 +1487,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.126.109.3"
   },
-  "77.35.108.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690014",
-    "lat": 43.1236,
-    "lon": 131.888,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Eastern Economic Forum - 2022",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.108.88"
-  },
   "95.189.74.135": {
     "status": "success",
     "country": "Russia",
@@ -1550,6 +1518,38 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
+  },
+  "42.119.98.240": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.98.240"
+  },
+  "219.99.243.172": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Anjo",
+    "zip": "446-0041",
+    "lat": 34.9596,
+    "lon": 137.0783,
+    "timezone": "Asia/Tokyo",
+    "isp": "KATCH Network Inc.",
+    "org": "KATCH",
+    "as": "AS59108 KATCH NETWORK INC.",
+    "query": "219.99.243.172"
   },
   "186.13.209.137": {
     "status": "success",
