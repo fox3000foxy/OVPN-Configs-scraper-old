@@ -1055,22 +1055,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "118.0.154.38"
   },
-  "180.94.254.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Takaoka",
-    "zip": "933-0031",
-    "lat": 36.7467,
-    "lon": 137.022,
-    "timezone": "Asia/Tokyo",
-    "isp": "Tonami System Solutions Co., Ltd.",
-    "org": "TONAMI Transportation Co., Ltd.",
-    "as": "AS18282 Tonami System Solutions Co., Ltd.",
-    "query": "180.94.254.30"
-  },
   "180.57.59.204": {
     "status": "success",
     "country": "Japan",
@@ -1086,6 +1070,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.59.204"
+  },
+  "180.94.254.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Takaoka",
+    "zip": "933-0031",
+    "lat": 36.7467,
+    "lon": 137.022,
+    "timezone": "Asia/Tokyo",
+    "isp": "Tonami System Solutions Co., Ltd.",
+    "org": "TONAMI Transportation Co., Ltd.",
+    "as": "AS18282 Tonami System Solutions Co., Ltd.",
+    "query": "180.94.254.30"
   },
   "126.224.84.232": {
     "status": "success",
