@@ -815,22 +815,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
   },
-  "114.19.144.13": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "114.19.144.13"
-  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -846,6 +830,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
+  },
+  "118.83.245.23": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamata",
+    "zip": "157-0077",
+    "lat": 35.6229,
+    "lon": 139.6131,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.83.245.23"
   },
   "61.78.191.45": {
     "status": "success",
@@ -2046,22 +2046,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.74.4.19"
-  },
-  "118.83.245.23": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kamata",
-    "zip": "157-0077",
-    "lat": 35.6229,
-    "lon": 139.6131,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.83.245.23"
   },
   "114.161.222.125": {
     "status": "success",
