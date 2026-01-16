@@ -1279,22 +1279,6 @@
     "as": "AS51604 JSC ER-Telecom Holding",
     "query": "176.215.29.247"
   },
-  "220.82.159.177": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Suncheon-si",
-    "zip": "57922",
-    "lat": 34.9716,
-    "lon": 127.461,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.82.159.177"
-  },
   "91.132.22.148": {
     "status": "success",
     "country": "Russia",
@@ -1550,6 +1534,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.108.88"
+  },
+  "77.106.5.46": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VLG",
+    "regionName": "Vologda Oblast",
+    "city": "Vologda",
+    "zip": "160033",
+    "lat": 59.2181,
+    "lon": 39.8978,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom region North-West",
+    "org": "Rostelecom networks",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.106.5.46"
   },
   "186.13.209.137": {
     "status": "success",
@@ -2670,22 +2670,6 @@
     "org": "Far East Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.100.254"
-  },
-  "77.106.5.46": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "VLG",
-    "regionName": "Vologda Oblast",
-    "city": "Vologda",
-    "zip": "160033",
-    "lat": 59.2181,
-    "lon": 39.8978,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom region North-West",
-    "org": "Rostelecom networks",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.106.5.46"
   },
   "218.145.181.197": {
     "status": "success",
