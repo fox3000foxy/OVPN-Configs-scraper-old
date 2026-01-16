@@ -719,22 +719,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
   },
-  "60.149.114.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.149.114.11"
-  },
   "219.63.29.44": {
     "status": "success",
     "country": "Japan",
@@ -766,6 +750,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
+  },
+  "60.149.114.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.149.114.11"
   },
   "60.95.76.42": {
     "status": "success",
@@ -1135,6 +1135,22 @@
     "as": "AS38673 Korea Cable TV Kwangju Broadcasting",
     "query": "111.91.155.140"
   },
+  "1.52.69.237": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "",
+    "regionName": "Ho Chi Minh City (HCMC)",
+    "city": "Lái Thiêu",
+    "zip": "",
+    "lat": 10.9051,
+    "lon": 106.699,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.52.69.237"
+  },
   "176.215.29.247": {
     "status": "success",
     "country": "Russia",
@@ -1166,22 +1182,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.215.19.145"
-  },
-  "1.52.69.237": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "",
-    "regionName": "Ho Chi Minh City (HCMC)",
-    "city": "Lái Thiêu",
-    "zip": "",
-    "lat": 10.9051,
-    "lon": 106.699,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.69.237"
   },
   "222.239.206.46": {
     "status": "success",
