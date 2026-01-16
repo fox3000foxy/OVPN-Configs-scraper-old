@@ -287,22 +287,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.85.1.30"
   },
-  "222.109.124.1": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "026",
-    "lat": 37.5655,
-    "lon": 127.0753,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.124.1"
-  },
   "138.64.235.144": {
     "status": "success",
     "country": "Japan",
@@ -318,6 +302,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.235.144"
+  },
+  "222.109.124.1": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.124.1"
   },
   "118.108.56.233": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.120.234.117"
+  },
+  "86.102.21.67": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Ussuriysk",
+    "zip": "692500",
+    "lat": 43.8008,
+    "lon": 131.9459,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.21.67"
   },
   "14.132.22.67": {
     "status": "success",
@@ -1118,22 +1134,6 @@
     "org": "Kwangju Cable Television",
     "as": "AS38673 Korea Cable TV Kwangju Broadcasting",
     "query": "111.91.155.140"
-  },
-  "14.33.171.227": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.33.171.227"
   },
   "1.52.69.237": {
     "status": "success",
