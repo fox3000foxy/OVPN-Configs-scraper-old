@@ -383,6 +383,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
+  "182.169.54.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
+  },
   "119.235.113.226": {
     "status": "success",
     "country": "Turkmenistan",
@@ -526,22 +542,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
-  },
-  "182.169.54.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
   },
   "117.55.152.142": {
     "status": "success",
@@ -735,6 +735,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
   },
+  "122.211.144.105": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Itochu Cable Systems Corp.",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.211.144.105"
+  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -799,22 +815,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.78.191.45"
   },
-  "153.205.145.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0011",
-    "lat": 35.7949,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.205.145.174"
-  },
   "126.34.226.9": {
     "status": "success",
     "country": "Japan",
@@ -847,22 +847,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "124.38.138.146"
   },
-  "150.9.154.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Numbers Authority",
-    "org": "Internet Numbers Authority",
-    "as": "AS4685 Asahi Net",
-    "query": "150.9.154.11"
-  },
   "221.45.33.197": {
     "status": "success",
     "country": "Japan",
@@ -878,6 +862,22 @@
     "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.33.197"
+  },
+  "150.9.154.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Numbers Authority",
+    "org": "Internet Numbers Authority",
+    "as": "AS4685 Asahi Net",
+    "query": "150.9.154.11"
   },
   "112.171.237.202": {
     "status": "success",
