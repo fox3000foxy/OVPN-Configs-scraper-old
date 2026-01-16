@@ -287,22 +287,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.235.144"
   },
-  "27.85.1.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
-  },
   "118.108.56.233": {
     "status": "success",
     "country": "Japan",
@@ -318,6 +302,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.108.56.233"
+  },
+  "27.85.1.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.85.1.30"
   },
   "113.148.186.91": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "125.9.108.163"
-  },
-  "85.91.103.2": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "",
-    "lat": 55.8024,
-    "lon": 37.5637,
-    "timezone": "Europe/Moscow",
-    "isp": "LLC \"Nauka-Svyaz\"",
-    "org": "Nauka-Svyaz",
-    "as": "AS8641 BACKBONE AS of Nauka-Svyaz",
-    "query": "85.91.103.2"
   },
   "131.147.59.94": {
     "status": "success",
@@ -1007,22 +991,6 @@
     "as": "AS8151 UNINET",
     "query": "189.189.140.192"
   },
-  "123.48.136.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "430-0921",
-    "lat": 34.699,
-    "lon": 137.7337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.48.136.169"
-  },
   "220.84.162.134": {
     "status": "success",
     "country": "South Korea",
@@ -1038,6 +1006,22 @@
     "org": "KT Corporation",
     "as": "AS4766 Korea Telecom",
     "query": "220.84.162.134"
+  },
+  "123.48.136.169": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Hamamatsu",
+    "zip": "430-0921",
+    "lat": 34.699,
+    "lon": 137.7337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.48.136.169"
   },
   "220.240.112.61": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.131.69"
+  },
+  "82.162.120.170": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.120.170"
   },
   "219.100.37.176": {
     "status": "success",
