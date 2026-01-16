@@ -1119,6 +1119,22 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.13.150"
   },
+  "42.146.135.174": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Asagayakita",
+    "zip": "166-0001",
+    "lat": 35.7094,
+    "lon": 139.6381,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "42.146.135.174"
+  },
   "39.111.254.14": {
     "status": "success",
     "country": "Japan",
@@ -1470,22 +1486,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.136.158.119"
-  },
-  "118.37.239.34": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "21554",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.37.239.34"
   },
   "76.69.228.15": {
     "status": "success",
@@ -2350,22 +2350,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.171.18.29"
-  },
-  "42.146.135.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Asagayakita",
-    "zip": "166-0001",
-    "lat": 35.7094,
-    "lon": 139.6381,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "42.146.135.174"
   },
   "178.187.224.129": {
     "status": "success",
