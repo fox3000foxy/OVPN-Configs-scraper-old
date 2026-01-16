@@ -255,21 +255,21 @@
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
   },
-  "27.85.1.30": {
+  "222.109.124.1": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.124.1"
   },
   "138.64.235.144": {
     "status": "success",
@@ -287,21 +287,21 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.235.144"
   },
-  "222.109.124.1": {
+  "27.85.1.30": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "026",
-    "lat": 37.5655,
-    "lon": 127.0753,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.124.1"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.85.1.30"
   },
   "118.108.56.233": {
     "status": "success",
