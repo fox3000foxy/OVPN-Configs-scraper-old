@@ -63,22 +63,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.82"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
+  },
+  "219.100.37.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.82"
   },
   "219.100.37.126": {
     "status": "success",
@@ -687,22 +687,6 @@
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
   },
-  "68.149.154.94": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "AB",
-    "regionName": "Alberta",
-    "city": "Edmonton",
-    "zip": "T6W",
-    "lat": 53.4179,
-    "lon": -113.5785,
-    "timezone": "America/Edmonton",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc.",
-    "as": "AS6327 Shaw Communications",
-    "query": "68.149.154.94"
-  },
   "49.228.119.102": {
     "status": "success",
     "country": "Thailand",
@@ -750,6 +734,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.95.216"
+  },
+  "68.149.154.94": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "AB",
+    "regionName": "Alberta",
+    "city": "Edmonton",
+    "zip": "T6W",
+    "lat": 53.4179,
+    "lon": -113.5785,
+    "timezone": "America/Edmonton",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications",
+    "query": "68.149.154.94"
   },
   "93.100.140.41": {
     "status": "success",
@@ -879,37 +879,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.208.142.95"
   },
-  "59.138.72.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.72.73"
-  },
-  "49.228.236.78": {
+  "184.22.102.171": {
     "status": "success",
     "country": "Thailand",
     "countryCode": "TH",
     "region": "10",
     "regionName": "Bangkok",
     "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
+    "zip": "10600",
+    "lat": 13.733,
+    "lon": 100.4865,
     "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
+    "isp": "AIS-Fibre",
     "org": "",
     "as": "AS133481 AIS Fibre",
-    "query": "49.228.236.78"
+    "query": "184.22.102.171"
   },
   "133.32.235.217": {
     "status": "success",
@@ -927,21 +911,21 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.235.217"
   },
-  "184.22.102.171": {
+  "49.228.236.78": {
     "status": "success",
     "country": "Thailand",
     "countryCode": "TH",
     "region": "10",
     "regionName": "Bangkok",
     "city": "Bangkok",
-    "zip": "10600",
-    "lat": 13.733,
-    "lon": 100.4865,
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
     "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
+    "isp": "Advanced Wireless Network Company Limited",
     "org": "",
     "as": "AS133481 AIS Fibre",
-    "query": "184.22.102.171"
+    "query": "49.228.236.78"
   },
   "153.231.146.27": {
     "status": "success",
@@ -1119,6 +1103,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.194.240.41"
   },
+  "39.111.254.14": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0831",
+    "lat": 35.5315,
+    "lon": 139.7259,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.254.14"
+  },
   "222.111.19.158": {
     "status": "success",
     "country": "South Korea",
@@ -1150,22 +1150,6 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
-  },
-  "39.111.254.14": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0831",
-    "lat": 35.5315,
-    "lon": 139.7259,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.254.14"
   },
   "116.123.228.25": {
     "status": "success",
@@ -1343,22 +1327,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.106.173.87"
   },
-  "1.224.195.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "152",
-    "lat": 37.3231,
-    "lon": 126.8412,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.224.195.110"
-  },
   "38.25.18.6": {
     "status": "success",
     "country": "Peru",
@@ -1407,6 +1375,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.98.39.143"
   },
+  "61.73.24.214": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seodaemun-gu",
+    "zip": "037",
+    "lat": 37.5551,
+    "lon": 126.9369,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.73.24.214"
+  },
   "218.148.114.42": {
     "status": "success",
     "country": "South Korea",
@@ -1439,22 +1423,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.8.251.200"
   },
-  "61.73.24.214": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.73.24.214"
-  },
   "125.137.152.126": {
     "status": "success",
     "country": "South Korea",
@@ -1470,6 +1438,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.137.152.126"
+  },
+  "118.219.21.191": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.219.21.191"
   },
   "76.69.228.15": {
     "status": "success",
