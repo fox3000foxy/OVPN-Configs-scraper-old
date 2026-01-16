@@ -1039,22 +1039,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.37.223.205"
   },
-  "126.217.201.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.201.240"
-  },
   "109.120.6.149": {
     "status": "success",
     "country": "Russia",
@@ -1071,6 +1055,22 @@
     "as": "AS47165 Omskie kabelnye seti Ltd.",
     "query": "109.120.6.149"
   },
+  "126.217.201.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.201.240"
+  },
   "222.111.19.158": {
     "status": "success",
     "country": "South Korea",
@@ -1086,6 +1086,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.111.19.158"
+  },
+  "88.206.13.150": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "88.206.13.150"
   },
   "211.194.240.41": {
     "status": "success",
@@ -1118,22 +1134,6 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
-  },
-  "88.206.13.150": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "88.206.13.150"
   },
   "39.111.254.14": {
     "status": "success",
