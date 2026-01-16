@@ -959,22 +959,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "113.155.236.250"
   },
-  "118.240.118.77": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Toride",
-    "zip": "302-0021",
-    "lat": 35.9108,
-    "lon": 140.0639,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "General placeholder reference all addresses",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.118.77"
-  },
   "14.37.223.205": {
     "status": "success",
     "country": "South Korea",
@@ -1359,22 +1343,6 @@
     "as": "AS265691 WI-NET TELECOM S.A.C.",
     "query": "38.25.18.6"
   },
-  "183.106.173.87": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Yeongdeok-gun",
-    "zip": "364",
-    "lat": 36.4169,
-    "lon": 129.3729,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.106.173.87"
-  },
   "14.35.34.55": {
     "status": "success",
     "country": "South Korea",
@@ -1390,6 +1358,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.35.34.55"
+  },
+  "183.106.173.87": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Yeongdeok-gun",
+    "zip": "364",
+    "lat": 36.4169,
+    "lon": 129.3729,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.106.173.87"
   },
   "183.98.39.143": {
     "status": "success",
@@ -1486,6 +1470,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.138.184.67"
+  },
+  "121.136.158.119": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "170",
+    "lat": 37.2728,
+    "lon": 127.1118,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.136.158.119"
   },
   "76.69.228.15": {
     "status": "success",
