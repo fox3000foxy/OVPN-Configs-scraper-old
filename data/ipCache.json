@@ -703,22 +703,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
   },
-  "178.163.69.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "445008",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "Infoline networks",
-    "org": "Infoline Ltd.",
-    "as": "AS8416 InfoLada Ltd",
-    "query": "178.163.69.1"
-  },
   "218.115.121.212": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "218.115.121.212"
+  },
+  "178.163.69.1": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "445008",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "Infoline networks",
+    "org": "Infoline Ltd.",
+    "as": "AS8416 InfoLada Ltd",
+    "query": "178.163.69.1"
   },
   "160.86.46.9": {
     "status": "success",
