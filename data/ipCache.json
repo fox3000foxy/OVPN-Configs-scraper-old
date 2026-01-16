@@ -351,6 +351,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.126.92.190"
   },
+  "112.133.180.199": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Hampyeong-gun",
+    "zip": "571",
+    "lat": 35.0611,
+    "lon": 126.5147,
+    "timezone": "Asia/Seoul",
+    "isp": "CMB Kwangju Broadcasting",
+    "org": "CMB Kwangju Broadcasting",
+    "as": "AS10054 CMB Kwangju Broadcasting",
+    "query": "112.133.180.199"
+  },
   "95.154.89.139": {
     "status": "success",
     "country": "Russia",
@@ -639,22 +655,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.121.114"
   },
-  "126.219.0.177": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.219.0.177"
-  },
   "220.102.233.254": {
     "status": "success",
     "country": "Japan",
@@ -750,22 +750,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
-  },
-  "172.103.241.126": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Burnaby",
-    "zip": "V5H",
-    "lat": 49.2292,
-    "lon": -122.9932,
-    "timezone": "America/Vancouver",
-    "isp": "Cipherkey Exchange Corp.",
-    "org": "Cipherkey Exchange Corp",
-    "as": "AS25668 Cipherkey Exchange Corp.",
-    "query": "172.103.241.126"
   },
   "60.95.76.42": {
     "status": "success",
@@ -1087,22 +1071,6 @@
     "as": "AS18282 Tonami System Solutions Co., Ltd.",
     "query": "180.94.254.30"
   },
-  "126.224.84.232": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.224.84.232"
-  },
   "211.197.202.37": {
     "status": "success",
     "country": "South Korea",
@@ -1118,6 +1086,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.197.202.37"
+  },
+  "126.224.84.232": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.224.84.232"
   },
   "61.24.93.129": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
+  },
+  "42.119.98.240": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.98.240"
   },
   "186.13.209.137": {
     "status": "success",
