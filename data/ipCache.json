@@ -703,22 +703,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
   },
-  "178.163.69.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "445008",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "Infoline networks",
-    "org": "Infoline Ltd.",
-    "as": "AS8416 InfoLada Ltd",
-    "query": "178.163.69.1"
-  },
   "218.115.121.212": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "218.115.121.212"
+  },
+  "178.163.69.1": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "445008",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "Infoline networks",
+    "org": "Infoline Ltd.",
+    "as": "AS8416 InfoLada Ltd",
+    "query": "178.163.69.1"
   },
   "160.86.46.9": {
     "status": "success",
@@ -1343,6 +1343,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.109.173.96"
   },
+  "221.145.64.185": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "016",
+    "lat": 37.6576,
+    "lon": 127.072,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.145.64.185"
+  },
   "210.182.153.244": {
     "status": "success",
     "country": "South Korea",
@@ -1534,22 +1550,6 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.64.247.153"
-  },
-  "94.245.131.69": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.131.69"
   },
   "219.100.37.176": {
     "status": "success",
