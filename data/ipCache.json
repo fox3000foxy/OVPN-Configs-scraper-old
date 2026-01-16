@@ -991,22 +991,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.240.215"
   },
-  "219.99.243.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Anjo",
-    "zip": "446-0041",
-    "lat": 34.9596,
-    "lon": 137.0783,
-    "timezone": "Asia/Tokyo",
-    "isp": "KATCH Network Inc.",
-    "org": "KATCH",
-    "as": "AS59108 KATCH NETWORK INC.",
-    "query": "219.99.243.172"
-  },
   "138.64.69.170": {
     "status": "success",
     "country": "Japan",
@@ -1519,6 +1503,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
   },
+  "153.208.126.152": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.208.126.152"
+  },
   "42.119.98.240": {
     "status": "success",
     "country": "Vietnam",
@@ -1550,22 +1550,6 @@
     "org": "Open Data Network",
     "as": "AS4725 SoftBank Corp.",
     "query": "61.201.59.176"
-  },
-  "153.208.126.152": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.208.126.152"
   },
   "186.13.209.137": {
     "status": "success",
