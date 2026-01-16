@@ -255,22 +255,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
-  "220.150.148.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0021",
-    "lat": 36.096,
-    "lon": 140.1503,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "220.150.148.16"
-  },
   "138.64.235.144": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "CMB Kwangju Broadcasting",
     "as": "AS10054 CMB Kwangju Broadcasting",
     "query": "112.133.180.199"
+  },
+  "95.154.89.139": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "OCTOPUSNET-SUBSCRIBERS",
+    "org": "",
+    "as": "AS44724 Octopusnet LTD",
+    "query": "95.154.89.139"
   },
   "219.100.37.102": {
     "status": "success",
@@ -511,6 +511,22 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.152.142"
   },
+  "182.169.54.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
+  },
   "169.211.139.99": {
     "status": "success",
     "country": "South Korea",
@@ -607,6 +623,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.175.159.86"
   },
+  "220.102.233.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Nagareyama",
+    "zip": "270-0151",
+    "lat": 35.8566,
+    "lon": 139.9185,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "220.102.233.254"
+  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -686,22 +718,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
-  },
-  "219.63.29.44": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "42",
-    "regionName": "Nagasaki",
-    "city": "Sasebo",
-    "zip": "857-0854",
-    "lat": 33.1683,
-    "lon": 129.725,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "219.63.29.44"
   },
   "109.62.237.30": {
     "status": "success",
@@ -831,22 +847,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.205.145.174"
   },
-  "153.209.98.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Fujisawa",
-    "zip": "251-0051",
-    "lat": 35.3553,
-    "lon": 139.4824,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.209.98.170"
-  },
   "150.9.154.11": {
     "status": "success",
     "country": "Japan",
@@ -862,6 +862,22 @@
     "org": "Internet Numbers Authority",
     "as": "AS4685 Asahi Net",
     "query": "150.9.154.11"
+  },
+  "153.209.98.170": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Fujisawa",
+    "zip": "251-0051",
+    "lat": 35.3553,
+    "lon": 139.4824,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.209.98.170"
   },
   "42.125.162.163": {
     "status": "success",
@@ -1263,22 +1279,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.11.85.210"
   },
-  "77.79.147.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "77.79.147.117"
-  },
   "91.132.22.148": {
     "status": "success",
     "country": "Russia",
@@ -1294,6 +1294,22 @@
     "org": "Netname",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
+  },
+  "77.79.147.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "BA",
+    "regionName": "Bashkortostan Republic",
+    "city": "Ufa",
+    "zip": "450000",
+    "lat": 54.7431,
+    "lon": 55.9678,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS24955 JSC Ufanet",
+    "query": "77.79.147.117"
   },
   "183.109.173.96": {
     "status": "success",
@@ -1470,22 +1486,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.126.109.3"
-  },
-  "85.15.110.119": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Vostoktelecom",
-    "org": "Vostoktelecom Telephone Company LLC",
-    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
-    "query": "85.15.110.119"
   },
   "77.106.5.46": {
     "status": "success",
