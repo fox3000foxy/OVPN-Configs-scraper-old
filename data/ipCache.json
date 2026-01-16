@@ -1119,22 +1119,6 @@
     "as": "AS38673 Korea Cable TV Kwangju Broadcasting",
     "query": "111.91.155.140"
   },
-  "49.228.96.39": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10120",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.96.39"
-  },
   "203.179.135.26": {
     "status": "success",
     "country": "Japan",
@@ -1150,6 +1134,22 @@
     "org": "",
     "as": "AS23624 Chukai Television Co,.Ltd.",
     "query": "203.179.135.26"
+  },
+  "49.228.96.39": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10120",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.96.39"
   },
   "116.254.38.69": {
     "status": "success",
