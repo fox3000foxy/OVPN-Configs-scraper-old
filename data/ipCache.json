@@ -1327,6 +1327,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.106.173.87"
   },
+  "1.224.195.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "152",
+    "lat": 37.3231,
+    "lon": 126.8412,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.224.195.110"
+  },
   "118.32.175.76": {
     "status": "success",
     "country": "South Korea",
@@ -1358,38 +1374,6 @@
     "org": "WI-NET Telecom SAC",
     "as": "AS265691 WI-NET TELECOM S.A.C.",
     "query": "38.25.18.6"
-  },
-  "1.224.195.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "152",
-    "lat": 37.3231,
-    "lon": 126.8412,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.224.195.110"
-  },
-  "14.35.34.55": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.35.34.55"
   },
   "183.98.39.143": {
     "status": "success",
@@ -1486,6 +1470,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.219.21.191"
+  },
+  "118.71.89.19": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.89.19"
   },
   "76.69.228.15": {
     "status": "success",
