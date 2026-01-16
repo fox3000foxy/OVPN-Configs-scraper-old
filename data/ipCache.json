@@ -911,22 +911,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.236.78"
   },
-  "184.22.102.171": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10600",
-    "lat": 13.733,
-    "lon": 100.4865,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.102.171"
-  },
   "133.32.235.217": {
     "status": "success",
     "country": "Japan",
@@ -1071,22 +1055,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.201.240"
   },
-  "125.138.193.208": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Yesan",
-    "zip": "324",
-    "lat": 36.6781,
-    "lon": 126.6946,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.138.193.208"
-  },
   "88.206.13.150": {
     "status": "success",
     "country": "Russia",
@@ -1102,6 +1070,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.13.150"
+  },
+  "125.138.193.208": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Yesan",
+    "zip": "324",
+    "lat": 36.6781,
+    "lon": 126.6946,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.138.193.208"
   },
   "211.194.240.41": {
     "status": "success",
@@ -1486,6 +1470,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.219.21.191"
+  },
+  "218.148.114.42": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Bucheon-si",
+    "zip": "144",
+    "lat": 37.5188,
+    "lon": 126.8126,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "jusighwyeusakeiti",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.114.42"
   },
   "76.69.228.15": {
     "status": "success",
