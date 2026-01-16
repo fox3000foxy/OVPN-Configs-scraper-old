@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "219.100.37.208": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.208"
-  },
   "68.8.191.131": {
     "status": "success",
     "country": "United States",
@@ -174,6 +158,22 @@
     "org": "Cox Communications Inc.",
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
+  },
+  "219.100.37.208": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.208"
   },
   "173.80.88.246": {
     "status": "success",
@@ -895,22 +895,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "124.38.138.146"
   },
-  "42.125.162.163": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fuji",
-    "zip": "417-0051",
-    "lat": 35.1673,
-    "lon": 138.686,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.125.162.163"
-  },
   "221.45.33.197": {
     "status": "success",
     "country": "Japan",
@@ -926,6 +910,22 @@
     "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.33.197"
+  },
+  "42.125.162.163": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Fuji",
+    "zip": "417-0051",
+    "lat": 35.1673,
+    "lon": 138.686,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "42.125.162.163"
   },
   "112.171.237.202": {
     "status": "success",
@@ -1006,22 +1006,6 @@
     "org": "Sympatico HSE",
     "as": "AS577 Bell Canada",
     "query": "76.69.228.15"
-  },
-  "219.99.243.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Anjo",
-    "zip": "446-0041",
-    "lat": 34.9596,
-    "lon": 137.0783,
-    "timezone": "Asia/Tokyo",
-    "isp": "KATCH Network Inc.",
-    "org": "KATCH",
-    "as": "AS59108 KATCH NETWORK INC.",
-    "query": "219.99.243.172"
   },
   "138.64.69.170": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.5.46"
+  },
+  "95.189.74.135": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ZAB",
+    "regionName": "Transbaikal Territory",
+    "city": "Chita",
+    "zip": "672000",
+    "lat": 52.0339,
+    "lon": 113.5014,
+    "timezone": "Asia/Chita",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.189.74.135"
   },
   "186.13.209.137": {
     "status": "success",
