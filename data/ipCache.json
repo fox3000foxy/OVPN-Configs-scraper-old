@@ -495,22 +495,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
   },
-  "112.170.21.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.21.41"
-  },
   "61.47.212.110": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "TBROAD SaeromNamdongSeohae",
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
+  },
+  "112.170.21.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.170.21.41"
   },
   "182.169.54.9": {
     "status": "success",
@@ -975,22 +975,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.69.170"
   },
-  "219.99.243.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Anjo",
-    "zip": "446-0041",
-    "lat": 34.9596,
-    "lon": 137.0783,
-    "timezone": "Asia/Tokyo",
-    "isp": "KATCH Network Inc.",
-    "org": "KATCH",
-    "as": "AS59108 KATCH NETWORK INC.",
-    "query": "219.99.243.172"
-  },
   "125.203.42.173": {
     "status": "success",
     "country": "Japan",
@@ -1006,6 +990,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "125.203.42.173"
+  },
+  "219.99.243.172": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Anjo",
+    "zip": "446-0041",
+    "lat": 34.9596,
+    "lon": 137.0783,
+    "timezone": "Asia/Tokyo",
+    "isp": "KATCH Network Inc.",
+    "org": "KATCH",
+    "as": "AS59108 KATCH NETWORK INC.",
+    "query": "219.99.243.172"
   },
   "118.0.154.38": {
     "status": "success",
@@ -1103,6 +1103,22 @@
     "as": "AS38673 Korea Cable TV Kwangju Broadcasting",
     "query": "111.91.155.140"
   },
+  "14.47.60.103": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.47.60.103"
+  },
   "49.228.96.39": {
     "status": "success",
     "country": "Thailand",
@@ -1182,6 +1198,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.215.19.145"
+  },
+  "220.88.141.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.88.141.12"
   },
   "118.37.33.91": {
     "status": "success",
@@ -1471,22 +1503,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.40.99.201"
   },
-  "14.47.60.103": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "166",
-    "lat": 37.2506,
-    "lon": 127.0668,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.47.60.103"
-  },
   "77.35.108.88": {
     "status": "success",
     "country": "Russia",
@@ -1534,22 +1550,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.208.126.152"
-  },
-  "77.106.5.46": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "VLG",
-    "regionName": "Vologda Oblast",
-    "city": "Vologda",
-    "zip": "160033",
-    "lat": 59.2181,
-    "lon": 39.8978,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom region North-West",
-    "org": "Rostelecom networks",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.106.5.46"
   },
   "186.13.209.137": {
     "status": "success",
